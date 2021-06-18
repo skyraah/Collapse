@@ -1,0 +1,17 @@
+$ cat .gitignore
+#Whitelist
+/*
+config/splash.properties
+config/jei/worldSettings.cfg
+**/output
+
+#Folders
+!/config/
+!/patchouli_books
+!/resources
+!/scripts
+!/structures
+
+#Files
+!/.gitignore
+!/README.md
