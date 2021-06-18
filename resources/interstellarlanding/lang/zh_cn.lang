@@ -1,0 +1,6 @@
+##text
+text.failure.info.0=你用力不足，没有把燧石砸碎，燧石脱手而出
+text.failure.info.1=你用力过猛，把燧石砸了个粉碎
+text.failure.info.2=你用力不足，没有把燧石砸碎
+
+text.success.info=你成功砸碎了燧石
