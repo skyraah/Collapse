@@ -1,4 +1,4 @@
-#norun
+
 recipes.addShapeless("nether_recipe",<minecraft:netherrack>,
 [<ore:cobblestone>,<ore:cobblestone>,<ore:cobblestone>],
     function (out,ins,info) { 

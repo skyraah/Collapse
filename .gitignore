@@ -11,6 +11,9 @@ config/jei/worldSettings.cfg
 !/resources
 !/scripts
 !/structures
+!/journeymap/config/
+!/journeymap/server/
+!/journeymap/icon/
 
 #Files
 !/.gitignore
