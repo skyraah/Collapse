@@ -4,6 +4,7 @@ $ cat .gitignore
 config/splash.properties
 config/jei/worldSettings.cfg
 **/output
+journeymap/data
 
 #Folders
 !/config/
@@ -11,10 +12,9 @@ config/jei/worldSettings.cfg
 !/resources
 !/scripts
 !/structures
-!/journeymap/config/
-!/journeymap/server/
-!/journeymap/icon/
+!/journeymap
 
 #Files
 !/.gitignore
 !/README.md
+*.log
