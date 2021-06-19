@@ -1,0 +1,14 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+sgcraft:tokra
+roots:druid
+matteroverdrive:mad_scientist
+bewitchment:hedge_witch
+bewitchment:alchemist
+forestry:arborist
+forestry:apiarist
+endreborn:explorer
