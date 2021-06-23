@@ -1,15 +1,15 @@
 {
   "default": {
-    "Awareness Radius": 64,
-    "Xray Distance": 64,
+    "Awareness Radius": 32,
+    "Xray Distance": 8,
     "Attack Everything": false,
     "Attack Pets": true,
     "Attack Villagers": true,
     "Neutral Mob": false,
     "Strafe Evade": true,
     "Animal Retaliate": true,
-    "Ranged Atk Dist": 64,
-    "Ranged Atk Error": 0,
+    "Ranged Atk Dist": 48,
+    "Ranged Atk Error": 3,
     "Arrow Tips": [
       "minecraft:slowness:60:0"
     ],
@@ -55,16 +55,16 @@
       "minecraft:fence",
       "minecraft:planks"
     ],
-    "Demolition": 0.1,
-    "Spider Webbing": 25.0,
+    "Demolition": 0,
+    "Spider Webbing": 15.0,
     "Ender-Tele-Target": true,
     "Infectious": false,
     "Wither Skeletons": 0.1,
-    "Jockey": 0.1,
+    "Jockey": 0,
     "Powered": 0.1,
-    "Walking Fuse": true,
-    "Napalm": true,
-    "Breaching": true,
+    "Walking Fuse": false,
+    "Napalm": false,
+    "Breaching": false,
     "Cena": 0.01,
     "Health": 1.0,
     "Damage": 1.0,
@@ -81,14 +81,14 @@
       "Spider Webbing": 0.25
     },
     "minecraft:zombie": {
-      "Digging": true,
-      "Griefing": true,
+      "Digging": false,
+      "Griefing": false,
       "Demolition": 0.1,
-      "Pillaring": true,
+      "Pillaring": false,
       "Infectious": true
     },
     "minecraft:cave_spider": {
-      "Spider Webbing": 0.25
+      "Spider Webbing": 0.15
     }
   }
 }

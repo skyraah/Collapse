@@ -1,0 +1,2653 @@
+
+#PARSE_ESCAPES
+#Ability names with descriptions used in Offering item descriptions
+ability.balance.name=势不可挡
+ability.balance.desc=获得非常短却效果极强的速度,力量和抗性提升效果.
+ability.balance_2.name=势不可挡 II
+ability.balance_3.name=势不可挡 III
+ability.balance_m.name=势不可挡 M
+ability.blitz.name=突进
+ability.blitz.desc=获得短暂但强力的速度效果.
+ability.blitz_2.name=突进 II
+ability.blitz_3.name=突进 III
+ability.blitz_m.name=突进 M
+ability.bubble.name=泡泡屏障
+ability.bubble.desc=获得短暂但效果极强的抗性提升效果.
+ability.bubble_2.name=泡泡屏障 II
+ability.bubble_3.name=泡泡屏障 III
+ability.bubble_m.name=泡泡屏障 M
+ability.burst.name=震怒
+ability.burst.desc=获得短暂但效果极强的力量效果.
+ability.burst_2.name=震怒 II
+ability.burst_3.name=震怒 III
+ability.burst_m.name=震怒 M
+ability.striker.name=炮手
+ability.striker.desc=向目标发射一枚强力的炮弹.
+ability.striker_2.name=炮手 II
+ability.striker_3.name=炮手 III
+ability.striker_m.name=炮手 M
+ability.kinetic_blast.name=弹幕轰炸
+ability.kinetic_blast.desc=向目标发射多枚炮弹.
+ability.kinetic_blast_2.name=弹幕轰炸 II
+ability.kinetic_blast_3.name=弹幕轰炸 III
+ability.kinetic_blast_m.name=弹幕轰炸 M
+ability.bloom_barrage.name=寄生炮弹
+ability.bloom_barrage.desc=发射多枚炮弹，对目标造成伤害同时回复自身血量.
+ability.bloom_barrage_2.name=寄生炮弹 II
+ability.bloom_barrage_3.name=寄生炮弹 III
+ability.bloom_barrage_m.name=寄生炮弹 M
+ability.piercing_slices.name=穿刺飞弹
+ability.piercing_slices.desc=发射多枚炮弹，无视目标护甲.
+ability.piercing_slices_2.name=穿刺飞弹 II
+ability.piercing_slices_3.name=穿刺飞弹 III
+ability.piercing_slices_m.name=穿刺飞弹 M
+ability.blood_moon.name=血月
+ability.blood_moon.desc=获得长时间的力量和速度效果.
+ability.blood_moon_2.name=血月 II
+ability.blood_moon_3.name=血月 III
+ability.blood_moon_m.name=血月 M
+ability.howling.name=咆哮
+ability.howling.desc=获得短暂但强力的速度效果.
+ability.howling_2.name=咆哮 II
+ability.howling_3.name=咆哮 III
+ability.howling_m.name=咆哮 M
+ability.bloodlust.name=嗜血
+ability.bloodlust.desc=获得短暂但强力的力量效果.
+ability.bloodlust_2.name=嗜血 II
+ability.bloodlust_3.name=嗜血 III
+ability.bloodlust_m.name=嗜血 M
+ability.moonglow.name=月光术
+ability.moonglow.desc=获得长时间的生命恢复效果.
+ability.moonglow_2.name=月光术 II
+ability.moonglow_3.name=月光术 III
+ability.moonglow_m.name=月光术 M
+ability.moonshroud.name=月光守护
+ability.moonshroud.desc=获得长时间的抗性提升效果.
+ability.moonshroud_2.name=月光守护 II
+ability.moonshroud_3.name=月光守护 III
+ability.moonshroud_m.name=月光守护 M
+ability.inferno.name=炎域
+ability.inferno.desc=用魔法之焰焚毁附近所有敌人.
+ability.inferno_2.name=炎域 II
+ability.inferno_3.name=炎域 III
+ability.inferno_m.name=炎域 M
+ability.flamethrower.name=火球术
+ability.flamethrower.desc=连续发送魔法火球.
+ability.flamethrower_2.name=火球术 II
+ability.flamethrower_3.name=火球术 III
+ability.flamethrower_m.name=火球术 M
+ability.flare.name=爆炸艺术
+ability.flare.desc=立即产生一次魔法爆炸，对附近的敌人造成沉重的伤害.
+ability.flare_2.name=爆炸艺术 II
+ability.flare_3.name=爆炸艺术 III
+ability.flare_m.name=爆炸艺术 M
+ability.flamewalker.name=炼狱行者
+ability.flamewalker.desc=当你在着火或者在火中时,获得力量,生命恢复和抗性提升效果.
+ability.flamewalker_2.name=炼狱行者 II
+ability.flamewalker_3.name=炼狱行者 III
+ability.flamewalker_m.name=炼狱行者 M
+ability.life.name=自然馈赠
+ability.life.desc=立即恢复大量血量.
+ability.life_2.name=自然馈赠 II
+ability.life_3.name=自然馈赠 III
+ability.life_m.name=自然馈赠 M
+ability.drain.name=生命汲取
+ability.drain.desc=立即从附近的怪物中抽取生命并恢复血量.
+ability.drain_2.name=生命汲取 II
+ability.drain_3.name=生命汲取 III
+ability.drain_m.name=生命汲取 M
+ability.pain_share.name=痛苦分担
+ability.pain_share.desc=将你所承担的伤害分摊给附近的怪物.
+ability.pain_share_2.name=痛苦分担 II
+ability.pain_share_3.name=痛苦分担 III
+ability.pain_share_m.name=痛苦分担 M
+ability.martyr.name=怨念
+ability.martyr.desc=对自己造成伤害，对着周围的敌人造成大量伤害
+ability.martyr_2.name=怨念 II
+ability.martyr_3.name=怨念 III
+ability.martyr_m.name=怨念 M
+ability.siphon.name=血契
+ability.siphon.desc=Leeches health from the nearest mob over time after activation.
+ability.siphon_2.name=血契 II
+ability.siphon_3.name=血契 III
+ability.siphon_m.name=血契 M
+ability.golems.name=魔偶护卫
+ability.golems.desc=Spawn a group of Golems to fight for you.
+ability.golems_2.name=魔偶护卫 II
+ability.golems_3.name=魔偶护卫 III
+ability.golems_m.name=魔偶护卫 M
+ability.minor_golems.name=魔偶军团
+ability.minor_golems.desc=Spawn a larger group of smaller, faster Golems to fight for you.
+ability.minor_golems_2.name=魔偶军团 II
+ability.minor_golems_3.name=魔偶军团 III
+ability.minor_golems_m.name=魔偶军团 M
+ability.major_golem.name=巨人魔偶
+ability.major_golem.desc=Spawn a large Golem to fight you.
+ability.major_golem_2.name=巨人魔偶 II
+ability.major_golem_3.name=巨人魔偶 III
+ability.major_golem_m.name=巨人魔偶 M
+ability.taunt_golem.name=沙包魔偶
+ability.taunt_golem.desc=Spawn a single, fortified Golem to distract enemies for you.
+ability.taunt_golem_2.name=沙包魔偶 II
+ability.taunt_golem_3.name=沙包魔偶 III
+ability.taunt_golem_m.name=沙包魔偶 M
+
+
+#Ability localizations in certain item descriptions
+ability.cost=消耗
+ability.cooldown=冷却
+ability.name=神力
+ability.names=能力
+ability.light=感知
+ability.blessing=祝福
+
+#Ability localizations in notification text and certain item descriptions
+achromy.name=艾克洛米
+achromy.light=感知
+achromy.cooldown=冷却
+achromy.influence=立场
+achromy.influences=立场
+achromy.enlightened=你的感知能力升级！艾克洛米能力得到提升.你可以使用更强的能力了！
+achromy.corruption=你被腐蚀了. 恢复你的艾克洛米来摆脱腐蚀吧！
+achromy.withdrawal=你正遭受戒断反应. 降低你的艾克洛米或者尝试获取腐蚀能力吧！
+achromy.pity=神灵怜悯你！但作为代价，你的感知能力降低了.
+achromy.abilitylevel=你更加适应使用神力了！
+
+#HUD localizations
+achromy.hud.cooldown=冷却中...
+achromy.hud.abilityactive=艾克洛米!
+achromy.hud.activate=按下 %%s 使用技能！
+achromy.hud.cost=消耗
+achromy.hud.cool=冷却
+achromy.hud.light=感知
+achromy.hud.hint.hint=迹象
+achromy.hud.hint.stronger=该道具需要更多的魔力进行升级.
+achromy.hud.hint.catalyst=该道具需要一个不同的催化剂进行升级.
+achromy.hud.hint.sacrifice=该道具需要一个不同的祭品进行升级.
+achromy.hud.hint.influence=该道具需要处于 %%s 进行升级.
+achromy.hud.hint.hits=该道具已为祭品升级准备好了.
+achromy.hud.hint.ready=该道具已可进行完整升级了！
+achromy.hud.hint.ascension=该武器可以升阶了！
+achromy.hud.hint.canascend=该武器可升阶...
+achromy.hud.hint.ascensionresource=该道具需要一个不同的素材进行升级.
+
+#Ability notification texts
+ability.requirement=你需要提高感知能力
+ability.activate=你使用了 %%s！
+ability.finish=%%s 效果结束了.
+ability.failure=你现在无法使用 %%s！
+ability.failure.config=目前的设置下无法启用 %%s ！
+ability.failure.cooldown=%%s 还在冷却中!
+ability.failure.active=你太贪心了！一次只能使用一个技能！
+ability.failure.state=你还没有准备好使用技能！
+ability.failure.mastery=不要尝试使用高于你感知的技能 %%s！
+ability.failure.cost=你的艾克洛米能量不足以使用 %%s！
+ability.failure.conditions=现在还不是使用 %%s 的时候！
+
+#Achromy command localization
+achromy.command.usage=/achromy <playername> <action or subcategory> <value, resource name or sub-action> <sub-action value or resource name>
+
+#Influence localizations
+achromy.lawful_good=守序善良
+achromy.lawful_neutral=守序中立
+achromy.lawful_evil=守序邪恶
+achromy.neutral_good=中立善良
+achromy.true_neutral=绝对中立
+achromy.neutral_evil=中立邪恶
+achromy.chaotic_good=混乱善良
+achromy.chaotic_neutral=混乱中立
+achromy.chaotic_evil=混乱邪恶
+achromy.unaligned=无阵营
+achromy.lawful=守序
+achromy.chaotic=混乱
+achromy.good=善良
+achromy.evil=邪恶
+
+#Additional Tooltip info
+archetype.name=种类
+archetype.dagger.name=匕首
+archetype.knuckles.name=虎指
+archetype.katana.name=武士刀
+archetype.staff.name=棍棒
+archetype.scythe.name=镰刀
+archetype.sword.name=剑
+archetype.hammer.name=锤子
+archetype.shield.name=盾
+archetype.gun.name=枪
+archetype.bow.name=弓
+archetype.multitool.name=多功能工具
+archetype.unknown.name=未知
+archetype.hookshot.name=抓钩
+archetype.instrument.name=乐器
+archetype.riposte.name=还击
+
+tier.name=阶段
+tier.merokite_0.name=梅洛卡 0
+tier.merokite_1.name=梅洛卡 1
+tier.merokite_2.name=梅洛卡 2
+tier.merokite_3.name=梅洛卡 3
+tier.merokite_4.name=梅洛卡 4
+tier.merokite_5.name=梅洛卡 5
+tier.scyllica_0.name=赛丽卡 0
+tier.scyllica_1.name=赛丽卡 1
+tier.scyllica_2.name=赛丽卡 2
+tier.scyllica_3.name=赛丽卡 3
+tier.unknown.name=未知
+
+#Item description localizations
+item.desc.fullarmor=Full Set
+item.desc.offeringuse=Right-click to set this as your active Blessing. Influence this Offering to change it to a different Ability.
+item.desc.artifactuse=Only one instance of a Perk can be active at once. Influence this artifact to change it into a different Perk.
+item.desc.destination=Destination
+item.desc.yes=确认
+item.desc.no=取消
+item.desc.cantravel=可以去旅行吗？
+item.desc.achromaporteruse=Teleports all players within 4 blocks of user and requires a certain level of Achromy infusion to make the jump. It does not need to be replenished each use. This "soulbinds" on player death and stays with them on respawn.
+item.desc.gun.empty=空
+item.desc.gun.full=满
+item.desc.scrolluse=Feats must be applied to an armor piece or weapon and then must be equipped for the Feat to become active.
+
+#Perk localizations for item descriptions
+perk.name=附魔
+
+perk.patience.name=耐心
+perk.patience.desc=脱离战斗强化下次攻击Staying out of combat grants a stacking damage buff on your next hit. Getting attacked will reset it.
+perk.comeback.name=忍耐
+perk.comeback.desc=受到伤害强化下一次攻击Getting attacked grants a stacking damage buff for your next hit. Staying out of combat too long will reduce it.
+perk.relentless.name=不屈
+perk.relentless.desc=受到伤害得到伤害BUFFStaying in combat by getting attacked and attacking grants a stacking damage buff for your attacks. Staying out of combat too long will reduce it.
+perk.awareness.name=清醒
+perk.awareness.desc=脱离战斗免疫下次攻击Staying out of combat grants a stacking buff that allows you to completely evade non-magic, non-piercing damage. Attacking will reset the buff.
+perk.impart.name=细语
+perk.impart.desc=攻击敌人传播负面状态Attacking an enemy while under a negative effect will partially apply the effect on the target. This perk has a cooldown.
+perk.replenish.name=抗争
+perk.replenish.desc=攻击敌人减少负面状态影响Attacking an enemy while under a negative effect will reduce it's effectiveness. This perk has a cooldown.
+perk.toxic_transfer.name=毒蚀
+perk.toxic_transfer.desc=受到毒伤害恢复生命Getting inflicted with poison will replace the effect with regeneration. This perk has a cooldown.
+perk.wither_transfer.name=堕落
+perk.wither_transfer.desc=凋零状态转化为生命恢复Getting inflicted with wither will replace the effect with regeneration. This perk has a cooldown.
+perk.ignorance.name=逃避
+perk.ignorance.desc=被攻击速度提升Getting attacked grants you a speed boost. This perk has a cooldown.
+perk.aggression.name=好胜
+perk.aggression.desc=被攻击伤害提升Getting attacked grants you a damage boost. This perk has a cooldown.
+perk.defiance.name=敏锐/霸体/坚韧
+perk.defiance.desc=被攻击获得免疫BUFFGetting attacked grants a resistance buff. This perk has a cooldown.
+perk.leniance.name=慈悲
+perk.leniance.desc=被攻击恢复生命Getting attacked grants a regeneration buff. This perk has a cooldown.
+
+perk.feat_light.name=澄光随行
+perk.feat_light.desc=与光随行，你将获得移速加成以及韧性效果。
+perk.feat_chosen.name=英勇抉择
+perk.feat_chosen.desc=如果你的生命值大于你的最大生命值的一半，你会获得额外护甲以及韧性效果。
+perk.feat_dark.name=暗影缠身
+perk.feat_dark.desc=暗影缠绕于你，你会获得额外护甲以及击退抗性
+perk.feat_logical.name=精密思考
+perk.feat_logical.desc=如果你的Achromy值为偶数，你在被攻击时会获得伤害减免。
+perk.feat_diligent.name=致命节奏
+perk.feat_diligent.desc=如果你在战斗中的攻击速度加快，y那么你将会获得一个攻击增伤的累积效果。这一效果会随着持续时间he
+perk.feat_chaotic.name=混沌侵蚀
+perk.feat_chaotic.desc=If you attack successively in a short time, your attacks gain additional magic damage. Getting attacked interrupts the bonus.
+perk.feat_seed.name=生生不息
+perk.feat_seed.desc=If you are in withdrawal or are taking corruption damage, your attacks do more damage.
+perk.feat_noble.name=高贵之蔑
+perk.feat_noble.desc=If you attack a creature with less health than you or less max health than your max health, you cause increased damage to them.
+perk.feat_deranged.name=Feat of the Deranged
+perk.feat_deranged.desc=If you have multiple mobs near you, you gain increased armor
+perk.feat_deceitful.name=诡秘欺诈
+perk.feat_deceitful.desc=If raw damage you take is an odd value, you take reduced damage from the hit.
+perk.feat_reaper.name=死亡收割
+perk.feat_reaper.desc=Inflict Bleed on targets and cause extra damage to targets that are already bleeding.
+
+#Trait localizations for ItemStack prefixes
+trait.none=None
+trait.decent=Decent
+trait.solid=Solid
+trait.great=Great
+
+trait.sharp=Sharp
+trait.hardy=Hardy
+trait.agile=Agile
+trait.lengthy=Lengthy
+trait.impactful=Impactful
+trait.rapid=Rapid
+trait.condensed=Condensed
+trait.extended=Extended
+
+trait.stopping=Stopping
+trait.suppressing=Suppressing
+trait.quick=Quick
+trait.weighted=Weighted
+trait.pinpoint=Pinpoint
+trait.extra=Extra
+trait.hosing=Hosing
+trait.stable=Stable
+trait.drilling=Drilling
+trait.strangling=Strangling
+trait.maverick=Maverick
+trait.tactical=Tactical
+trait.marine=Marine
+trait.bursting=Bursting
+trait.spraying=Spraying
+trait.lasering=Lasering
+
+trait.durable=Durable
+trait.angled=Angled
+trait.dense=Dense
+trait.impenetrable=Impenetrable
+
+trait.tough=Tough
+trait.hard=Hard
+trait.flexible=Flexible
+trait.everlasting=Everlasting
+trait.reinforced=Reinforced
+trait.threaded=Threaded
+
+#Creative tab names
+itemGroup.tragicmc.items=悲惨世界 - 战斗
+itemGroup.tragicmc.other=悲惨世界 - 其他
+itemGroup.tragicmc.blocks=悲惨世界 - 方块
+itemGroup.tragicmc.mobs=悲惨世界 - 生物
+
+#Keybinding names in the Controls menu
+keybinding.tragicmc.use_ability=技能使用
+keybinding.tragicmc.reload=强制装弹
+
+#Attribute names for Item description text
+attribute.name.tragicmc.attackRange=近战范围
+attribute.name.tragicmc.jumpHeight=跳跃高度
+attribute.name.tragicmc.bulletDamage=子弹伤害
+attribute.name.tragicmc.bulletDropoff=伤害减小范围
+attribute.name.tragicmc.fireRate=射速
+attribute.name.tragicmc.accuracy=精密度
+attribute.name.tragicmc.reloadSpeed=装弹速度
+attribute.name.tragicmc.ammoSize=弹匣尺寸
+attribute.name.tragicmc.burstSize=Burst Size
+attribute.name.tragicmc.recoil=后座力控制
+attribute.name.tragicmc.deflection=偏转程度
+attribute.name.tragicmc.cleaving=Cleaving
+attribute.name.tragicmc.durability=耐用性
+attribute.name.tragicmc.enchantability=可附魔性
+attribute.name.tragicmc.rarity=稀有度
+enchant.tooltip=附魔
+
+#Death message text for custom damage sources
+death.attack.bleed=%1$s 被抽血而死!
+death.attack.water=%1$s 融化在水中!
+death.attack.corruption=%1$s 因腐化而死was consumed by corruption!
+death.attack.suffocation=%1$s 被%2$s抽去了肺中的氧气had the air removed from their lungs by %2$s!
+death.attack.laser=%1$s 被%2$s蒸发了was vaporized by %2$s!
+death.attack.reflection=%1$s 死于%2$s反弹回的伤害died from damage reflected back at them by %2$s!
+death.attack.freeze=%1$s 被%2$s冻死了was frostbitten by %2$s!
+death.attack.shooting=%1$s 被%2$s狙杀was sniped by %2$s!
+death.attack.shock=%1$s 被电解了became electric!
+death.attack.shocking=%1$s 被%2$s电死was electrocuted by %2$s!
+death.attack.thaw=%1$s 被强行解冻了was thawed out forcefully!
+death.attack.sickness=%1$s 无疾而终wasn't down with the sickness!
+death.attack.carbonite=%1$s 被碳酸盐包裹而死was encased in carbonite!
+death.attack.regulator=%1$s was regulated!
+death.attack.enyvil_eye=%1$s was murdered by getting stabbed in their magical eye by %2$s?
+death.attack.piercing=%1$s was pierced to their very soul by %2$s!
+death.attack.null_burn=%1$s 被打死了was nulled to death!
+
+#Enchantment names
+enchantment.tragicmc.decay=腐烂
+enchantment.tragicmc.hunter=狩猎者
+enchantment.tragicmc.vampirism=吸血鬼
+enchantment.tragicmc.leech=水蛭
+enchantment.tragicmc.toxins=Toxins
+enchantment.tragicmc.withering=Withering
+enchantment.tragicmc.fiery_skin=Fiery Skin
+enchantment.tragicmc.runic_edge=Runic Edge
+enchantment.tragicmc.deflection=Deflection
+enchantment.tragicmc.absolve=Absolve
+enchantment.tragicmc.deep_cut=Deep Cut
+enchantment.tragicmc.collective_aura=Collective Aura
+enchantment.tragicmc.perforate=Perforate
+enchantment.tragicmc.rust=Rust
+enchantment.tragicmc.killer=Killer
+enchantment.tragicmc.exterminate=Exterminate
+enchantment.tragicmc.runic_ward=Runic Ward
+enchantment.tragicmc.layered=Layered
+enchantment.tragicmc.unyielding=Unyielding
+enchantment.tragicmc.reinforced=Reinforced
+enchantment.tragicmc.placeholder=Potential Possibility
+
+#Custom Potion Effect names
+effect.tragicmc.disorientation=迷失方向
+effect.tragicmc.impending_doom=厄运将至
+effect.tragicmc.stun=昏迷
+effect.tragicmc.cripple=削弱
+effect.tragicmc.malnourish=营养不良
+effect.tragicmc.lead_foot=Lead Foot
+effect.tragicmc.submission=恭顺
+effect.tragicmc.inhibit=抑制
+effect.tragicmc.infection=感染
+effect.tragicmc.safeguard=保护
+effect.tragicmc.revel=Revel
+effect.tragicmc.expose=暴露
+effect.tragicmc.bleed=流血
+effect.tragicmc.muted=沉默
+effect.tragicmc.negation=Negation
+effect.tragicmc.exasperate=激怒
+effect.tragicmc.consumption=Consumption
+effect.tragicmc.evil_presence=Evil Presence
+effect.tragicmc.locked_on=盯上
+effect.tragicmc.hunted=狩猎
+effect.tragicmc.burning=燃烧
+effect.tragicmc.frozen=冻伤
+effect.tragicmc.lockdown=锁定
+effect.tragicmc.immune_suppression=免疫抑制
+effect.tragicmc.gorgons_gaze=美杜莎的凝视
+effect.tragicmc.pariahs_rebellion=Pariah's Rebellion
+effect.tragicmc.black_magic=Black Magic
+effect.tragicmc.faith=信仰
+effect.tragicmc.destinys_charge=命运的电荷
+effect.tragicmc.antivirus=Antivirus
+effect.tragicmc.corruption=腐败
+effect.tragicmc.teleport_sickness=Teleport Sickness
+effect.tragicmc.rot=Rot
+effect.tragicmc.null_burn=筋疲力尽
+effect.tragicmc.death_gaze=死亡凝视
+effect.tragicmc.curse=诅咒
+effect.tragicmc.wither_rot=枯萎
+effect.tragicmc.chimeric_discharge=Chimeric Discharge
+effect.tragicmc.analogous_exchange=Analogous Exchange
+
+#Mob and projectile names
+entity.tragicmc.jabba.name=贾巴
+entity.tragicmc.janna.name=贾纳
+entity.tragicmc.jarra.name=贾拉
+entity.tragicmc.plague.name=瘟疫
+entity.tragicmc.angel.name=天使
+entity.tragicmc.gragul.name=Gragul
+entity.tragicmc.kragul.name=Kragul
+entity.tragicmc.minotaur.name=Minotaur
+entity.tragicmc.shadowling.name=Shadowling
+entity.tragicmc.aggro.name=Aggro
+entity.tragicmc.pumpkinhead.name=Pumpkinhead
+entity.tragicmc.tox.name=Tox
+entity.tragicmc.pox.name=Pox
+entity.tragicmc.magmox.name=Magmox
+entity.tragicmc.cryse.name=Cryse
+entity.tragicmc.crystal_cryse.name=Crystal Cryse
+entity.tragicmc.thryse.name=Thryse
+entity.tragicmc.nashi_te.name=Nashi-te
+entity.tragicmc.crystal_nashi_te.name=Crystal Nashi-te
+entity.tragicmc.nashi_te_prime.name=Nashi-te Prime
+entity.tragicmc.larval_stin.name=Larval Stin
+entity.tragicmc.lesser_stin.name=Lesser Stin
+entity.tragicmc.greater_stin.name=Greater Stin
+entity.tragicmc.alpha_stin.name=Alpha Stin
+entity.tragicmc.beta_stin.name=Beta Stin
+entity.tragicmc.gamma_stin.name=Gamma Stin
+entity.tragicmc.abominable.name=Abominable
+entity.tragicmc.ignis_aggro.name=Ignis Aggro
+entity.tragicmc.dox.name=Dox
+entity.tragicmc.despicable.name=Despicable
+entity.tragicmc.ancient_gragul.name=Ancient Gragul
+entity.tragicmc.psylok.name=Psylok
+entity.tragicmc.psyloksis.name=Psyloksis
+entity.tragicmc.gray.name=Gray
+entity.tragicmc.lockdown.name=Lockdown
+entity.tragicmc.relay.name=Relay
+entity.tragicmc.fusea.name=Fusea
+entity.tragicmc.volatile_fusea.name=Volatile Fusea
+entity.tragicmc.lost_soul.name=Lost Soul
+entity.tragicmc.nano_swarm.name=Nano Swarm
+entity.tragicmc.fungy.name=Fungy
+entity.tragicmc.firewall.name=Firewall
+entity.tragicmc.harvester.name=Harvester
+entity.tragicmc.spire.name=Spire
+entity.tragicmc.gorgoth.name=Gorgoth
+entity.tragicmc.scourge.name=Scourge
+entity.tragicmc.parasmite.name=Parasmite
+entity.tragicmc.mutant.name=Mutant
+entity.tragicmc.super_mutant.name=Super Mutant
+entity.tragicmc.duster.name=Duster
+entity.tragicmc.wormbait.name=Wormbait
+entity.tragicmc.canis.name=Canis
+entity.tragicmc.ursa.name=Ursa
+entity.tragicmc.dimentia.name=Dimentia
+entity.tragicmc.segret.name=Segret
+entity.tragicmc.chimera.name=Chimera
+entity.tragicmc.crystal_spike.name=Crystal Spike
+entity.tragicmc.rampant_harvester.name=Rampant Harvester
+entity.tragicmc.rampant_relay.name=Rampant Relay
+entity.tragicmc.rampant_nano_swarm.name=Rampant Nano Swarm
+entity.tragicmc.rampant_lockdown.name=Rampant Lockdown
+entity.tragicmc.entrophy_strider.name=Entrophy Strider
+entity.tragicmc.aegik.name=Aegik
+entity.tragicmc.phantasm.name=Phantasm
+entity.tragicmc.ballash.name=Ballash
+entity.tragicmc.torch.name=Torch
+entity.tragicmc.emburst.name=Emburst
+entity.tragicmc.swallow.name=Swallow
+entity.tragicmc.passive_plague.name=Passive Plague
+
+entity.tragicmc.empariah.name=Empariah
+entity.tragicmc.minos.name=Minos
+entity.tragicmc.claymation.name=Claymation
+entity.tragicmc.polaris.name=Polaris
+entity.tragicmc.logos.name=Logos
+entity.tragicmc.skeletine.name=Skeletine
+entity.tragicmc.kyutsu.name=Kyutsu
+entity.tragicmc.aegis.name=Aegis
+entity.tragicmc.enyvil.name=Enyvil
+entity.tragicmc.overlord.name=The Overlord
+entity.tragicmc.ranmas.name=Ranmas
+entity.tragicmc.corser.name=Corser
+entity.tragicmc.baboom.name=Baboom
+entity.tragicmc.seraphis.name=Seraphis
+entity.tragicmc.kagar.name=Kagar
+entity.tragicmc.feist.name=Feist
+entity.tragicmc.scyllas.name=Scyllas
+entity.tragicmc.arachne.name=Arachne
+entity.tragicmc.light_sprite.name=Light Sprite
+entity.tragicmc.yelnor.name=Yelnor
+entity.tragicmc.mortyr.name=Mortyr
+entity.tragicmc.echo.name=Echo
+
+entity.tragicmc.claymation_challenge.name=Claymation Prime
+entity.tragicmc.empariah_challenge.name=Empariah Prime
+entity.tragicmc.enyvil_challenge.name=Enyvil Prime
+entity.tragicmc.kyutsu_challenge.name=Kyutsu Prime
+entity.tragicmc.logos_challenge.name=Logos Prime
+entity.tragicmc.minos_challenge.name=Minos Prime
+entity.tragicmc.polaris_challenge.name=Polaris Prime
+entity.tragicmc.skeletine_challenge.name=Skeletine Prime
+entity.tragicmc.aegis_challenge.name=Aegis Prime
+entity.tragicmc.overlord_challenge.name=The Overlord Perfected
+
+entity.tragicmc.statue.name=Statue
+entity.tragicmc.spore.name=Spore
+entity.tragicmc.light_ball.name=Light Ball
+entity.tragicmc.spirit_bomb.name=Spirit Bomb
+entity.tragicmc.crystal_shard.name=Crystal Shard
+entity.tragicmc.dark_mortor.name=Dark Mortor
+entity.tragicmc.web_bomb.name=Web Bomb
+entity.tragicmc.time_fissure.name=Time Fissure
+entity.tragicmc.ice_shard.name=Ice Shard
+entity.tragicmc.paradox.name=Paradox
+entity.tragicmc.aegis_regulator.name=Aegis Regulator
+entity.tragicmc.enyvil_eye.name=Enyvil Eye
+entity.tragicmc.energy_burst.name=Energy Burst
+entity.tragicmc.spatial_anomaly.name=Spatial Anomaly
+entity.tragicmc.shock_orb.name=Shock Orb
+entity.tragicmc.dust_ball.name=Dust Ball
+entity.tragicmc.crystal_bomb.name=Crystal Bomb
+entity.tragicmc.nuke.name=Nuke
+entity.tragicmc.ferra_mortor.name=Ferra Mortor
+entity.tragicmc.shadow_burst.name=Shadow Burst
+entity.tragicmc.poison_barb.name=Poison Barb
+entity.tragicmc.light_sprite_image.name=Light Spright Image
+entity.tragicmc.servant_mortor.name=Servant Mortor
+entity.tragicmc.clay_ball.name=Clay Ball
+entity.tragicmc.light_dancer.name=Light Dancer
+entity.tragicmc.light_dancer_image.name=Light Dancer Image
+entity.tragicmc.mirv_strike.name=MIRV Strike
+entity.tragicmc.shield.name=Shield
+entity.tragicmc.shield_turret.name=Shield Turret
+entity.tragicmc.kinetic_strike.name=Kinetic Strike
+entity.tragicmc.kitsune_fire.name=Kitsune Fire
+entity.tragicmc.minor_golem.name=Minor Golem
+entity.tragicmc.major_golem.name=Major Golem
+entity.tragicmc.taunt_golem.name=Taunt Golem
+entity.tragicmc.friendly_nano_swarm.name=Friendly Nano Swarm
+entity.tragicmc.friendly_minion.name=Friendly Minion
+entity.tragicmc.overlord_seeker.name=Overlord Seeker
+entity.tragicmc.seraphis_spike.name=Seraphis Spike
+entity.tragicmc.dispensible.name=Dispensible
+entity.tragicmc.burning_soul.name=Burning Soul
+entity.tragicmc.overlord_firewall.name=Overlord Firewall
+entity.tragicmc.overlord_relay.name=Overlord Relay
+entity.tragicmc.overlord_swarm.name=Overlord Swarm
+entity.tragicmc.dishonorable.name=Dishonorable
+entity.tragicmc.burning_warrior.name=Burning Warrior
+entity.tragicmc.magma_bomb.name=Magma Bomb
+entity.tragicmc.wither_bomb.name=Wither Bomb
+entity.tragicmc.entrophy_seeker.name=Entrophy Seeker
+entity.tragicmc.aegis_seeker.name=Aegis Seeker
+entity.tragicmc.minos_orb.name=Minos Orb
+entity.tragicmc.overlord_bomb.name=Overlord Bomb
+entity.tragicmc.overlord_seed.name=Overlord Seed
+entity.tragicmc.overlord_ravager.name=Overlord Ravager
+entity.tragicmc.nova_blast.name=Nova Blast
+entity.tragicmc.yelnor_spike.name=Yelnor Spike
+entity.tragicmc.mortyr_bomb.name=Mortyr Bomb
+entity.tragicmc.kagar_nuke.name=Kagar Nuke
+entity.tragicmc.sharp_crystal.name=Sharp Crystal
+entity.tragicmc.acid_ball.name=Acid Ball
+entity.tragicmc.pox_spore.name=Pox Spore
+entity.tragicmc.holy_fire.name=Holy Fire
+entity.tragicmc.smite_burst.name=Smite Burst
+entity.tragicmc.dark_blast.name=Dark Blast
+entity.tragicmc.shadow_bomb.name=Shadow Bomb
+entity.tragicmc.magic_fire.name=Magic Fire
+entity.tragicmc.power_golem.name=Power Golem
+entity.tragicmc.empariah_cryse.name=Empariah Cryse
+entity.tragicmc.bane_burst.name=Bane Burst
+entity.tragicmc.empariah_fire.name=Empariah Fire
+entity.tragicmc.empariah_emburst.name=Empariah Emburst
+entity.tragicmc.aegis_mortor.name=Aegis Mortor
+entity.tragicmc.aegis_discharge.name=Aegis Discharge
+entity.tragicmc.overlord_shock_orb.name=Overlord Shock Orb
+entity.tragicmc.overlord_burst.name=Overlord Burst
+entity.tragicmc.overlord_seeker.name=Overlord Seeker
+
+#Notification texts used by bosses as an alternative way to display their status
+notification.empariah.transfer=%%s's power has been transferred!
+notification.empariah.help=%%s calls for help. Their loyalty empowers it.
+notification.empariah.rush=%%s has become infuriated and began rushing its target!
+notification.empariah.breath=%%s has began firing a constant breath attack and gained immunity to projectiles!
+notification.minos.slam=%%s has began gathering energy.
+notification.minos.stun=%%s has been stunned!
+notification.minos.shield=%%s has gained a reflective shield...
+notification.minos.range=%%s has stood up and gained immunity to ranged damage!
+notification.minos.melee=%%s has hunched down and gained immunity to melee damage!
+notification.claymation.newform=%%s has taken on a new form.
+notification.claymation.revert=%%s has reverted to it's basic form.
+notification.claymation.ultimate=%%s has changed into its ultimate form, it is immune to damage!
+notification.claymation.last_stand=%%s has changed into its Ultimate form as a last resort!
+notification.claymation.stun=%%s is in a daze!
+notification.polaris.ritual=%%s has began a summoning ritual.
+notification.polaris.hex=%%s had it's summoning ritual interrupted. It has hidden away to cast a hex!
+notification.polaris.peekaboo=%%s has hidden itself to attack from the shadows.
+notification.logos.entanglement=%%s has began entanglement.
+notification.logos.frozen=%%s has become frozen in time. Paradox have appeared.
+notification.logos.loop=%%s has become trapped in an endless loop.
+notification.skeletine.enrage=%%s is on the offensive!
+notification.skeletine.passive=%%s retreats in order to regain strength.
+notification.skeletine.trance=%%s has gone into a trance in an attempt to drain life force.
+notification.skeletine.broken=%%s's trance was broken!
+notification.kyutsu.enrage=%%s has gone berserk! It is now vulnerable.
+notification.kyutsu.fireball=%%s charges up a powerful blast.
+notification.kyutsu.rush=%%s got bored and has decided to attack!
+notification.kyutsu.rush_hit=%%s rushes out of fear!
+notification.kyutsu.hit=%%s was nailed by a fireball!
+notification.kyutsu.endrush=%%s reverts to chibi form.
+notification.aegis.standby=%%s is powering down to Standby mode. Stabilizers disengaged. Warning: High voltage.
+notification.aegis.threat_control=%%s has had its regulator dislodged. Entering emergency Threat Control mode.
+notification.aegis.reboot=%%s is powered on and ready to serve. Shield active.
+notification.aegis.active=%%s has recharged its cells sufficiently. Shield active.
+notification.aegis.reactive=%%s has repaired some damage. Warning: Continued use may result in Standby mode activation.
+notification.aegis.restart=%%s has reassimilated its Regulator and is restarting system processes... Please stand by.
+notification.aegis.last_stand=%%s has suffered a catastrophic loss in stability. Unable to find a suitable restore point. Entering Threat Control mode. Rerouting all resources to kill.
+notification.aegis.instance=%%s has manifested Anomalies and left behind an altar.
+notification.aegis.low_battery=%%s has a low battery. Forced Standby mode is imminent.
+notification.aegis.half_battery=%%s has half charge on battery. Continued use may force Standby mode.
+notification.aegis.active_heal=%%s has repaired some damage due to lack of threat detected.
+notification.enyvil.blinded=%%s has been blinded!
+notification.enyvil.berserk=%%s has gone into a blind rage and is more vulnerable to damage!
+notification.enyvil.attract=%%s is attempting to pull a target towards itself!
+notification.enyvil.unblind=%%s has regained its eye. It grows more furious.
+notification.overlord.flee=%%s flees from your power!
+notification.overlord.form=%%s has changed into a new form.
+notification.overlord.firewalls=%%s feels threatened. Firewalls have appeared for protection. Destroy them!
+notification.overlord.enrage=%%s further enrages.
+notification.overlord.seekerspawn=A Seeker has manifested, use it against %%s!
+notification.overlord.laststand=%%s has began gathering energy for a final attack, kill it before it is unleashed!
+notification.overlord.supercharged=%%s has become supercharged, prevent it from releasing its power!
+notification.overlord.unstable=%%s has become unstable and transferred its supercharge to others!
+notification.overlord.recharge=%%s has used too much energy, it pauses momentarily to recharge and is now vulnerable to attack.
+notification.overlord.vulnerable=%%s has become vulnerable to attack!
+notification.overlord.grant_supercharge=%%s has had its Supercharge stolen, use it to your advantage.
+notification.overlord.death_swarm=%%s has began unleashing a death swarm! Wait for your moment and take it.
+notification.overlord.seeds=%%s has released seeds to grow energy, use them against it!
+notification.overlord.seeds_fail=%%s has transformed the remaining seeds into weapons!
+notification.overlord.stasis=%%s has trapped enemies in stasis. Stun it to break free.
+notification.ranmas.compression=%%s has compressed itself and began accelerating.
+notification.corser.cocoon=%%s has cocooned up and started regenerating health.
+notification.baboom.leap=%%s launches itself towards it's target!
+notification.seraphis.cluster=%%s has began stockpiling a cluster of bombs!
+notification.kagar.nuke=%%s begins lining up a shot.
+notification.feist.erupt=%%s has began erupting!
+notification.scyllas.laser=%%s's eye has awakened! It prepares its laser for an attack.
+notification.arachne.attack=%%s prepares to launch an assault!
+notification.light_sprite.light=%%s has started to light it up!
+notification.challenge_fail=You have failed the Bonus Objective...
+notification.challenge_complete=Bonus Objective complete!
+notification.challenge_reset=You have successfully restarted the Challenge Boss instance.
+notification.yelnor.spikes=%%s prepares to launch spikes!
+notification.mortyr.novablast=%%s has began charging up a powerful nova blast, it is vulnerable!
+notification.echo.stun=%%s has been stunned by the light!
+notification.echo.stun=%%s was briefly stunned, it has gained a short immunity to light. Stun it again to stagger it!
+
+notification.challenge_objective.minos_challenge=Bonus Objective: Successfully stagger every slam attempt.
+notification.challenge_objective.empariah_challenge=Bonus Objective: Quickly kill minions when they are spawned in.
+notification.challenge_objective.claymation_challenge=Bonus Objective: Defeat each alternate form and daze it every time.
+notification.challenge_objective.kyutsu_challenge=Bonus Objective: Don't miss a fireball deflect.
+notification.challenge_objective.skeletine_challenge=Bonus Objective: Avoid being drained during Trance and knock it out of it successfully each time.
+notification.challenge_objective.polaris_challenge=Bonus Objective: Don't allow it to complete a Summon or Hex.
+notification.challenge_objective.logos_challenge=Bonus Objective: Quickly clear each Frozen phase by destroying Paradox quickly.
+notification.challenge_objective.enyvil_challenge=Bonus Objective: Destroy the correct eye each time it is dropped and don't be hurt by Attract.
+notification.challenge_objective.aegis_challenge=Bonus Objective: Don't fail a Regulator throw.
+notification.challenge_objective.overlord_challenge=Bonus Objective: Evil Presence prevents healing, good luck and don't die.
+
+
+notification.time_fissure.confirm=Are you sure you wish to summon %%s? Right-click with the same ItemStack again to sacrifice it.
+notification.time_fissure.randomboss=a random Roaming Boss
+notification.time_fissure.randommob=a random Mob
+notification.time_fissure.anomaly=a Spatial Anomaly
+notification.time_fissure.requiresacrifice=An Item sacrifice is required to summon. Influence changes results. Certain items can summon specific things.
+notification.time_fissure.summoned=Confirmed! Entity summoned.
+notification.time_fissure.simpleinfluence=Your ItemStack needs a Complex Influence to summon a Boss (and to be in the proper Dimension). Combine it with another Charisma of different Influence to create one.
+
+notification.spatial_anomaly.confirm=Right-click again to confirm teleport to %%s.
+notification.spatial_anomaly.changetarget=Dimension target was changed to %%s.
+
+boss_bar.title.distance=%1$s (%2$sm%3$s)
+boss_bar.title.above=above
+boss_bar.title.below=below
+
+#Block names
+tile.tragicmc.merokite_ore.name=Merokite Ore
+tile.tragicmc.torvite_ore.name=Torvite Ore
+tile.tragicmc.durite_ore.name=Durite Ore
+
+tile.tragicmc.durite.name=Durite
+tile.tragicmc.umbrite.name=Umbrite
+tile.tragicmc.ellurite.name=Ellurite
+
+tile.tragicmc.collided_rock.name=Collided Rock
+tile.tragicmc.collided_dirt.name=Collided Dirt
+tile.tragicmc.collided_grass.name=Collided Grass
+tile.tragicmc.collided_tallgrass.name=Collided Tall Grass
+tile.tragicmc.rough_dirt.name=Rough Dirt
+
+tile.tragicmc.hallowed_wood.name=Hallowed Wood
+tile.tragicmc.hallowed_planks.name=Hallowed Planks
+tile.tragicmc.hallowed_leaves.name=Hallowed Leaves
+tile.tragicmc.fragile_light.name=Fragile Light
+tile.tragicmc.accite.name=Accite
+
+tile.tragicmc.painted_wood.name=Painted Wood
+tile.tragicmc.painted_planks.name=Painted Planks
+tile.tragicmc.painted_leaves.name=Painted Leaves
+tile.tragicmc.glowvine.name=Glowvine
+
+tile.tragicmc.ashen_wood.name=Ashen Wood
+tile.tragicmc.ashen_planks.name=Ashen Planks
+tile.tragicmc.ashen_leaves.name=Ashen Leaves
+tile.tragicmc.mud.name=Mud
+
+tile.tragicmc.eroded_stone.name=Eroded Stone
+tile.tragicmc.corsin.name=Corsin
+tile.tragicmc.spiderrack.name=Spiderrack
+
+tile.tragicmc.singed_rock.name=Singed Rock
+tile.tragicmc.blackrock.name=Blackrock
+tile.tragicmc.geyser.name=Geyser
+tile.tragicmc.steam_vent.name=Steam Vent
+
+tile.tragicmc.fragile_light.name=Fragile Light
+tile.tragicmc.star_crystal.name=Star Crystal
+tile.tragicmc.mettea.name=Mettea
+
+tile.tragicmc.nekowood.name=Nekowood
+tile.tragicmc.nekowood_leaves.name=Nekowood Leaves
+tile.tragicmc.nekowood_planks.name=Nekowood Planks
+tile.tragicmc.grimmwood.name=Grimmwood
+tile.tragicmc.grimmwood_leaves.name=Grimmwood Leaves
+tile.tragicmc.grimmwood_planks.name=Grimmwood Planks
+
+tile.tragicmc.darkwood.name=Darkwood
+tile.tragicmc.darkwood_leaves.name=Darkwood Leaves
+tile.tragicmc.darkwood_planks.name=Darkwood Planks
+tile.tragicmc.darkwood_thorns.name=Darkwood Thorns
+tile.tragicmc.false_floor.name=False Floor
+tile.tragicmc.dredge.name=Dredge
+
+tile.tragicmc.grimmwood.name=Grimmwood
+tile.tragicmc.grimmwood_planks.name=Grimmwood Planks
+tile.tragicmc.grimmwood_leaves.name=Grimmwood Leaves
+tile.tragicmc.nekowood.name=Nekowood
+tile.tragicmc.nekowood_planks.name=Nekowood Planks
+tile.tragicmc.nekowood_leaves.name=Nekowood Leaves
+
+tile.tragicmc.motherboard.name=Motherboard
+tile.tragicmc.conflux.name=Conflux
+tile.tragicmc.conduit.name=Conduit
+tile.tragicmc.digital_sea.name=Digital Sea
+
+tile.tragicmc.aegian_rock.name=Aegian Rock
+tile.tragicmc.aegian_pillar.name=Aegian Pillar
+tile.tragicmc.crete.name=Crete
+tile.tragicmc.malus.name=Malus
+tile.tragicmc.dark_malus.name=Dark Malus
+tile.tragicmc.aegik_pod.name=Aegik Pod
+
+tile.tragicmc.dewdrop.name=Dewdrop Leaves
+tile.tragicmc.highlight.name=Highlight Leaves
+tile.tragicmc.lilt.name=Lilt Leaves
+tile.tragicmc.skyfruit.name=Skyfruit Leaves
+tile.tragicmc.duchess.name=Duchess Leaves
+tile.tragicmc.nightcrawler.name=Nightcrawler Leaves
+tile.tragicmc.dormont.name=Dormont Leaves
+tile.tragicmc.ravenclaw.name=Ravenclaw Leaves
+tile.tragicmc.griffith.name=Griffith Leaves
+
+tile.tragicmc.gas_blindness.name=Gas Cloud (Blindness)
+tile.tragicmc.gas_wither.name=Gas Cloud (Wither)
+tile.tragicmc.gas_slowness.name=Gas Cloud (Slowness)
+tile.tragicmc.gas_poison.name=Gas Cloud (Poison)
+tile.tragicmc.gas_immune.name=Gas Cloud (Immune Suppression)
+
+tile.tragicmc.temp_web.name=Temporary Cobweb
+
+tile.tragicmc.aeris.name=Aeris
+tile.tragicmc.summon.name=Summon Block
+
+#Item names, descriptions and flavor text, if applicable
+item.tragicmc.porter_collision.name=Porter (Collision trace)
+item.tragicmc.porter_collision.flavortext=
+item.tragicmc.porter_wilds.name=Porter (Wilds trace)
+item.tragicmc.porter_wilds.flavortext=
+
+item.tragicmc.remnant.name=Remnant
+item.tragicmc.remnant.flavortext=
+item.tragicmc.remnant.desc=Used as the main way to increase the Achromy of an item. Combined using an Anvil.
+item.tragicmc.greater_remnant.name=Greater Remnant
+item.tragicmc.greater_remnant.flavortext=
+item.tragicmc.greater_remnant.desc=Used as the main way to increase the Achromy of an item. Combined using an Anvil.
+item.tragicmc.grand_remnant.name=Grand Remnant
+item.tragicmc.grand_remnant.flavortext=
+item.tragicmc.grand_remnant.desc=Used as the main way to increase the Achromy of an item. Combined using an Anvil.
+
+item.tragicmc.regress.name=Regress
+item.tragicmc.regress.flavortext=
+item.tragicmc.regress.desc=Used as the main way to reduce the Achromy of an item. Combined using an Anvil.
+item.tragicmc.charisma.name=Charisma
+item.tragicmc.charisma.flavortext=
+item.tragicmc.charisma.desc=Used as the main way to Influence an item. Can be used with right-click to Influence yourself.
+item.tragicmc.purifier.name=Purifier
+item.tragicmc.purifier.desc=Purifies an item's Influence and zeroes out its Achromy if it is negative.
+item.tragicmc.invert.name=Invert
+item.tragicmc.invert.desc=Inverts Influences on an item and forces its Achromy value to be positive.
+
+item.tragicmc.chroma_sink.name=Chroma Sink
+item.tragicmc.chroma_sink.desc=When right-clicked, sacrifice a portion of your Achromy to create a Remnant.
+item.tragicmc.greater_chroma_sink.name=Greater Chroma Sink
+item.tragicmc.greater_chroma_sink.desc=When right-clicked, sacrifice a portion of your Achromy to create a Greater Remnant.
+item.tragicmc.grand_chroma_sink.name=Grand Chroma Sink
+item.tragicmc.grand_chroma_sink.desc=When right-clicked, sacrifice a portion of your Achromy to create a Grand Remnant.
+
+item.tragicmc.catalyst.name=Catalyst
+item.tragicmc.catalyst.desc=Contains pure energy, which can be used to force items into a new form.
+item.tragicmc.collided_catalyst.name=Collided Catalyst
+item.tragicmc.collided_catalyst.desc=Contains pure energy, which can be used to force items into a new form. Used to upgrade tier 1 gear to tier 2.
+item.tragicmc.synaptic_catalyst.name=Synaptic Catalyst
+item.tragicmc.synaptic_catalyst.desc=Contains pure energy, which can be used to force items into a new form. Used to upgrade tier 2 gear to tier 3.
+
+item.tragicmc.purity_flask.name=Purity Flask
+item.tragicmc.purity_flask.desc=Drink this to immediately regain 50 Achromy.
+item.tragicmc.corruption_flask.name=Corruption Flask
+item.tragicmc.corruption_flask.desc=Drink this to immediately lose 50 Achromy.
+item.tragicmc.archaic_tome.name=Archaic Tome
+item.tragicmc.archaic_tome.desc=When used, will increase your Knowledge level, allowing you to use stronger Abilities and increasing your maximum Achromy threshold. Also completely refills Achromy.
+item.tragicmc.humanity_sacrifice.name=Humanity Sacrifice
+item.tragicmc.humanity_sacrifice.desc=When activated, turns you into a Consumed.
+item.tragicmc.purity_embrace.name=Purity Embrace
+item.tragicmc.purity_embrace.desc=When activated, turns you into a Pure.
+item.tragicmc.cooldown_defuse.name=Cooldown Defuse
+item.tragicmc.cooldown_defuse.desc=When activated, immediately removes global cooldown, allowing you to use your Divine Ability again.
+item.tragicmc.forsaken_offering.name=Forsaken Offering
+item.tragicmc.forsaken_offering.desc=When activated, instantly upgrades your current Divine Ability, if available.
+item.tragicmc.cursed_tribute.name=Cursed Tribute
+item.tragicmc.cursed_tribute.flavortext=
+item.tragicmc.cursed_tribute.desc=Used as a special tribute to summon Challenge versions of Bosses from their altars or from Time Fissures. Must be Influenced for Time Fissure interaction.
+item.tragicmc.hearthstone.name=Hearthstone
+item.tragicmc.hearthstone.desc=When activated, will always return you back to the Overworld.
+item.tragicmc.immunity_sphere.name=Immunity Sphere
+item.tragicmc.immunity_sphere.desc=When activated, grants a temporary shield that absorbs damage. It can only absorb a certain amount of damage before breaking.
+item.tragicmc.soulstone.name=Soulstone
+item.tragicmc.soulstone.desc=Upon death, this is sacrificed instead and you are returned to your spawn point in that current Dimension.
+item.tragicmc.ambrosia.name=Ambrosian Fruit
+item.tragicmc.phoenix_down.name=Phoenix Down
+item.tragicmc.phoenix_down.desc=Upon death, this is sacrificed instead and you are granted full Health and Achromy.
+item.tragicmc.dragon_down.name=Dragon Down
+item.tragicmc.dragon_down.desc=Upon death of the carrier or of a nearby player, this is sacrificed instead and they are granted full Health and Achromy.
+item.tragicmc.reforger.name=Reforger
+item.tragicmc.reforger.desc=Can be used to re-roll an item's Trait, resets Achromy and Influence as a result.
+
+item.tragicmc.aegis_regulator.name=Aegis Regulator
+item.tragicmc.charged_seeker_core.name=Charged Seeker Core
+item.tragicmc.charged_seeker_core.flavortext=
+item.tragicmc.charged_seeker_core.desc=
+item.tragicmc.corruption_vacuum.name=Corruption Vacuum
+item.tragicmc.corruption_vacuum.flavortext=Null in, void out.
+item.tragicmc.corruption_vacuum.desc=Expells Solidified Corruption after absorbing enough corruption from mobs. Impacted targets pull nearby mobs toward it, inflicting Null Burn on all affected mobs.
+
+item.tragicmc.blood_moon_offering.name=Blood Moon Offering
+item.tragicmc.blood_moon_offering.flavortext=
+item.tragicmc.life_offering.name=Life Offering
+item.tragicmc.life_offering.flavortext=
+item.tragicmc.balance_offering.name=Balance Offering
+item.tragicmc.balance_offering.flavortext=
+item.tragicmc.striker_offering.name=Striker Offering
+item.tragicmc.striker_offering.flavortext=
+item.tragicmc.golems_offering.name=Golems Offering
+item.tragicmc.golems_offering.flavortext=
+item.tragicmc.inferno_offering.name=Inferno Offering
+item.tragicmc.inferno_offering.flavortext=
+
+item.tragicmc.resurgent_amulet.name=Resurgent Amulet
+item.tragicmc.resurgent_amulet.flavortext=
+item.tragicmc.siphoning_tablet.name=Siphoning Tablet
+item.tragicmc.siphoning_tablet.flavortext=
+item.tragicmc.apathetic_reliquary.name=Apathetic Relinquary
+item.tragicmc.apathetic_reliquary.flavortext=
+
+item.tragicmc.merokite.name=Merokite
+item.tragicmc.merokite_shard.name=Merokite Shard
+item.tragicmc.merokite_core.name=Merokite Core
+item.tragicmc.scyllica.name=Scyllica
+item.tragicmc.scyllica_shard.name=Scyllica Shard
+item.tragicmc.scyllica_core.name=Scyllica Core
+item.tragicmc.torpidin.name=Torpidin
+item.tragicmc.torpidin_shard.name=Torpidin Shard
+item.tragicmc.torpidin_core.name=Torpidin Core
+item.tragicmc.elsyia.name=Elsyia
+item.tragicmc.elsyia_shard.name=Elsyia Shard
+item.tragicmc.elsyia_core.name=Elsyia Core
+item.tragicmc.alphinite.name=Alphinite
+
+item.tragicmc.ascentia.name=Ascentia
+item.tragicmc.ascentia.desc=Can be used to restart a failed Challenge Boss instance by right-clicking on that boss with this.
+
+item.tragicmc.carmine.name=Carmine
+item.tragicmc.blesset.name=Blesset
+item.tragicmc.iolite.name=Iolite
+
+item.tragicmc.torvium.name=Torvium Ingot
+item.tragicmc.durium.name=Durium Ingot
+item.tragicmc.durium.desc=Found commonly underground in the Overworld, at a wide variety of depths.
+item.tragicmc.vulcia.name=Vulcia Ingot
+item.tragicmc.umbrium.name=Umbrium Ingot
+item.tragicmc.umbrium.desc=Found in the End, at lower depths.
+item.tragicmc.ellurium.name=Ellurium Ingot
+item.tragicmc.ellurium.desc=Found in the Nether, near the lava sea.
+item.tragicmc.tangentium.name=Tangentium Ingot
+
+item.tragicmc.platohedron.name=Platohedron
+item.tragicmc.platohedron.flavortext=For them, there is no paradox. There is only the pattern.
+item.tragicmc.platohedron.desc=Inflicts high knockback and taunts hit creatures. Has intrinsic Armor and Toughness bonuses.
+item.tragicmc.tricksters_gamble.name=Trickster's Gamble
+item.tragicmc.tricksters_gamble.flavortext=It's the best bet that I ever lost.
+item.tragicmc.tricksters_gamble.desc=Causes increased damage when the attacker is below half health.
+item.tragicmc.servant.name=Servant
+item.tragicmc.servant.flavortext=We begin by coveting what we see every day...
+item.tragicmc.servant.desc=Fires mortors that may spawn in friendly minions that target nearby mobs.
+item.tragicmc.frostburn.name=Frostburn
+item.tragicmc.frostburn.flavortext=...death, after all, is an occupational hazard.
+item.tragicmc.frostburn.desc=On hit, sets surrounding enemies on fire with a chance to also freeze them.
+item.tragicmc.ghastly_collapse.name=Ghastly Collapse
+item.tragicmc.ghastly_collapse.flavortext=Aren't these after-images just ghosts of alternate realities?
+item.tragicmc.ghastly_collapse.desc=Spawn a piercing projectile after every hit.
+item.tragicmc.wrath.name=Wrath
+item.tragicmc.wrath.flavortext=It's almost poetic - two nameless men fighting to the death.
+item.tragicmc.wrath.desc=Fires a single, powerful rocket. Watch out for self-damage.
+item.tragicmc.bane.name=Bane
+item.tragicmc.bane.flavortext=I reject your reality and substitute my own.
+item.tragicmc.bane.desc=Fires a retaliatory projectile when hit with a blockable projectile.
+item.tragicmc.claymaker.name=Claymaker
+item.tragicmc.claymaker.flavortext=I'll slowly wear you down until you give in. They always give in.
+item.tragicmc.claymaker.desc=Launches projectiles that slow down the target, stacking the effect.
+
+item.tragicmc.starseed_shredder.name=Starseed Shredder
+item.tragicmc.starseed_shredder.flavortext=Feel the Cosmos!
+item.tragicmc.starseed_shredder.desc=Quickly and accurately fires armor piercing projectiles.
+item.tragicmc.firebolt.name=Firebolt
+item.tragicmc.firebolt.flavortext=Cinders fill the errant night sky. The earth was still emanating but not with a lively heat. No, this was a warmth just before a frigid release.
+item.tragicmc.firebolt.desc=High power with quick firing. Ignites enemies on impact.
+item.tragicmc.thundercrash.name=Thundercrash
+item.tragicmc.thundercrash.flavortext=Wingardium Leviosa!
+item.tragicmc.thundercrash.desc=Knocks back enemies and blows back the user as well.
+item.tragicmc.spiderbite.name=蜘蛛之创
+item.tragicmc.spiderbite.flavortext=在被杀的那一刻，他们再也没有活着了。
+item.tragicmc.spiderbite.desc=Damage with this weapon inflicts a short but powerful poison to the target. Has a very small chance to Stun targets for a short duration.
+item.tragicmc.course_correction.name=航向修正
+item.tragicmc.course_correction.flavortext=你现在可能很强大，但请记住，弱者只需一瞬间就可以成为强者。
+item.tragicmc.course_correction.desc=May randomly heal from a hit and gain a short burst of regeneration.
+item.tragicmc.minus_one.name=桃花源
+item.tragicmc.minus_one.flavortext=否定并反驳。
+item.tragicmc.minus_one.desc=May randomly cap incoming, blockable damage to one heart at the cost of making it piercing.
+item.tragicmc.light_dancer.name=光影舞者
+item.tragicmc.light_dancer.flavortext=我只想和你跳舞。
+item.tragicmc.light_dancer.desc=Fires light dancer projectiles that move erratically.
+item.tragicmc.worlds_end.name=世界终末
+item.tragicmc.worlds_end.flavortext=当世界末日来临时，我们终将在一起。
+item.tragicmc.worlds_end.desc=When blocking a hit, spawns withering gas around the user.
+item.tragicmc.shadowstream.name=暗流
+item.tragicmc.shadowstream.flavortext=灵魂注入的子弹能造成撕碎般的疼痛！
+item.tragicmc.shadowstream.desc=Burst-fire gun that inflicts blindness on each hit.
+
+item.tragicmc.actualizer.name=实现者
+item.tragicmc.actualizer.flavortext=他们甚至不会感谢你。但这就是光的本质——你永远不知道它会在哪里发光。
+item.tragicmc.actualizer.desc=Fires a powerful, piercing shot that creates an explosion on impact with each target.
+item.tragicmc.digitizer.name=数位转换器
+item.tragicmc.digitizer.flavortext=01001100 01001111 01001100
+item.tragicmc.digitizer.desc=On a kill, spawns a friendly Nano Swarm that seeks out enemy mobs.
+item.tragicmc.atomizer.name=雾化器
+item.tragicmc.atomizer.flavortext=G1T R3KT M8！露尔
+item.tragicmc.atomizer.desc=May knockback incoming attackers when their hit is blocked, causing magic damage and also inflicting Immune Suppression.
+
+item.tragicmc.fragger.name=问题
+item.tragicmc.fragger.flavortext=你疯了吗？
+item.tragicmc.fragger.desc=Sometimes creates a magical nova on impact, causing damage to things in its radius until it dissipates.
+item.tragicmc.spritzer.name=汽酒
+item.tragicmc.spritzer.flavortext=有时候你只需要一点点汽酒。
+item.tragicmc.spritzer.desc=Burst-fire gun that inflicts a stacking Slowness debuff on each hit, which lasts for a short duration.
+item.tragicmc.grasp.name=紧缚
+item.tragicmc.grasp.flavortext=锁链绷紧，绞出空气，只留下痛苦和绝望。
+item.tragicmc.grasp.desc=Inflicts Submission on targets, allowing you to do more damage to Armored enemies.
+
+item.tragicmc.symbiote.name=共生体
+item.tragicmc.symbiote.flavortext=它就像一座桥梁，通过刀刃将你的心与敢于挑战你的人连接起来。
+item.tragicmc.symbiote.desc=Saps health from the user to increase it's damage output, stored energy is lost if swapped out.
+item.tragicmc.useful_idiot.name=实用之愚
+item.tragicmc.useful_idiot.flavortext=一种不属于它自己的目的的工具。
+item.tragicmc.useful_idiot.desc=A powerful weapon with the proper intention.
+item.tragicmc.jack_of_blades.name=狂刀杰克
+item.tragicmc.jack_of_blades.flavortext=你所敬畏和膜拜的神与鬼，对我来说，都是虚无的。
+item.tragicmc.jack_of_blades.desc=A useful omni-tool. Mining level is Diamond and mines Obsidian very quickly.
+item.tragicmc.longshot.name=遥远射手
+item.tragicmc.longshot.flavortext=现在我变成了死亡，世界的毁灭者。
+item.tragicmc.longshot.desc=Fires a powerful, piercing shot that heavily knocks back surrounding creatures around the impacted target.
+
+item.tragicmc.gods_hand.name=上帝之手
+item.tragicmc.gods_hand.flavortext=这。。。这是什么？
+item.tragicmc.gods_hand.desc=Has high damage on full cooldown but heavily reduced outside of it. Damaging enemies while cooling down doesn't reset total cooldown. Damage of cooldown hits increase as cooldown finishes.
+item.tragicmc.gods_eye.name=上帝之眼
+item.tragicmc.gods_eye.flavortext=我懂了。。。一切。。。
+item.tragicmc.gods_eye.desc=Has high damage and can be fired while empty. Empty shots do heavily reduced damage but scale up as reload finishes.
+
+item.tragicmc.resounding_ache.name=回响之痛
+item.tragicmc.resounding_ache.flavortext=想睡觉的时候，迷茫的泪水从眼睛里涌出，在我的头上尖叫，像百万只被宰杀的羊
+item.tragicmc.remorseful_angst.name=懊悔
+item.tragicmc.remorseful_angst.flavortext=听到的是打盹时有节奏的脉搏舒缓，沉默的声音和感染性的笑声
+item.tragicmc.symphonic_terror.name=交响恐怖
+item.tragicmc.symphonic_terror.flavortext=周围的声音正好消除了我的恶习，它驱使我堕落。
+item.tragicmc.killing_joke.name=讨人厌的玩笑
+item.tragicmc.killing_joke.flavortext=你变成了我努力成为的样子，感情失去，情绪割舍。一顶帽子掉下来，你就愿意来了，把我的孩子托起，这个笑话真叫人讨厌
+item.tragicmc.killing_joke.desc=Slightly heals on each attack, fully heals on a kill but takes some Achromy as payment.
+
+item.tragicmc.frail_acquantance.name=无力抵抗的洪水
+item.tragicmc.frail_acquantance.flavortext=虚弱的头脑和无用的血液，内在的损失，即将到来的洪水
+item.tragicmc.ulterior_motive.name=另有所图
+item.tragicmc.ulterior_motive.flavortext=生物们被越来越强大的力量逼疯了，当它们畏缩的时候，他们的眼睛在狂笑。
+item.tragicmc.mindless_beast.name=无心的野兽
+item.tragicmc.mindless_beast.flavortext=破碎之心，四分五裂，爪子刺穿，孤独的猎人
+item.tragicmc.hunger.name=渴望
+item.tragicmc.hunger.flavortext=猩红之月，行动完成了。现在开始二即为一。
+item.tragicmc.hunger.desc=Grants a strength buff on each kill, takes some Hunger as payment.
+
+item.tragicmc.untainted_being.name=未染之物
+item.tragicmc.untainted_being.flavortext=没有动力，没有影响力。没有欲望，没有目标。一个还没有看到光明的幸福生物。
+item.tragicmc.purity_incarnate.name=纯洁化身
+item.tragicmc.purity_incarnate.flavortext=比光快，比时间慢。一个进步的盾牌，不仅是绘画，而且成为一条线。
+item.tragicmc.universal_traveler.name=环球旅行者
+item.tragicmc.universal_traveler.flavortext=它活着，也学会了。它知道痛苦，也找到了欢乐。已知的欲望和恐惧的倾向，现在的区别非常明显。
+item.tragicmc.sentience.name=知觉
+item.tragicmc.sentience.flavortext=它经历了许多生活，看到了许多可能性。它知道它必须做什么，所以它选择了你。
+item.tragicmc.sentience.desc=对头目敌人造成额外伤害。对其他非Boss敌人的伤害很低。
+
+item.tragicmc.cavebound.name=洞穴边界
+item.tragicmc.cavebound.flavortext=我独自呆在这个山洞里。耐心地等待我的冠军到来。我记得我留下的许多野兽在战斗的痛苦中尖叫。。。
+item.tragicmc.cavebound.desc=
+item.tragicmc.thoughtless_thought.name=轻率的想法
+item.tragicmc.thoughtless_thought.flavortext=……不过，他是个不礼貌的家伙，我很难弄清楚我为什么和这样一个傻瓜冒险这么久。如果我自己这么说的话，这种事应当是至高无上的成就。。。
+item.tragicmc.thoughtless_thought.desc=
+item.tragicmc.unworthy_effort.name=不值得的努力
+item.tragicmc.unworthy_effort.flavortext=…当我们愉快地野餐享受美好的一天时，她向我展示了如此美妙的景色，我从未想过要离开它。我们一直用来打开山核桃的木槌在阳光下闪闪发光。。。
+item.tragicmc.unworthy_effort.desc= 
+item.tragicmc.excuberance.name=免职
+item.tragicmc.excuberance.flavortext=……但我说的够多了，让我们继续冒险吧！
+item.tragicmc.excuberance.desc=Can be used as a replacement for any other armor to complete a set. Takes durability damage on full set effect activations as payment. Has higher than normal durability and armor.
+
+item.tragicmc.broken_mind.name=破碎的心
+item.tragicmc.broken_mind.flavortext=那是真的，好吗？他们认为我疯了，但我能在我的牢房里感觉到事情发生了。。。不是吗？
+item.tragicmc.broken_mind.desc=
+item.tragicmc.delusional_eclipse.name=妄想的日食
+item.tragicmc.delusional_eclipse.flavortext=你相信我，不是吗？我看到的生物，我必须做的事情。血液流过我的血管。一想到这件事我就毛骨悚然。
+item.tragicmc.delusional_eclipse.desc=
+item.tragicmc.mythos_mandible.name=下颌骨神话
+item.tragicmc.mythos_mandible.flavortext=不过，这是我的证据。你看到了吗？这么多的问题，但最重要的只有：是我造成了世界的分裂。我是很多人中的一个，但现在只剩下我一个了。
+item.tragicmc.mythos_mandible.desc=
+item.tragicmc.apothican.name=无神论者
+item.tragicmc.apothican.flavortext=他们来了。他们终于找到我了。对我来说太晚了，但你现在知道了。拿着这个，你知道你该怎么做。
+item.tragicmc.apothican.desc=对亡灵生物造成额外伤害。击杀时造成爆炸，但它需要消耗额外的弹药。
+
+item.tragicmc.merokite_dagger.name=梅洛基特匕首
+item.tragicmc.merokite_dagger.flavortext=
+item.tragicmc.serrated_dagger.name=锯齿形匕首
+item.tragicmc.serrated_dagger.flavortext=有时候拿刀去打枪战并不是世界上最糟糕的主意。
+item.tragicmc.wilted_rose.name=枯萎的玫瑰
+item.tragicmc.wilted_rose.flavortext=它只想再次感受。它想要你帮助它感觉。你知道该怎么做。
+item.tragicmc.thirsty_blade.name=渴血之刃
+item.tragicmc.thirsty_blade.flavortext=它要求被熄灭。它需要你。。。你需要它。
+item.tragicmc.oddity_slice.name=古怪切刀
+item.tragicmc.oddity_slice.flavortext=这是多么奇怪的背叛！
+item.tragicmc.anguished_scissor.name=痛苦不堪的剪刀
+item.tragicmc.anguished_scissor.flavortext=它在痛苦中茁壮成长。这就是活着的感觉，很快你也会感受到。
+item.tragicmc.ravenous_fang.name=贪婪之牙
+item.tragicmc.ravenous_fang.flavortext=它吞食着，它生长着，但它无法控制自己。于是它继续寻找下一个受害者。
+item.tragicmc.cleaver.name=切肉刀
+item.tragicmc.cleaver.flavortext=永远不会嘲笑你！
+
+item.tragicmc.merokite_hammer.name=梅洛基特锤
+item.tragicmc.merokite_hammer.flavortext=
+item.tragicmc.sledgehammer.name=长柄大锤
+item.tragicmc.sledgehammer.flavortext=当你真的想让那东西消失的时候。
+item.tragicmc.battleaxe.name=战斧
+item.tragicmc.battleaxe.flavortext=是啊，这似乎是你在战斗中会用到的东西。
+item.tragicmc.great_mallet.name=大木槌
+item.tragicmc.great_mallet.flavortext=这是一个非常棒的木槌。
+item.tragicmc.jubilant_slammer.name=兴高采烈的猛男
+item.tragicmc.jubilant_slammer.flavortext=这就像玩“打鼹鼠”游戏！
+item.tragicmc.splitter_waraxe.name=分路战斧
+item.tragicmc.splitter_waraxe.flavortext=抱歉这么突然，但我得分手了。
+item.tragicmc.titanic_maul.name=钢铁之锤
+item.tragicmc.titanic_maul.flavortext=是的，它相当大。
+item.tragicmc.locomotive.name=铁路机车
+item.tragicmc.locomotive.flavortext=嘻嘻！痛苦的火车来了！
+item.tragicmc.happy_go_lucky.name=祝你好运
+item.tragicmc.happy_go_lucky.flavortext=盆景、白菜、智者、水童，今晚老城区灯火通明！
+item.tragicmc.soul_grinder.name=灵魂研磨机
+item.tragicmc.soul_grinder.flavortext=你知道是什么真正在打磨我吗？
+item.tragicmc.boneduster.name=骨灰清理者
+item.tragicmc.boneduster.flavortext=这只是一个工具。用来进行细致的清洁还是可怕的清洗，选择权在你。
+
+item.tragicmc.merokite_staff.name=梅洛基特拐杖
+item.tragicmc.merokite_staff.flavortext=
+item.tragicmc.sharpened_polearm.name=尖角
+item.tragicmc.sharpened_polearm.flavortext=第一节课-把尖的一端粘在他们身上。
+item.tragicmc.imbued_staff.name=充满能量的拐杖
+item.tragicmc.imbued_staff.flavortext=内部力量满盈，让持有者感到刺痛。
+item.tragicmc.warpriest_battlestaff.name=战列参谋
+item.tragicmc.warpriest_battlestaff.flavortext=他们想要一场战争，那我就给他们。
+item.tragicmc.impaler.name=穿刺者
+item.tragicmc.impaler.flavortext=你以前被穿刺过吗？你想尝试一下吗？
+item.tragicmc.heavenly_chimes.name=天籁
+item.tragicmc.heavenly_chimes.flavortext=让你的歌声给周围的世界带来绚烂！
+item.tragicmc.splinter.name=斯普林特
+item.tragicmc.splinter.flavortext=刚才有人提到披萨吗？
+item.tragicmc.petrified_lightning.name=无言的闪电
+item.tragicmc.petrified_lightning.flavortext=他们说它不能被俘获，可它在这里执行我的命令。
+item.tragicmc.vigor.name=活力光环
+item.tragicmc.vigor.flavortext=你能照顾一下那些害虫吗？
+item.tragicmc.halcyon_prayer.name=宁静祈祷
+item.tragicmc.halcyon_prayer.flavortext=跟我来吧，你会进入一个纯粹由想象构成的世界。
+item.tragicmc.insatiabell.name=贪得无厌的贝尔
+item.tragicmc.insatiabell.flavortext=农民没有饭吃，所以我说，让他们喝汤，而我奢侈地吃饭。
+
+item.tragicmc.merokite_katana.name=马罗基特武士刀
+item.tragicmc.merokite_katana.flavortext=
+item.tragicmc.double_edge.name=双刃剑
+item.tragicmc.double_edge.flavortext=避免致命打击的可能，但在后续行动中你可能不是那么幸运。
+item.tragicmc.loyal_ino.name=忠诚的伊诺
+item.tragicmc.loyal_ino.flavortext=永远不被蛊惑，永远伴你左右。
+item.tragicmc.oni_slaughter.name=奥尼屠宰者
+item.tragicmc.oni_slaughter.flavortext=邪恶思想所创造的死亡构筑密谋着毁灭
+item.tragicmc.feeding_blade.name=摄食之刃
+item.tragicmc.feeding_blade.flavortext=一把利刃怎么会有欲望？饥渴吗？为什么它只对我说话？
+item.tragicmc.tempered_slice.name=回火切片
+item.tragicmc.tempered_slice.flavortext=它世世代代保护着它的主人。坚定不移、永恒不变。
+item.tragicmc.holier_than_thou.name=自以为是
+item.tragicmc.holier_than_thou.flavortext=安静！不要把你的判断强加在我身上。我是阿尔法，我是欧米伽，我是首先的，我是最后的，我是初，我是终。
+item.tragicmc.butcher.name=刽子手
+item.tragicmc.butcher.flavortext=我想要更多。我需要更多。他们不会停下来的。他们也渴望更多。
+item.tragicmc.spiritual_guardian.name=守护灵
+item.tragicmc.spiritual_guardian.flavortext=被召唤时保持沉默，但始终忠诚。发誓要守护主人的复仇卫士。
+item.tragicmc.shining_finger.name=闪光的压指师
+item.tragicmc.shining_finger.flavortext=拿着这个！我的爱，我的愤怒和我所有的悲伤！
+
+item.tragicmc.merokite_sword.name=梅洛基特剑
+item.tragicmc.merokite_sword.flavortext=
+item.tragicmc.broadsword.name=阔剑
+item.tragicmc.broadsword.flavortext=你想避开阔剑的侧面。。。。但也要避免尖端。
+item.tragicmc.scimitar.name=弯刀 
+item.tragicmc.scimitar.flavortext=你如此宣告：弯刀 
+item.tragicmc.anarchy_repulsor.name=无政府主义
+item.tragicmc.anarchy_repulsor.flavortext=现在有没有其他人想引起一点混乱？只有我？太酷了！
+item.tragicmc.divine_will.name=神圣的意志
+item.tragicmc.divine_will.flavortext=你应该抵达了所有人都会放弃的地方，但你绝不止步！绝不！
+item.tragicmc.silent_hellraiser.name=无声的恶作剧者
+item.tragicmc.silent_hellraiser.flavortext=是时候去制造点麻烦了。。。当然是悄悄的。。。真抱歉
+item.tragicmc.frantic_shade.name=疯狂的阴影
+item.tragicmc.frantic_shade.flavortext=我在月光下思想，眼见光影闪烁。我化身暗影，去袭击，去杀戮。
+item.tragicmc.chaotic_neutralize.name=混沌中立
+item.tragicmc.chaotic_neutralize.flavortext=哦，你误会了!我不在乎我们为什么这么做。我只是想杀点什么!
+item.tragicmc.celestial_aegis.name=天神埃癸斯
+item.tragicmc.celestial_aegis.flavortext=成为城墙吧！像往常那样！祝福你的刀刃，掩盖你的痛苦。 毁灭他们的刀刃, 净化他们的罪恶。宽恕你的罪恶，净化我的亲人。
+item.tragicmc.uproar.name=喧嚣
+item.tragicmc.uproar.flavortext=没有什么比早上醒来时听到一些新鲜的，激烈的杂音更愉快的事了！
+item.tragicmc.moonlit_dancer.name=月光舞者
+item.tragicmc.moonlit_dancer.flavortext=来牵着我的手，来跳舞吧！于银白月光下，于深邃大海里，我看到你的灵魂，而你看到我的。我们的灵魂正紧紧相连啊！
+
+item.tragicmc.merokite_scythe.name=梅洛基特镰刀
+item.tragicmc.merokite_scythe.flavortext=
+item.tragicmc.light_guard.name=光明守护者
+item.tragicmc.light_guard.flavortext=从阴影中走出来吧！让光把你带到更高的境界！
+item.tragicmc.dark_enforcer.name=黑暗执行者
+item.tragicmc.dark_enforcer.flavortext=离开光的束缚吧！阴影正在令人喜悦的虚空中迎接你！
+item.tragicmc.hallowed_edge.name=神圣的边缘
+item.tragicmc.hallowed_edge.flavortext=你凌驾于罪恶，超越了那些可憎的异教徒。你和你的弟兄们一起沐浴在阳光下。
+item.tragicmc.detested_blade.name=憎恨之刃
+item.tragicmc.detested_blade.flavortext=光明和黑暗？谁在乎呢！你不是只想玩得开心吗？加入我们吧。
+item.tragicmc.reapers_scythe.name=死神镰刀
+item.tragicmc.reapers_scythe.flavortext=我乃光明与黑暗的通道。在合适的时候充当死亡之桥。
+item.tragicmc.judgments_hand.name=审判之手
+item.tragicmc.judgments_hand.flavortext=你是纯洁而完整的。你是穿透黑暗的光。
+item.tragicmc.grim_demise.name=令人畏惧的死亡
+item.tragicmc.grim_demise.flavortext=你不能被抹去。没有你它就活不下去，所以没什么好害怕的。
+item.tragicmc.harvester.name=收割者
+item.tragicmc.harvester.flavortext=我是你终将舞出的终曲，无论是权力还是运气都无法阻止。
+
+item.tragicmc.merokite_knuckles.name=梅洛基特关节
+item.tragicmc.merokite_knuckles.flavortext=
+item.tragicmc.enforcer_gloves.name=执行者手套
+item.tragicmc.enforcer_gloves.flavortext=我要向你发起决斗！
+item.tragicmc.rough_claws.name=粗爪
+item.tragicmc.rough_claws.flavortext=他们需要锐利些。
+item.tragicmc.shutdown_bronze.name=停转青铜
+item.tragicmc.shutdown_bronze.flavortext=C-C-C-COMBO BREAKER!
+item.tragicmc.murder_grasps.name=谋杀解析
+item.tragicmc.murder_grasps.flavortext=我杀了你！
+item.tragicmc.iron_fist.name=铁腕
+item.tragicmc.iron_fist.flavortext=这正是我喜欢的统治方式。
+item.tragicmc.one_two_punch.name=左右猛击
+item.tragicmc.one_two_punch.flavortext=让我看着你一下两下！
+item.tragicmc.beastly_rippers.name=兽之开膛手
+item.tragicmc.beastly_rippers.flavortext=我们要拽，撕，扯，踢他们，然后残忍地杀了他们！
+item.tragicmc.crimson_talons.name=绯红之爪
+item.tragicmc.crimson_talons.flavortext=今夜让人们痛不欲生！
+
+item.tragicmc.torvium_helmet.name=环体头盔
+item.tragicmc.torvium_helmet.desc=
+item.tragicmc.torvium_chestplate.name=环体胸甲
+item.tragicmc.torvium_chestplate.desc=
+item.tragicmc.torvium_leggings.name=环体护腿
+item.tragicmc.torvium_leggings.desc=
+item.tragicmc.torvium_boots.name=环体靴子
+item.tragicmc.torvium_boots.desc=
+
+item.tragicmc.合金_helmet.name=合金头盔
+item.tragicmc.合金_helmet.desc=
+item.tragicmc.合金_chestplate.name=合金胸甲
+item.tragicmc.合金_chestplate.desc=
+item.tragicmc.合金_leggings.name=合金护腿
+item.tragicmc.合金_leggings.desc=
+item.tragicmc.合金_boots.name=合金靴子
+item.tragicmc.合金_boots.desc=
+
+item.tragicmc.fury_helmet.name=暴怒头盔
+item.tragicmc.fury_helmet.flavortext=
+item.tragicmc.fury_chestplate.name=暴怒胸甲
+item.tragicmc.fury_chestplate.flavortext=
+item.tragicmc.fury_leggings.name=暴怒护腿
+item.tragicmc.fury_leggings.flavortext=
+item.tragicmc.fury_boots.name=暴怒靴子
+item.tragicmc.fury_boots.flavortext=
+item.tragicmc.fury.effect=使所有近战攻击自身的敌人着火
+item.tragicmc.fury.effect.fullset=进化此套护甲以获得全套增益效果。
+
+item.tragicmc.inner_fire_helmet.name=心火头盔
+item.tragicmc.inner_fire_helmet.flavortext=
+item.tragicmc.inner_fire_chestplate.name=心火胸甲
+item.tragicmc.inner_fire_chestplate.flavortext=
+item.tragicmc.inner_fire_leggings.name=心火护腿
+item.tragicmc.inner_fire_leggings.flavortext=
+item.tragicmc.inner_fire_boots.name=心火靴子
+item.tragicmc.inner_fire_boots.flavortext=
+item.tragicmc.inner_fire.effect=使所有近战攻击自身的敌人着火
+item.tragicmc.inner_fire.effect.fullset=着火时立即熄灭，但受潮时会受到额外伤害。
+
+item.tragicmc.inferno_helmet.name=地狱火头盔
+item.tragicmc.inferno_helmet.flavortext=
+item.tragicmc.inferno_chestplate.name=地狱火胸甲
+item.tragicmc.inferno_chestplate.flavortext=
+item.tragicmc.inferno_leggings.name=地狱火护腿
+item.tragicmc.inferno_leggings.flavortext=
+item.tragicmc.inferno_boots.name=地狱火靴子
+item.tragicmc.inferno_boots.flavortext=
+item.tragicmc.inferno.effect=使所有近战攻击自身的敌人着火，并在被攻击时随机造成爆炸。
+item.tragicmc.inferno.effect.fullset=着火时立即熄灭，但受潮时会受到额外伤害。
+
+item.tragicmc.radiant_helmet.name=灿烂头盔
+item.tragicmc.radiant_helmet.flavortext=
+item.tragicmc.radiant_chestplate.name=灿烂胸甲
+item.tragicmc.radiant_chestplate.flavortext=
+item.tragicmc.radiant_leggings.name=灿烂护腿
+item.tragicmc.radiant_leggings.flavortext=
+item.tragicmc.radiant_boots.name=灿烂靴子
+item.tragicmc.radiant_boots.flavortext=
+item.tragicmc.radiant.effect=使所有近战攻击自身的敌人着火，并在被攻击时随机造成爆炸。
+item.tragicmc.radiant.effect.fullset=着火后立即熄灭。
+
+item.tragicmc.anthro_helmet.name=炭疽头盔
+item.tragicmc.anthro_helmet.flavortext=
+item.tragicmc.anthro_chestplate.name=炭疽胸甲
+item.tragicmc.anthro_chestplate.flavortext=
+item.tragicmc.anthro_leggings.name=炭疽护腿
+item.tragicmc.anthro_leggings.flavortext=
+item.tragicmc.anthro_boots.name=炭疽靴子
+item.tragicmc.anthro_boots.flavortext=
+item.tragicmc.anthro.effect=极大降低所有可阻挡的近战伤害。
+item.tragicmc.anthro.effect.fullset=进化此套护甲以获得全套增益效果。
+
+item.tragicmc.cocooned_helmet.name=虫茧头盔
+item.tragicmc.cocooned_helmet.flavortext=
+item.tragicmc.cocooned_chestplate.name=虫茧胸甲
+item.tragicmc.cocooned_chestplate.flavortext=
+item.tragicmc.cocooned_leggings.name=虫茧护腿
+item.tragicmc.cocooned_leggings.flavortext=
+item.tragicmc.cocooned_boots.name=虫茧靴子
+item.tragicmc.cocooned_boots.flavortext=
+item.tragicmc.cocooned.effect=极大降低所有可阻挡的近战伤害。
+item.tragicmc.cocooned.effect.fullset=立即移除眩晕，但之后得到缓慢效果。
+
+item.tragicmc.repulsor_helmet.name=排斥者头盔
+item.tragicmc.repulsor_helmet.flavortext=
+item.tragicmc.repulsor_chestplate.name=排斥者胸甲
+item.tragicmc.repulsor_chestplate.flavortext=
+item.tragicmc.repulsor_leggings.name=排斥者护腿
+item.tragicmc.repulsor_leggings.flavortext=
+item.tragicmc.repulsor_boots.name=排斥者靴子
+item.tragicmc.repulsor_boots.flavortext=
+item.tragicmc.repulsor.effect=极大降低所有可阻挡的近战伤害，并可能随机击退攻击者。
+item.tragicmc.repulsor.effect.fullset=立即移除眩晕，但之后得到缓慢效果。
+
+item.tragicmc.membrane_helmet.name=薄膜头盔
+item.tragicmc.membrane_helmet.flavortext=
+item.tragicmc.membrane_chestplate.name=薄膜胸甲
+item.tragicmc.membrane_chestplate.flavortext=
+item.tragicmc.membrane_leggings.name=薄膜护腿
+item.tragicmc.membrane_leggings.flavortext=
+item.tragicmc.membrane_boots.name=薄膜靴子
+item.tragicmc.membrane_boots.flavortext=
+item.tragicmc.membrane.effect=极大降低所有可阻挡的近战伤害，并可能随机击退攻击者。
+item.tragicmc.membrane.effect.fullset=立即解除眩晕。
+
+item.tragicmc.icy_helmet.name=冰冻头盔
+item.tragicmc.icy_helmet.flavortext=
+item.tragicmc.icy_chestplate.name=冰冻胸甲
+item.tragicmc.icy_chestplate.flavortext=
+item.tragicmc.icy_leggings.name=冰冻护腿
+item.tragicmc.icy_leggings.flavortext=
+item.tragicmc.icy_boots.name=冰冻靴子
+item.tragicmc.icy_boots.flavortext=
+item.tragicmc.icy.effect=有概率冻结近战攻击你的目标
+item.tragicmc.icy.effect.fullset=进化此套护甲以获得全套增益效果。
+
+item.tragicmc.frostbite_helmet.name=霜牙头盔
+item.tragicmc.frostbite_helmet.flavortext=
+item.tragicmc.frostbite_chestplate.name=霜牙胸甲
+item.tragicmc.frostbite_chestplate.flavortext=
+item.tragicmc.frostbite_leggings.name=霜牙护腿
+item.tragicmc.frostbite_leggings.flavortext=
+item.tragicmc.frostbite_boots.name=霜牙靴子
+item.tragicmc.frostbite_boots.flavortext=
+item.tragicmc.frostbite.effect=有概率冻结近战攻击你的目标。
+item.tragicmc.frostbite.effect.fullset=立即解除冰冻但受到额外的火焰伤害。
+
+item.tragicmc.halestorm_helmet.name=风暴头盔
+item.tragicmc.halestorm_helmet.flavortext=
+item.tragicmc.halestorm_chestplate.name=风暴胸甲
+item.tragicmc.halestorm_chestplate.flavortext=
+item.tragicmc.halestorm_leggings.name=风暴护腿
+item.tragicmc.halestorm_leggings.flavortext=
+item.tragicmc.halestorm_boots.name=风暴靴子
+item.tragicmc.halestorm_boots.flavortext=
+item.tragicmc.halestorm.effect=有很高的几率冻结近战攻击你的目标，很小的几率冻结远程攻击的目标。
+item.tragicmc.halestorm.effect.fullset=立即解除冰冻但受到额外的火焰伤害。
+
+item.tragicmc.blizzard_helmet.name=雪暴头盔
+item.tragicmc.blizzard_helmet.flavortext=
+item.tragicmc.blizzard_chestplate.name=雪暴胸甲
+item.tragicmc.blizzard_chestplate.flavortext=
+item.tragicmc.blizzard_leggings.name=雪暴护腿
+item.tragicmc.blizzard_leggings.flavortext=
+item.tragicmc.blizzard_boots.name=雪暴靴子
+item.tragicmc.blizzard_boots.flavortext=
+item.tragicmc.blizzard.effect=有很高的几率冻结近战攻击你的目标，很小的几率冻结远程攻击的目标。
+item.tragicmc.blizzard.effect.fullset=立即解除冻结。
+
+item.tragicmc.vulcia_helmet.name=福克斯头盔
+item.tragicmc.vulcia_helmet.flavortext=
+item.tragicmc.vulcia_chestplate.name=福克斯胸甲
+item.tragicmc.vulcia_chestplate.flavortext=
+item.tragicmc.vulcia_leggings.name=福克斯护腿
+item.tragicmc.vulcia_leggings.flavortext=
+item.tragicmc.vulcia_boots.name=福克斯靴子
+item.tragicmc.vulcia_boots.flavortext=
+item.tragicmc.vulcia.effect=在下界时，受到所有可阻挡伤害减少。
+item.tragicmc.vulcia.effect.fullset=受到来自BOSS的伤害减少,但受到其他生物的伤害增加。
+
+item.tragicmc.draconic_helmet.name=龙语头盔
+item.tragicmc.draconic_helmet.flavortext=
+item.tragicmc.draconic_chestplate.name=龙语胸甲
+item.tragicmc.draconic_chestplate.flavortext=
+item.tragicmc.draconic_leggings.name=龙语护腿
+item.tragicmc.draconic_leggings.flavortext=
+item.tragicmc.draconic_boots.name=龙语靴子
+item.tragicmc.draconic_boots.flavortext=
+item.tragicmc.draconic.effect=受到所有可阻挡伤害减少。
+item.tragicmc.draconic.effect.fullset=受到来自BOSS的伤害减少,但受到其他生物的伤害增加。
+
+item.tragicmc.dragonborne_helmet.name=龙裔头盔
+item.tragicmc.dragonborne_helmet.flavortext=
+item.tragicmc.dragonborne_chestplate.name=龙裔胸甲
+item.tragicmc.dragonborne_chestplate.flavortext=
+item.tragicmc.dragonborne_leggings.name=龙裔护腿
+item.tragicmc.dragonborne_leggings.flavortext=
+item.tragicmc.dragonborne_boots.name=龙裔靴子
+item.tragicmc.dragonborne_boots.flavortext=
+item.tragicmc.dragonborne.effect=受到所有可阻挡伤害减少。
+item.tragicmc.dragonborne.effect.fullset=受到来自BOSS的伤害减少
+
+item.tragicmc.intuned_helmet.name=插管头盔
+item.tragicmc.intuned_helmet.flavortext=
+item.tragicmc.intuned_chestplate.name=插管胸甲
+item.tragicmc.intuned_chestplate.flavortext=
+item.tragicmc.intuned_leggings.name=插管护腿
+item.tragicmc.intuned_leggings.flavortext=
+item.tragicmc.intuned_boots.name=插管靴子
+item.tragicmc.intuned_boots.flavortext=
+item.tragicmc.intuned.effect=对其他生物交互攻击变化的艾克洛米增加
+item.tragicmc.intuned.effect.fullset=艾克洛米回复速度加倍，冷却时间减半
+
+item.tragicmc.ensnared_helmet.name=陷阱头盔
+item.tragicmc.ensnared_helmet.flavortext=
+item.tragicmc.ensnared_chestplate.name=陷阱胸甲
+item.tragicmc.ensnared_chestplate.flavortext=
+item.tragicmc.ensnared_leggings.name=陷阱护腿
+item.tragicmc.ensnared_leggings.flavortext=
+item.tragicmc.ensnared_boots.name=陷阱靴子
+item.tragicmc.ensnared_boots.flavortext=
+item.tragicmc.ensnared.effect=对其他生物交互攻击变化的艾克洛米增加
+item.tragicmc.ensnared.effect.fullset=艾克洛米回复速度加倍，冷却时间减半
+
+item.tragicmc.plaguewielder_helmet.name=转轮头盔
+item.tragicmc.plaguewielder_helmet.flavortext=
+item.tragicmc.plaguewielder_chestplate.name=转轮胸甲
+item.tragicmc.plaguewielder_chestplate.flavortext=
+item.tragicmc.plaguewielder_leggings.name=转轮护腿
+item.tragicmc.plaguewielder_leggings.flavortext=
+item.tragicmc.plaguewielder_boots.name=转轮靴子
+item.tragicmc.plaguewielder_boots.flavortext=
+item.tragicmc.plaguewielder.effect=对其他生物交互攻击变化的艾克洛米增加
+item.tragicmc.plaguewielder.effect.fullset=使艾克洛米回复速度加倍
+
+item.tragicmc.animate_helmet.name=活力头盔
+item.tragicmc.animate_helmet.flavortext=
+item.tragicmc.animate_chestplate.name=活力胸甲
+item.tragicmc.animate_chestplate.flavortext=
+item.tragicmc.animate_leggings.name=活力护腿
+item.tragicmc.animate_leggings.flavortext=
+item.tragicmc.animate_boots.name=活力靴子
+item.tragicmc.animate_boots.flavortext=
+item.tragicmc.animate.effect=极大地减少所有受到的可阻挡伤害，但可以随机地将受到的可阻挡伤害转化为不可阻挡的伤害。
+item.tragicmc.animate.effect.fullset=可能会使你的非穿透伤害随机变成穿透伤害。但也可能相反。
+
+item.tragicmc.crystalline_helmet.name=结晶头盔
+item.tragicmc.crystalline_helmet.flavortext=
+item.tragicmc.crystalline_chestplate.name=结晶胸甲
+item.tragicmc.crystalline_chestplate.flavortext=
+item.tragicmc.crystalline_leggings.name=结晶护腿
+item.tragicmc.crystalline_leggings.flavortext=
+item.tragicmc.crystalline_boots.name=结晶靴子
+item.tragicmc.crystalline_boots.flavortext=
+item.tragicmc.crystalline.effect=极大地减少所有受到的可阻挡伤害。
+item.tragicmc.crystalline.effect.fullset=可能会使你的非穿透伤害随机变成穿透伤害。
+
+item.tragicmc.amorphous_helmet.name=无定形头盔
+item.tragicmc.amorphous_helmet.flavortext=
+item.tragicmc.amorphous_chestplate.name=无定形胸甲
+item.tragicmc.amorphous_chestplate.flavortext=
+item.tragicmc.amorphous_leggings.name=无定形护腿
+item.tragicmc.amorphous_leggings.flavortext=
+item.tragicmc.amorphous_boots.name=无定形靴子
+item.tragicmc.amorphous_boots.flavortext=
+item.tragicmc.amorphous.effect=极大地减少所有受到的可阻挡伤害。
+item.tragicmc.amorphous.effect.fullset=可能会使你的非穿透伤害随机变成穿透伤害。
+
+item.tragicmc.banshee_helmet.name=报丧女妖头盔
+item.tragicmc.banshee_helmet.flavortext=
+item.tragicmc.banshee_chestplate.name=报丧女妖胸甲
+item.tragicmc.banshee_chestplate.flavortext=
+item.tragicmc.banshee_leggings.name=报丧女妖护腿
+item.tragicmc.banshee_leggings.flavortext=
+item.tragicmc.banshee_boots.name=报丧女妖靴子
+item.tragicmc.banshee_boots.flavortext=
+item.tragicmc.banshee.effect=极大降低可阻挡的魔法伤害。
+item.tragicmc.banshee.effect.fullset=可能会随机重置攻击者的目标，干扰某些能力和攻击，但这也会吸引来自周围区域的新敌人。
+
+item.tragicmc.terrorizer_helmet.name=恐吓者头盔
+item.tragicmc.terrorizer_helmet.flavortext=
+item.tragicmc.terrorizer_chestplate.name=恐吓者胸甲
+item.tragicmc.terrorizer_chestplate.flavortext=
+item.tragicmc.terrorizer_leggings.name=恐吓者护腿
+item.tragicmc.terrorizer_leggings.flavortext=
+item.tragicmc.terrorizer_boots.name=恐吓者靴子
+item.tragicmc.terrorizer_boots.flavortext=
+item.tragicmc.terrorizer.effect=极大降低所有魔法伤害。
+item.tragicmc.terrorizer.effect.fullset=可能会随机重置攻击者的目标，干扰某些能力和攻击，但这也会吸引来自周围区域的新敌人。
+
+item.tragicmc.shrieker_helmet.name=尖叫者头盔
+item.tragicmc.shrieker_helmet.flavortext=
+item.tragicmc.shrieker_chestplate.name=尖叫者胸甲
+item.tragicmc.shrieker_chestplate.flavortext=
+item.tragicmc.shrieker_leggings.name=尖叫者护腿
+item.tragicmc.shrieker_leggings.flavortext=
+item.tragicmc.shrieker_boots.name=尖叫者靴子
+item.tragicmc.shrieker_boots.flavortext=
+item.tragicmc.shrieker.effect=极大降低所有魔法伤害。
+item.tragicmc.shrieker.effect.fullset=可以随机重置攻击者的目标，扰乱某些能力和攻击。
+
+item.tragicmc.soul_helmet.name=灵魂头盔
+item.tragicmc.soul_helmet.flavortext=
+item.tragicmc.soul_chestplate.name=灵魂胸甲
+item.tragicmc.soul_chestplate.flavortext=
+item.tragicmc.soul_leggings.name=灵魂护腿
+item.tragicmc.soul_leggings.flavortext=
+item.tragicmc.soul_boots.name=灵魂靴子
+item.tragicmc.soul_boots.flavortext=
+item.tragicmc.soul.effect=有机会免疫可阻挡的魔法伤害。
+item.tragicmc.soul.effect.fullset=完全免疫反射伤害，但受到额外近战攻击伤害。
+
+item.tragicmc.sacred_helmet.name=神圣头盔
+item.tragicmc.sacred_helmet.flavortext=
+item.tragicmc.sacred_chestplate.name=神圣胸甲
+item.tragicmc.sacred_chestplate.flavortext=
+item.tragicmc.sacred_leggings.name=神圣护腿
+item.tragicmc.sacred_leggings.flavortext=
+item.tragicmc.sacred_boots.name=神圣靴子
+item.tragicmc.sacred_boots.flavortext=
+item.tragicmc.sacred.effect=有很高的几率免疫可阻挡的魔法伤害。
+item.tragicmc.sacred.effect.fullset=完全免疫反射伤害，但受到额外近战攻击伤害。
+
+item.tragicmc.divination_helmet.name=预言头盔
+item.tragicmc.divination_helmet.flavortext=
+item.tragicmc.divination_chestplate.name=预言胸甲
+item.tragicmc.divination_chestplate.flavortext=
+item.tragicmc.divination_leggings.name=预言护腿
+item.tragicmc.divination_leggings.flavortext=
+item.tragicmc.divination_boots.name=预言靴子
+item.tragicmc.divination_boots.flavortext=
+item.tragicmc.divination.effect=有很高的几率免疫可阻挡的魔法伤害。
+item.tragicmc.divination.effect.fullset=完全免疫反射伤害。
+
+item.tragicmc.amalgium_helmet.name=艾玛格姆头盔
+item.tragicmc.amalgium_helmet.flavortext=
+item.tragicmc.amalgium_chestplate.name=艾玛格姆胸甲
+item.tragicmc.amalgium_chestplate.flavortext=
+item.tragicmc.amalgium_leggings.name=艾玛格姆护腿
+item.tragicmc.amalgium_leggings.flavortext=
+item.tragicmc.amalgium_boots.name=艾玛格姆靴子
+item.tragicmc.amalgium_boots.flavortext=
+item.tragicmc.amalgium.effect=减少不可阻挡伤害。
+item.tragicmc.amalgium.effect.fullset=极大的减少外星生物造成的可阻挡伤害，但会受到额外的不可阻挡伤害。
+
+item.tragicmc.orbital_helmet.name=轨道头盔
+item.tragicmc.orbital_helmet.flavortext=
+item.tragicmc.orbital_chestplate.name=轨道胸甲
+item.tragicmc.orbital_chestplate.flavortext=
+item.tragicmc.orbital_leggings.name=轨道护腿
+item.tragicmc.orbital_leggings.flavortext=
+item.tragicmc.orbital_boots.name=轨道靴子
+item.tragicmc.orbital_boots.flavortext=
+item.tragicmc.orbital.effect=进一步减少受到的不可阻挡伤害。
+item.tragicmc.orbital.effect.fullset=极大的减少外星生物造成的可阻挡伤害，但从他们身上获得额外的不可阻挡伤害。
+
+item.tragicmc.interstellar_helmet.name=星际头盔
+item.tragicmc.interstellar_helmet.flavortext=
+item.tragicmc.interstellar_chestplate.name=星际胸甲
+item.tragicmc.interstellar_chestplate.flavortext=
+item.tragicmc.interstellar_leggings.name=星际护腿
+item.tragicmc.interstellar_leggings.flavortext=
+item.tragicmc.interstellar_boots.name=星际靴子
+item.tragicmc.interstellar_boots.flavortext=
+item.tragicmc.interstellar.effect=进一步减少受到的不可阻挡伤害。
+item.tragicmc.interstellar.effect.fullset=大大减少外星生物造成的可阻挡伤害。
+
+item.tragicmc.fiber_helmet.name=纤维头盔
+item.tragicmc.fiber_helmet.flavortext=
+item.tragicmc.fiber_chestplate.name=纤维胸甲
+item.tragicmc.fiber_chestplate.flavortext=
+item.tragicmc.fiber_leggings.name=纤维护腿
+item.tragicmc.fiber_leggings.flavortext=
+item.tragicmc.fiber_boots.name=纤维靴子
+item.tragicmc.fiber_boots.flavortext=
+item.tragicmc.fiber.effect=大大减少人造生物造成的可阻挡伤害。
+item.tragicmc.fiber.effect.fullset=可以随机阻挡可阻挡的命中，并在阻挡时附加虚弱效果。
+
+item.tragicmc.cybernetic_helmet.name=机械造头盔
+item.tragicmc.cybernetic_helmet.flavortext=
+item.tragicmc.cybernetic_chestplate.name=机械造胸甲
+item.tragicmc.cybernetic_chestplate.flavortext=
+item.tragicmc.cybernetic_leggings.name=机械造护腿
+item.tragicmc.cybernetic_leggings.flavortext=
+item.tragicmc.cybernetic_boots.name=机械造靴子
+item.tragicmc.cybernetic_boots.flavortext=
+item.tragicmc.cybernetic.effect=大大减少人造生物造成的可阻挡伤害。
+item.tragicmc.cybernetic.effect.fullset=可以随机阻挡可阻挡的命中，并在阻挡时附加力量效果。
+
+item.tragicmc.ender_helmet.name=末影头盔
+item.tragicmc.ender_helmet.flavortext=
+item.tragicmc.ender_chestplate.name=末影胸甲
+item.tragicmc.ender_chestplate.flavortext=
+item.tragicmc.ender_leggings.name=末影护腿
+item.tragicmc.ender_leggings.flavortext=
+item.tragicmc.ender_boots.name=末影靴子
+item.tragicmc.ender_boots.flavortext=
+item.tragicmc.ender.effect=阻挡攻击时可能导致攻击者变慢和失明。
+item.tragicmc.ender.effect.fullset=极大的减少被阻挡的命中所造成的伤害，但是从可阻挡的命中中受到的伤害会大大增加。
+
+item.tragicmc.punisher_helmet.name=惩罚者头盔
+item.tragicmc.punisher_helmet.flavortext=
+item.tragicmc.punisher_chestplate.name=惩罚者胸甲
+item.tragicmc.punisher_chestplate.flavortext=
+item.tragicmc.punisher_leggings.name=惩罚者护腿
+item.tragicmc.punisher_leggings.flavortext=
+item.tragicmc.punisher_boots.name=惩罚者靴子
+item.tragicmc.punisher_boots.flavortext=
+item.tragicmc.punisher.effect=阻挡攻击时可能导致攻击者变慢和失明。
+item.tragicmc.punisher.effect.fullset=极大地减少不可阻挡的命中造成的伤害。
+
+item.tragicmc.reaper_helmet.name=收割者头盔
+item.tragicmc.reaper_helmet.flavortext=
+item.tragicmc.reaper_chestplate.name=收割者胸甲
+item.tragicmc.reaper_chestplate.flavortext=
+item.tragicmc.reaper_leggings.name=收割者护腿
+item.tragicmc.reaper_leggings.flavortext=
+item.tragicmc.reaper_boots.name=收割者靴
+item.tragicmc.reaper_boots.flavortext=
+item.tragicmc.reaper.effect=对生命值低于总生命值一半的怪物造成额外伤害。
+item.tragicmc.reaper.effect.fullset=对BOSS造成额外伤害
+
+item.tragicmc.aeria.name=天线
+item.tragicmc.aeria.flavortext=
+item.tragicmc.aeria.desc=指向埃癸斯的祭品 可用于在时间裂缝创造通向埃癸斯的空间异常点 也可以用于在正确的祭坛召唤埃癸斯。
+item.tragicmc.synaptic_resonator.name=突触谐振器
+item.tragicmc.synaptic_resonator.flavortext=
+item.tragicmc.synaptic_resonator.desc=指向领主的祭品. 可用于在正确的祭坛召唤领主。
+
+item.tragicmc.fury_steel.name=狂暴钢锭
+item.tragicmc.endall.name=端锭
+item.tragicmc.carbon_fiber.name=碳纤维
+item.tragicmc.screaming_steel.name=尖利钢锭
+item.tragicmc.magesteel.name=磁钢锭
+item.tragicmc.circuit_board.name=电路板
+item.tragicmc.shadowskin.name=暗肤
+item.tragicmc.lightveil.name=轻纱
+item.tragicmc.roaring_star.name=咆哮之星
+item.tragicmc.draconium.name=龙舌兰块
+item.tragicmc.cybernetics.name=神经机械
+item.tragicmc.errandia_primus.name=卢旺达炉
+
+item.tragicmc.organics.name=有机物
+item.tragicmc.amalgis.name=艾莫基耶斯
+item.tragicmc.amalgium.name=艾莫吉姆
+item.tragicmc.corruption_matrix.name=腐败矩阵
+item.tragicmc.corruption_matrix.desc=可以通过时间裂缝创造一个通向突触维度的空间异常点
+
+item.tragicmc.fury_ember.name=火之余烬
+item.tragicmc.fury_ember.desc=击败有火焰属性的怪物获得的。
+item.tragicmc.chitin.name=甲壳素
+item.tragicmc.chitin.desc=击败皮肤坚硬或有外壳的怪物获得的。
+item.tragicmc.plastic.name=塑料
+item.tragicmc.plastic.desc=击败突触中的普通怪物获得
+item.tragicmc.light_particles.name=光粒子
+item.tragicmc.light_particles.desc=击败光属性的怪物获得
+item.tragicmc.dark_particles.name=暗粒子
+item.tragicmc.dark_particles.desc=击败黑暗属性的怪物中获得。
+item.tragicmc.unstable_essence.name=不稳定本质
+item.tragicmc.unstable_essence.desc=击败碰撞中的普通怪物获得。
+item.tragicmc.fur.name=毛皮
+item.tragicmc.fur.desc=击败长毛的怪物获得。
+item.tragicmc.ice_shard.name=冰之碎片
+item.tragicmc.ice_shard.desc=击败冰冷的怪物获得。
+item.tragicmc.enchanted_orb.name=魔法球
+item.tragicmc.enchanted_orb.desc=击败有魔力的怪物获得
+item.tragicmc.blood_crystal.name=血之结晶
+item.tragicmc.blood_crystal.desc=击败吸血的怪物获得。
+item.tragicmc.toxic_resin.name=有毒树脂
+item.tragicmc.toxic_resin.desc=击败带毒的怪物获得。
+item.tragicmc.animate_crystalline.name=激活水晶
+item.tragicmc.animate_crystalline.desc=击败水晶怪物获得。
+item.tragicmc.fiberglass.name=玻璃纤维
+item.tragicmc.fiberglass.desc=击败瑞雷获得
+item.tragicmc.nannite.name=纳米晶
+item.tragicmc.nannite.desc=打败纳米蜂群获得。
+item.tragicmc.screaming_hide.name=尖叫毛皮
+item.tragicmc.screaming_hide.desc=击败哥哥特获得.
+item.tragicmc.fusea_cell.name=佛赛的细胞
+item.tragicmc.fusea_cell.desc=击败佛赛获得
+item.tragicmc.spider_silk.name=蜘蛛丝
+item.tragicmc.spider_silk.desc=击败像蜘蛛的怪物获得
+item.tragicmc.aggro_hide.name=安格洛斯的毛皮
+item.tragicmc.aggro_hide.desc=击败安格洛斯获得.
+item.tragicmc.soul_fragment.name=灵魂碎片
+item.tragicmc.soul_fragment.desc=击败像鬼魂的怪物获得。
+item.tragicmc.angelic_feather.name=天使的羽毛
+item.tragicmc.angelic_feather.desc=击败安吉尔获得
+item.tragicmc.aegite.name=霓辉石
+item.tragicmc.aegite.desc=击败普通埃癸斯获得
+item.tragicmc.errandia.name=卢旺达
+item.tragicmc.errandia.desc=成功击败挑战boss获得
+item.tragicmc.solidified_corruption.name=固态腐化
+item.tragicmc.solidified_corruption.desc=使用腐败汲取者获得。
+item.tragicmc.chrono_flux.name=时间通量
+item.tragicmc.chrono_flux.desc=成功与时间裂缝交互中得到
+item.tragicmc.null_condenser.name=零电容器
+item.tragicmc.null_condenser.desc=从一个特殊版本的埃癸斯获得，位于它的地牢里。
+
+item.tragicmc.logic_tetrahedra.name=逻辑四面体
+item.tragicmc.logic_tetrahedra.desc=击败罗格斯获得。
+item.tragicmc.kitsune_tail.name=克尤特苏之尾
+item.tragicmc.kitsune_tail.desc=击败克尤特苏获得。
+item.tragicmc.laughing_heart.name=发笑之心
+item.tragicmc.laughing_heart.desc=击败斯凯莱廷获得。
+item.tragicmc.pariah_crown.name=被遗弃者之冠
+item.tragicmc.pariah_crown.desc=击败恩帕利亚获得。
+item.tragicmc.polaric_bond.name=北极星之带
+item.tragicmc.polaric_bond.desc=击败北极星获得。
+item.tragicmc.molten_heart.name=米诺斯的心脏
+item.tragicmc.molten_heart.desc=击败米诺斯获得。
+item.tragicmc.consumed_eye.name=消耗之眼
+item.tragicmc.consumed_eye.desc=击败恩维尔获得。
+item.tragicmc.weightless_clay.name=失重黏土
+item.tragicmc.weightless_clay.desc=击败克莱门斯获得
+item.tragicmc.seraphim_crystal.name=塞拉菲斯的水晶
+item.tragicmc.seraphim_crystal.desc=击败塞拉菲斯获得
+item.tragicmc.feist_core.name=费斯特之核
+item.tragicmc.feist_core.desc=击败费斯特获得
+item.tragicmc.baboom_hide.name=巴博的毛皮
+item.tragicmc.baboom_hide.desc=击败巴博获得。
+item.tragicmc.arachne_venom.name=阿拉克涅的毒液
+item.tragicmc.arachne_venom.desc=击败阿拉克涅获得。
+item.tragicmc.corsing_skin.name=科瑟的皮肤
+item.tragicmc.corsing_skin.desc=击败科瑟获得。
+item.tragicmc.ranmas_shell.name=兰玛斯的外壳
+item.tragicmc.ranmas_shell.desc=击败兰玛斯获得。
+item.tragicmc.light_cortex.name=光皮质
+item.tragicmc.light_cortex.desc=击败光精灵获得。
+item.tragicmc.corrosion_sphere.name=腐蚀球
+item.tragicmc.corrosion_sphere.desc=击败卡加获得。
+item.tragicmc.dark_soul.name=黑暗之魂
+item.tragicmc.dark_soul.desc=击败锡拉获得。
+
+item.tragicmc.aegicore.name=埃癸斯之核 v2.42.1771b
+item.tragicmc.aegicore.desc=击败埃癸斯获得
+item.tragicmc.overlord_extract.name=领主摘录
+item.tragicmc.overlord_extract.desc=击败领主中获得。
+
+item.tragicmc.viscous_goo.name=粘性粘胶
+item.tragicmc.viscous_goo.desc=击败耶尔诺获得。
+item.tragicmc.pyrrhic_core.name=苦艾核
+item.tragicmc.pyrrhic_core.desc=杀死莫提尔获得
+item.tragicmc.ectoplasm.name=灵质
+item.tragicmc.ectoplasm.desc=杀死回响获得
+
+item.tragicmc.ash.name=灰烬
+item.tragicmc.ash.desc=杀死燃烧或灰烬状态的怪物获得
+item.tragicmc.corrupted_essence.name=腐化精华
+item.tragicmc.corrupted_essence.desc=杀死腐败的怪物获得。
+item.tragicmc.metal_chunk.name=金属块
+item.tragicmc.metal_chunk.desc=杀死金属怪物获得。
+item.tragicmc.wither_dust.name=凋零尘
+item.tragicmc.wither_dust.desc=杀死凋零状态的怪物获得。
+item.tragicmc.scales.name=鳞片
+item.tragicmc.scales.desc=击败长鳞片的怪物获得。
+item.tragicmc.foreign_particles.name=外来颗粒物
+item.tragicmc.foreign_particles.desc=杀死外星人获得。
+
+item.tragicmc.noctu_spiritia.name=夜灵
+item.tragicmc.noctu_spiritia.desc=在黑暗里杀死怪物获得。
+item.tragicmc.litho_spiritia.name=莉丝灵
+item.tragicmc.litho_spiritia.desc=在光下杀死怪物获得。
+item.tragicmc.anima_spiritia.name=阿尼玛灵
+item.tragicmc.anima_spiritia.desc=杀死有兽性的怪物获得。
+item.tragicmc.magica_spiritia.name=魔灵
+item.tragicmc.magica_spiritia.desc=杀死有魔力的生物获得。
+item.tragicmc.xeno_spiritia.name=异族灵
+item.tragicmc.xeno_spiritia.desc=杀死外星人获得。
+item.tragicmc.flora_spiritia.name=费罗拉灵
+item.tragicmc.flora_spiritia.desc=打败像植物一样的怪物获得。
+item.tragicmc.prima_spiritia.name=普利马灵
+item.tragicmc.prima_spiritia.desc=杀死任何BOSS获得。
+item.tragicmc.desidios_spiritia.name=德赛迪奥灵
+item.tragicmc.desidios_spiritia.desc=杀死任何动物获得。
+item.tragicmc.lateralus_spiritia.name=雷特拉斯灵
+item.tragicmc.lateralus_spiritia.desc=杀死任何生物获得。
+item.tragicmc.divina_spiritia.name=迪维娜灵
+item.tragicmc.divina_spiritia.desc=通过合成较小类型的灵而获得。
+
+item.tragicmc.dewdrop_fruit.name=露珠
+item.tragicmc.dewdrop_fruit.desc=食用后获得再生状态。可以在神圣森林生物群系中找到。
+item.tragicmc.highlight_fruit.name=挑染
+item.tragicmc.highlight_fruit.desc=食用后获得饱和状态。可以在神圣森林生物群系中找到。
+item.tragicmc.lilt_fruit.name=轻快旋律
+item.tragicmc.lilt_fruit.desc=食用后立即增加生命值 可以在森林生物群系中找到。
+item.tragicmc.skyfruit_fruit.name=天空之果
+item.tragicmc.skyfruit_fruit.desc=食用后增加跳跃能力。可以在森林生物群系中找到。
+item.tragicmc.duchess_fruit.name=公爵夫人
+item.tragicmc.duchess_fruit.desc=吃后获得伤害吸收。可以在黑森林生物群系中找到。
+item.tragicmc.nightcrawler_fruit.name=夜行者
+item.tragicmc.nightcrawler_fruit.desc=食用后得到夜视能力。可以在黑森林生物群系中找到。
+item.tragicmc.dormont_fruit.name=多尔蒙
+item.tragicmc.dormont_fruit.desc=食用后增加抗性 可以在格林生物群系中找到.
+item.tragicmc.ravenclaw_fruit.name=拉文克劳
+item.tragicmc.ravenclaw_fruit.desc=食用后增加力量。 可以在格林生物群系中找到.
+item.tragicmc.griffith_fruit.name=格里菲斯
+item.tragicmc.griffith_fruit.desc=食用后加速。可以在格林生物群系中找到。
+
+item.tragicmc.fleshy_stew.name=多肉炖菜
+item.tragicmc.black_pudding.name=黑布丁
+
+item.tragicmc.scroll_light.name=光芒卷轴
+item.tragicmc.scroll_chosen.name=天选卷轴
+item.tragicmc.scroll_dark.name=暗黑卷轴
+item.tragicmc.scroll_logical.name=逻辑卷轴
+item.tragicmc.scroll_diligent.name=勤勉卷轴
+item.tragicmc.scroll_chaotic.name=混沌卷轴
+item.tragicmc.scroll_seed.name=起源卷轴
+item.tragicmc.scroll_noble.name=崇高卷轴
+item.tragicmc.scroll_deranged.name=错乱卷轴
+item.tragicmc.scroll_deceitful.name=欺瞒卷轴
+item.tragicmc.scroll_reaper.name=收割者卷轴
+
+item.tragicmc.temporal_instigator.name=时间操作者
+item.tragicmc.temporal_instigator.desc=右击召唤时间裂缝。必须点击地面。
+
+item.tragicmc.spawn_egg.name=生成
+
+item.tragicmc.script.name=召唤圣典
+item.tragicmc.script.desc=右击召唤生物。必须放在地上。要记住，128个方块内不允许产生多个BOSS，新的BOSS将会消失
+
+item.tragicmc.ethereal_dust.name=空灵之尘
+item.tragicmc.ethereal_dust.desc=右击立即传送到鼠标指针处。只有对着固体方块时才起作用，对液体不起作用。
+
+#Advancement names and descriptions
+#Root advancements
+advancement.tragicmc.tragicmc=TragicMC - 进程
+advancement.tragicmc.tragicmc.desc=感谢您使用本mod，玩的愉快！（在聊天框中使用/tragimc命令获取Wiki帮助！）
+advancement.tragicmc.achromy=TragicMC - 艾克洛米
+advancement.tragicmc.achromy.desc=这帮助你了解此MOD的能量系统
+advancement.tragicmc.challenge=TragicMC - 挑战
+advancement.tragicmc.challenge.desc=这些都是与通关无关的挑战！如果你觉得无聊的话，就完成它们：）
+advancement.tragicmc.crafting=TragicMC - 制作
+advancement.tragicmc.crafting.desc=这帮助你了解此MOD的结构。
+
+#Progression advancements
+advancement.tragicmc.roaming_boss=已经没有什么好怕的了。
+advancement.tragicmc.roaming_boss.desc=击败一个游荡的BOSS。
+advancement.tragicmc.roaming_boss_vanilla=漂泊向何方
+advancement.tragicmc.roaming_boss_vanilla.desc=击败三个主世界游荡BOSS
+advancement.tragicmc.craft_porter=波特Mk II运输机
+advancement.tragicmc.craft_porter.desc=制造一个搬运者（碰撞追踪器）
+advancement.tragicmc.reach_collision=等待，回归。
+advancement.tragicmc.reach_collision.desc=进入碰撞。
+advancement.tragicmc.time_fissure=这很简单，不是吗？
+advancement.tragicmc.time_fissure.desc=通过激活时空裂缝来召唤实体
+advancement.tragicmc.instanced_boss=我想开始一场战斗！
+advancement.tragicmc.instanced_boss.desc=使用受到影响的物品从时间裂缝召唤一个BOSS
+advancement.tragicmc.instanced_boss_collision=八分为九
+advancement.tragicmc.instanced_boss_collision.desc=击败所有8个碰撞BOSS
+advancement.tragicmc.craft_aeria=我希望你喜欢迷宫
+advancement.tragicmc.craft_aeria.desc=制造一个天线进入埃癸斯。
+advancement.tragicmc.defeat_aegis=渎职重定向
+advancement.tragicmc.defeat_aegis.desc=打败埃癸斯
+advancement.tragicmc.craft_vacuum=当光变成绿色的时候.....
+advancement.tragicmc.craft_vacuum.desc=制造一个腐败汲取者，创造固态腐化
+advancement.tragicmc.reach_synapse=共振峰
+advancement.tragicmc.reach_synapse.desc=制造一个腐败矩阵，进入突触准备战斗。
+advancement.tragicmc.defeat_overlord=时空奇遇
+advancement.tragicmc.defeat_overlord.desc=花较少时间击败领主
+
+#Crafting advancements
+advancement.tragicmc.merokite_ore=矿在左右
+advancement.tragicmc.merokite_ore.desc=开采一些梅洛基特矿。
+advancement.tragicmc.merokite_weapon=强大的核心
+advancement.tragicmc.merokite_weapon.desc=制造一种以梅梅洛基特核心为基础的武器。
+advancement.tragicmc.merokite_armor=坚固的底座
+advancement.tragicmc.merokite_armor.desc=制造一个梅洛基特0级一个护甲碎片
+advancement.tragicmc.infuse_weapon=更强大
+advancement.tragicmc.infuse_weapon.desc=给梅洛基特武器注入艾克洛米以增加其攻击等级。
+advancement.tragicmc.infuse_armor=更多火焰，更少烟雾
+advancement.tragicmc.infuse_armor.desc=在一个梅洛基特层盔甲中注入艾克洛米以增加它的护甲等级。
+advancement.tragicmc.anvil_interactions=工作不止
+advancement.tragicmc.anvil_interactions.desc=在铁砧上进行一次消耗10艾克洛米的操作
+advancement.tragicmc.anvil_interactions_100=最好的铁匠
+advancement.tragicmc.anvil_interactions_100.desc=在铁砧上进行一次消耗100艾克洛米的操作
+advancement.tragicmc.anvil_interactions_1000=当代绝匠
+advancement.tragicmc.anvil_interactions_1000.desc=在铁砧上进行一次消耗1000艾克洛米的操作
+advancement.tragicmc.evolve_weapon=重大突破
+advancement.tragicmc.evolve_weapon.desc=将一个梅洛基特级武器升级。
+advancement.tragicmc.evolve_weapon_2=请继续做梦吧。
+advancement.tragicmc.evolve_weapon_2.desc=将一个梅洛基特级武器升级到二级。
+advancement.tragicmc.evolve_weapon_3=有限破坏者
+advancement.tragicmc.evolve_weapon_3.desc=将一个梅洛基特级武器升级到三级。
+advancement.tragicmc.evolve_armor=剑拔弩张
+advancement.tragicmc.evolve_armor.desc=使一个梅洛基特装甲进化
+advancement.tragicmc.evolve_armor_2=复杂的工作
+advancement.tragicmc.evolve_armor_2.desc=将一个梅洛基特的护甲升级到二级。
+advancement.tragicmc.evolve_armor_3=华丽的事业
+advancement.tragicmc.evolve_armor_3.desc=将一个梅洛基特的护甲升级到三级。
+advancement.tragicmc.full_tier_3=异国风情的生活
+advancement.tragicmc.full_tier_3.desc=双手持三级武器时，穿戴全套3级装甲。
+advancement.tragicmc.full_armor_set=正义的伙伴们集合！
+advancement.tragicmc.full_armor_set.desc=穿上一整套相同的盔甲获得全套奖励。
+advancement.tragicmc.full_armor_set_1=让我们的力量结合起来
+advancement.tragicmc.full_armor_set_1.desc=穿上一整套相同的一级护甲获得全套奖励。
+advancement.tragicmc.full_armor_set_2=战神金刚启动！
+advancement.tragicmc.full_armor_set_2.desc=穿上一整套相同的二级护甲获得全套奖励。
+advancement.tragicmc.full_armor_set_3=是变形的时候了！
+advancement.tragicmc.full_armor_set_3.desc=穿上一整套相同的3级护甲获得全套奖励。
+
+
+#Achromy advancements
+advancement.tragicmc.use_ability=神力在左！
+advancement.tragicmc.use_ability.desc=使用一种神力。
+advancement.tragicmc.use_ability_3=我是个高级的侍从
+advancement.tragicmc.use_ability_3.desc=使用一种需要3级感知的神力。
+advancement.tragicmc.use_ability_5=何为不稳定之光？
+advancement.tragicmc.use_ability_5.desc=使用需要5级感知的神力。
+advancement.tragicmc.corruption_recovery=上帝对你微笑
+advancement.tragicmc.corruption_recovery.desc=从腐化或戒断症状恢复
+advancement.tragicmc.corruption_self_recovery=我将自救！
+advancement.tragicmc.corruption_self_recovery.desc=在不使用怜悯的情况下离开腐化状态
+advancement.tragicmc.become_consumed=你是天选之人！
+advancement.tragicmc.become_consumed.desc=使用人性牺牲并成为腐化者。
+advancement.tragicmc.become_pure=我不会把你留在此处。
+advancement.tragicmc.become_pure.desc=用纯洁的拥抱，回归纯洁。
+advancement.tragicmc.knowledge_level=知识就是力量！
+advancement.tragicmc.knowledge_level.desc=通过有效地运用你的能力来获得感知。
+advancement.tragicmc.knowledge_level_3=高材生
+advancement.tragicmc.knowledge_level_3.desc=达到3级感知。
+advancement.tragicmc.knowledge_level_5=Minecraft教授
+advancement.tragicmc.knowledge_level_5.desc=达到5级感知。
+advancement.tragicmc.ability_level=更多力量！
+advancement.tragicmc.ability_level.desc=拥有足够感知能力，并有效地使用神力来提升它。
+advancement.tragicmc.ability_level_m=神力主宰
+advancement.tragicmc.ability_level_m.desc=使用一个提升到M级的神力。
+advancement.tragicmc.use_blessing_full=带来增益的祝福
+advancement.tragicmc.use_blessing_full.desc=在一次祝福中使用所有神力
+advancement.tragicmc.use_blessing_full_m=真实祝福
+advancement.tragicmc.use_blessing_full_m.desc=通过祝福完全提升所有神力到M级。
+advancement.tragicmc.use_perk=我的冷血动物在哪？
+advancement.tragicmc.use_perk.desc=获得并激活一个特长。
+advancement.tragicmc.use_perk_5=中途选10
+advancement.tragicmc.use_perk_5.desc=获得并激活5个不同的特权。
+advancement.tragicmc.use_perk_10=1到10
+advancement.tragicmc.use_perk_10.desc=获得并激活10个不同的特权。
+advancement.tragicmc.use_feat=真是了不起的壮举
+advancement.tragicmc.use_feat.desc=获得并激活专长。
+advancement.tragicmc.use_feat_6=让你大饱眼福
+advancement.tragicmc.use_feat_6.desc=获得并激活6个不同的专长。
+
+
+#Collection/Challenge advancements
+advancement.tragicmc.collections=收集
+advancement.tragicmc.collections.desc=这些都是收集相关的成就，可能需要一段时间。:)
+advancement.tragicmc.challenge_bosses=挑战BOSS实践
+advancement.tragicmc.challenge_bosses.desc=这些都是挑战Boss相关的改进，而且很容易实现。
+advancement.tragicmc.collections_collision=碰撞Collection
+advancement.tragicmc.collections_collision.desc=收集原版、碰撞、突触相关的挑战BOSS与埃癸斯掉落
+advancement.tragicmc.challenge_bosses_collision=挑战碰撞BOSS
+advancement.tragicmc.challenge_bosses_collision.desc=击败所有与碰撞、突触相关的挑战BOSS与埃癸斯
+advancement.tragicmc.mobs_collision=狩魔猎人之路就在脚下
+advancement.tragicmc.mobs_collision.desc=击败碰撞中的每一种怪物（包括原版、碰撞、埃癸斯和突触中的MOD怪物，也包括小BOSS）。
+advancement.tragicmc.boss_collision=王牌猎人
+advancement.tragicmc.boss_collision.desc=击败碰撞中的每一个Boss（包括游荡BOSS，召唤Boss，埃癸斯和领主）
+advancement.tragicmc.weapons_merokite=我是个收藏家
+advancement.tragicmc.weapons_merokite.desc=获得碰撞中的每一个梅洛基特武器（包括由每个原型分支的所有进化武器）
+advancement.tragicmc.armor_merokite=一套应万变
+advancement.tragicmc.armor_merokite.desc=获得碰撞中的每一件梅洛基特级护甲（全套所有进化装甲）
+advancement.tragicmc.uniques_collision=昂贵的品位
+advancement.tragicmc.uniques_collision.desc=获得碰撞套装中的每一件独特的梅洛基特装备（包括所有由Boss掉落和挑战Boss完成奖励以及神话物品制作的Mod装备）
+advancement.tragicmc.claymation_challenge=不朽者
+advancement.tragicmc.claymation_challenge.desc=在克莱门斯变化为新形态前击败变种克莱门斯
+advancement.tragicmc.empariah_challenge=燃烧之王
+advancement.tragicmc.empariah_challenge.desc=在不花太长时间清理其召唤的讨厌鬼情况下杀死变种恩波利亚
+advancement.tragicmc.enyvil_challenge=无情的恐怖
+advancement.tragicmc.enyvil_challenge.desc=在每次都击中正确眼睛且没有被吸引伤害过情况下杀死变种恩伊维尔
+advancement.tragicmc.kyutsu_challenge=爱恶作剧的恶魔
+advancement.tragicmc.kyutsu_challenge.desc=在击回所有火球的情况下杀死变种克尤特苏
+advancement.tragicmc.logos_challenge=不可否认的逻辑
+advancement.tragicmc.logos_challenge.desc=在不花太长时间清除悖论且不错过一次纠缠情况下击败罗格斯
+advancement.tragicmc.minos_challenge=至圣者
+advancement.tragicmc.minos_challenge.desc=在不让米诺斯完成一次满贯情况下杀死变种米诺斯
+advancement.tragicmc.polaris_challenge=亡灵
+advancement.tragicmc.polaris_challenge.desc=在不让北极星完成一次召唤的情况下杀死变种北极星
+advancement.tragicmc.skeletine_challenge=虚无主义受虐狂
+advancement.tragicmc.skeletine_challenge.desc=在每一次都能击晕且不消耗体力情况下杀死变种斯凯莱廷
+advancement.tragicmc.aegis_challenge=生与死的境界
+advancement.tragicmc.aegis_challenge.desc=在不错过任何控制器情况下杀死变种埃癸斯
+advancement.tragicmc.overlord_challenge=我就是你的领主
+advancement.tragicmc.overlord_challenge.desc=在不死亡且防止领主杀死任何生物情况下杀死变种领主
+
+#Sound subtitle text
+#Fusea sounds
+tragicmc.subtitle.mobs.fusea.hurt=佛赛受伤
+tragicmc.subtitle.mobs.fusea.idle=佛赛空转
+tragicmc.subtitle.mobs.fusea.prime=佛赛活跃
+tragicmc.subtitle.mobs.fusea.death=佛赛死亡
+
+#Jabba sounds
+tragicmc.subtitle.mobs.jabba.hurt=贾巴受伤
+tragicmc.subtitle.mobs.jabba.living=贾巴尖叫
+tragicmc.subtitle.mobs.jabba.death=贾巴死亡
+tragicmc.subtitle.mobs.jabba.enrage=贾巴愤怒
+
+#Plague sounds
+tragicmc.subtitle.mobs.plague.hurt=瘟疫受伤
+tragicmc.subtitle.mobs.plague.idle=瘟疫影响
+tragicmc.subtitle.mobs.plague.death=瘟疫死亡
+tragicmc.subtitle.mobs.plague.attack=瘟疫攻击
+
+#Angel sounds
+tragicmc.subtitle.mobs.angel.hurt=安吉尔受伤
+tragicmc.subtitle.mobs.angel.living=安吉尔哭泣
+tragicmc.subtitle.mobs.angel.death=安吉尔死亡
+
+#Gragul sounds
+tragicmc.subtitle.mobs.gragul.hurt=绘图受伤
+tragicmc.subtitle.mobs.gragul.living=绘图尖叫
+tragicmc.subtitle.mobs.gragul.idle=绘图靠近
+tragicmc.subtitle.mobs.gragul.death=绘图死亡
+
+#Minotaur sounds
+tragicmc.subtitle.mobs.minotaur.hurt=弥诺陶洛斯受伤
+tragicmc.subtitle.mobs.minotaur.living=弥诺陶洛斯鼾声
+tragicmc.subtitle.mobs.minotaur.death=弥诺陶洛斯死亡
+
+#Shadowling sounds
+tragicmc.subtitle.mobs.shadowling.hurt=阴影受伤
+tragicmc.subtitle.mobs.shadowling.living=阴影死亡哀号
+tragicmc.subtitle.mobs.shadowling.death=阴影死亡
+
+#Aggro sounds
+tragicmc.subtitle.mobs.aggro.hurt=愤怒受伤
+tragicmc.subtitle.mobs.aggro.jump=愤怒跳跃
+tragicmc.subtitle.mobs.aggro.death=愤怒死亡
+
+#Pumpkinhead sounds
+tragicmc.subtitle.mobs.pumpkinhead.hurt=南瓜头受伤
+tragicmc.subtitle.mobs.pumpkinhead.living=南瓜头叹息
+tragicmc.subtitle.mobs.pumpkinhead.death=南瓜头死亡
+tragicmc.subtitle.mobs.pumpkinhead.powered=南瓜头发散
+
+#Tox sounds
+tragicmc.subtitle.mobs.tox.hurt=托克斯受伤
+tragicmc.subtitle.mobs.tox.living=托克斯尖叫
+tragicmc.subtitle.mobs.tox.death=托克斯死亡
+
+#Cryse sounds
+tragicmc.subtitle.mobs.cryse.hurt=克里斯受伤
+tragicmc.subtitle.mobs.cryse.ambient=克里斯活动
+tragicmc.subtitle.mobs.cryse.death=克里斯死亡
+
+#纳什特sounds
+tragicmc.subtitle.mobs.nashi-te.hurt=纳什特受伤
+tragicmc.subtitle.mobs.nashi-te.living=纳什特共鸣
+tragicmc.subtitle.mobs.nashi-te.death=纳什特死亡
+
+#Stin sounds
+tragicmc.subtitle.mobs.stin.hurt=斯汀受伤
+tragicmc.subtitle.mobs.stin.living=斯汀低吟
+tragicmc.subtitle.mobs.stin.death=斯汀死亡
+tragicmc.subtitle.mobs.stin.teleport=斯汀传送
+
+#Abominable sounds
+tragicmc.subtitle.mobs.abominable.hurt=讨厌鬼受伤
+tragicmc.subtitle.mobs.abominable.living=讨厌鬼嘟囔
+tragicmc.subtitle.mobs.abominable.death=讨厌鬼死亡
+
+#Psylok sounds
+tragicmc.subtitle.mobs.psylok.hurt=普塞洛克受伤
+tragicmc.subtitle.mobs.psylok.living=普塞洛克咕咕
+tragicmc.subtitle.mobs.psylok.death=普塞洛克死亡
+
+#Gray sounds
+tragicmc.subtitle.mobs.gray.hurt=格雷受伤
+tragicmc.subtitle.mobs.gray.living=格雷重击
+tragicmc.subtitle.mobs.gray.death=格雷死亡
+
+#Lockdown sounds
+tragicmc.subtitle.mobs.lockdown.hurt=禁闭者受伤
+tragicmc.subtitle.mobs.lockdown.living=禁闭者尖叫
+tragicmc.subtitle.mobs.lockdown.death=禁闭者死亡
+tragicmc.subtitle.mobs.lockdown.active=禁闭者封锁
+
+#Relay sounds
+tragicmc.subtitle.mobs.relay.hurt=轮换者受伤
+tragicmc.subtitle.mobs.relay.death=轮换者死亡
+tragicmc.subtitle.mobs.relay.idle=轮换者悬停
+
+#Lost 灵魂sounds
+tragicmc.subtitle.mobs.lost_soul.hurt=迷途灵魂受伤
+tragicmc.subtitle.mobs.lost_soul.death=迷途灵魂死亡
+tragicmc.subtitle.mobs.lost_soul.idle=迷途灵魂歌唱
+
+#Nano Swarm sounds
+tragicmc.subtitle.mobs.nano_swarm.hurt=纳米蜂群受伤
+tragicmc.subtitle.mobs.nano_swarm.death=纳米蜂群死亡
+tragicmc.subtitle.mobs.nano_swarm.idle=纳米蜂群移动
+
+#Fungy sounds
+tragicmc.subtitle.mobs.fungy.hurt=真菌受伤
+tragicmc.subtitle.mobs.fungy.living=真菌打嗝
+tragicmc.subtitle.mobs.fungy.death=真菌死亡
+
+#Firewall sounds
+tragicmc.subtitle.mobs.firewall.hurt=防火墙受伤
+tragicmc.subtitle.mobs.firewall.death=防火墙死亡
+tragicmc.subtitle.mobs.firewall.idle=防火墙活动
+tragicmc.subtitle.mobs.firewall.alert=防火墙鸣笛
+
+#Harvester sounds
+tragicmc.subtitle.mobs.harvester.hurt=收割者受伤
+tragicmc.subtitle.mobs.harvester.death=收割者死亡
+tragicmc.subtitle.mobs.harvester.idle=收割者巡逻
+tragicmc.subtitle.mobs.harvester.release=收割者释放哨兵
+tragicmc.subtitle.mobs.harvester.harvest=收割者收割
+
+#Spire sounds
+tragicmc.subtitle.mobs.spire.living=尖塔叙述
+tragicmc.subtitle.mobs.spire.hurt=尖塔受伤
+tragicmc.subtitle.mobs.spire.death=尖塔死亡
+tragicmc.subtitle.mobs.spire.sync=尖塔同步
+
+#Gorgoth sounds
+tragicmc.subtitle.mobs.gorgoth.living=哥哥特咆哮
+tragicmc.subtitle.mobs.gorgoth.hurt=哥哥特受伤
+tragicmc.subtitle.mobs.gorgoth.death=哥哥特死亡
+tragicmc.subtitle.mobs.gorgoth.scream=哥哥特尖叫
+
+#Scourge sounds
+tragicmc.subtitle.mobs.scourge.living=祸根尖叫
+tragicmc.subtitle.mobs.scourge.hurt=祸根受伤
+tragicmc.subtitle.mobs.scourge.death=祸根死亡
+
+#Parasmite sounds
+tragicmc.subtitle.mobs.parasmite.living=帕拉斯米特哭泣
+tragicmc.subtitle.mobs.parasmite.hurt=帕拉斯米特受伤
+tragicmc.subtitle.mobs.parasmite.death=帕拉斯米特死亡
+
+#混沌漫游者 sounds
+tragicmc.subtitle.mobs.entrophy_strider.idle=混沌漫游者侵蚀
+tragicmc.subtitle.mobs.entrophy_strider.hurt=混沌漫游者受伤
+tragicmc.subtitle.mobs.entrophy_strider.death=混沌漫游者死亡
+
+#Mutant sounds
+tragicmc.subtitle.mobs.mutant.living=变种人呻吟
+tragicmc.subtitle.mobs.mutant.hurt=变种人受伤
+tragicmc.subtitle.mobs.mutant.death=变种人死亡
+
+#Duster sounds
+tragicmc.subtitle.mobs.duster.living=达斯特怒吼
+tragicmc.subtitle.mobs.duster.hurt=达斯特受伤
+tragicmc.subtitle.mobs.duster.death=达斯特死亡
+
+#Wormbait sounds
+tragicmc.subtitle.mobs.wormbait.idle=沃姆巴特溃烂
+tragicmc.subtitle.mobs.wormbait.hurt=沃姆巴特受伤
+tragicmc.subtitle.mobs.wormbait.death=沃姆巴特死亡
+
+#Ursa sounds
+tragicmc.subtitle.mobs.ursa.living=乌尔萨嘟囔
+tragicmc.subtitle.mobs.ursa.hurt=乌尔萨受伤
+tragicmc.subtitle.mobs.ursa.death=乌尔萨死亡
+
+#Canis sounds
+tragicmc.subtitle.mobs.canis.living=卡尼斯咆哮
+tragicmc.subtitle.mobs.canis.hurt=卡尼斯受伤
+tragicmc.subtitle.mobs.canis.death=卡尼斯死亡
+
+#Dimentia sounds
+tragicmc.subtitle.mobs.dimentia.living=迪蒙提亚哼唱
+tragicmc.subtitle.mobs.dimentia.hurt=迪蒙提亚受伤
+tragicmc.subtitle.mobs.dimentia.death=迪蒙提亚死亡
+
+#Segret sounds
+tragicmc.subtitle.mobs.segret.living=塞格瑞特尖叫
+tragicmc.subtitle.mobs.segret.hurt=塞格瑞特受伤
+tragicmc.subtitle.mobs.segret.death=塞格瑞特死亡
+
+#Chimera sounds
+tragicmc.subtitle.mobs.chimera.living=奇美拉尖叫
+tragicmc.subtitle.mobs.chimera.hurt=奇美拉受伤
+tragicmc.subtitle.mobs.chimera.death=奇美拉死亡
+
+#Grimm sounds
+tragicmc.subtitle.mobs.generic.grimm.hiss=格林嘶嘶
+
+#Aegik sounds
+tragicmc.subtitle.mobs.aegik.living=艾吉克尖叫
+tragicmc.subtitle.mobs.aegik.hurt=艾吉克受伤
+tragicmc.subtitle.mobs.aegik.death=艾吉克死亡
+
+#Crystal Spike sounds
+tragicmc.subtitle.mobs.crystal_spike.hurt=水晶尖刺受伤
+tragicmc.subtitle.mobs.crystal_spike.death=水晶尖刺死亡
+
+#Phantasm sounds
+tragicmc.subtitle.mobs.phantasm.living=幻象呻吟
+tragicmc.subtitle.mobs.phantasm.hurt=幻象受伤
+tragicmc.subtitle.mobs.phantasm.death=幻象死亡
+
+#Ballash sounds
+tragicmc.subtitle.mobs.ballash.moving=巴拉斯靠近
+tragicmc.subtitle.mobs.ballash.hurt=巴拉斯受伤
+tragicmc.subtitle.mobs.ballash.death=巴拉斯死亡
+
+#Torch sounds
+tragicmc.subtitle.mobs.torch.living=托奇咕咕
+tragicmc.subtitle.mobs.torch.hurt=托奇受伤
+tragicmc.subtitle.mobs.torch.death=托奇死亡
+
+#Emburst sounds
+tragicmc.subtitle.mobs.emburst.living=恩巴斯特尖叫
+tragicmc.subtitle.mobs.emburst.scream=恩巴斯特尖叫
+
+#Swallow sounds
+tragicmc.subtitle.mobs.swallow.living=斯沃洛呻吟
+tragicmc.subtitle.mobs.swallow.hurt=斯沃洛受伤
+tragicmc.subtitle.mobs.swallow.death=斯沃洛死亡
+
+#Crystal Cryse sounds
+tragicmc.subtitle.mobs.crystal_cryse.ambient=克里斯活动
+
+#Crystal 纳什特sounds
+tragicmc.subtitle.mobs.crystal_nashi-te.hurt=纳什特受伤
+tragicmc.subtitle.mobs.crystal_nashi-te.living=纳什特共鸣
+tragicmc.subtitle.mobs.crystal_nashi-te.death=纳什特死亡
+
+#Thryse sounds
+tragicmc.subtitle.mobs.thryse.block=瑟瑞斯方块攻击
+
+#Crystal 纳什特Prime
+tragicmc.subtitle.mobs.crystal_nashi-te_prime.healing=精英纳什特治愈
+
+#耶尔诺sounds
+tragicmc.subtitle.mobs.yelnor.living=耶尔诺呻吟
+tragicmc.subtitle.mobs.yelnor.hurt=耶尔诺受伤
+tragicmc.subtitle.mobs.yelnor.death=耶尔诺死亡
+tragicmc.subtitle.mobs.yelnor.blegh=耶尔诺开火
+
+#Mortyr sounds
+tragicmc.subtitle.mobs.mortyr.living=莫提尔活动
+tragicmc.subtitle.mobs.mortyr.hurt=莫提尔受伤
+tragicmc.subtitle.mobs.mortyr.death=莫提尔死亡
+
+#回响sounds
+tragicmc.subtitle.mobs.echo.living=回响靠近
+tragicmc.subtitle.mobs.echo.hurt=回响受伤
+tragicmc.subtitle.mobs.echo.death=回响死亡
+tragicmc.subtitle.mobs.echo.first_stun=回响混乱
+tragicmc.subtitle.mobs.echo.second_stun=回响冻结
+tragicmc.subtitle.mobs.echo.shield=回响灼烧
+
+#Nova Blast sounds
+tragicmc.subtitle.mobs.nova_blast.burn=新星爆炸灼烧
+tragicmc.subtitle.mobs.nova_blast.big_burn=大型新星爆炸灼烧
+
+#阿拉克涅sounds
+tragicmc.subtitle.mobs.arachne.living=阿拉克涅歌唱
+tragicmc.subtitle.mobs.arachne.idle=阿拉克涅靠近
+tragicmc.subtitle.mobs.arachne.hurt=阿拉克涅受伤
+tragicmc.subtitle.mobs.arachne.death=阿拉克涅死亡
+tragicmc.subtitle.mobs.arachne.shoot=阿拉克涅射击
+
+#巴博sounds
+tragicmc.subtitle.mobs.baboom.living=巴博嘟囔
+tragicmc.subtitle.mobs.baboom.hurt=巴博受伤
+tragicmc.subtitle.mobs.baboom.death=巴博死亡
+tragicmc.subtitle.mobs.baboom.leaping=巴博飞跃
+tragicmc.subtitle.mobs.baboom.landing=巴博着陆
+
+#科瑟sounds
+tragicmc.subtitle.mobs.corser.living=科瑟尖叫
+tragicmc.subtitle.mobs.corser.hurt=科瑟受伤
+tragicmc.subtitle.mobs.corser.death=科瑟死亡
+tragicmc.subtitle.mobs.corser.healing=科瑟治愈
+
+#Feist sounds
+tragicmc.subtitle.mobs.feist.living=费斯特抱怨
+tragicmc.subtitle.mobs.feist.hurt=费斯特受伤
+tragicmc.subtitle.mobs.feist.death=费斯特死亡
+tragicmc.subtitle.mobs.feist.launch=费斯特爆发
+
+#卡加sounds
+tragicmc.subtitle.mobs.kagar.living=卡加呻吟
+tragicmc.subtitle.mobs.kagar.hurt=卡加受伤
+tragicmc.subtitle.mobs.kagar.death=卡加死亡
+tragicmc.subtitle.mobs.kagar.aiming=卡加瞄准
+tragicmc.subtitle.mobs.kagar.fire=卡加开火
+
+#光精灵 sounds
+tragicmc.subtitle.mobs.light_sprite.living=光精灵笑声
+tragicmc.subtitle.mobs.light_sprite.hurt=光精灵受伤
+tragicmc.subtitle.mobs.light_sprite.death=光精灵死亡
+tragicmc.subtitle.mobs.light_sprite.lighting=光精灵发光
+tragicmc.subtitle.mobs.light_sprite.light_start=光精灵移动
+tragicmc.subtitle.mobs.light_sprite.light_end=光精灵停止
+
+#兰玛斯sounds
+tragicmc.subtitle.mobs.ranmas.living=兰玛斯呜咽
+tragicmc.subtitle.mobs.ranmas.hurt=兰玛斯受伤
+tragicmc.subtitle.mobs.ranmas.death=兰玛斯死亡
+tragicmc.subtitle.mobs.ranmas.idle=兰玛斯嗡嗡
+tragicmc.subtitle.mobs.ranmas.compress=兰玛斯压缩
+tragicmc.subtitle.mobs.ranmas.uncompress=兰玛斯解压
+
+#锡拉sounds
+tragicmc.subtitle.mobs.scyllas.living=锡拉尖叫
+tragicmc.subtitle.mobs.scyllas.hurt=锡拉受伤
+tragicmc.subtitle.mobs.scyllas.death=锡拉死亡
+tragicmc.subtitle.mobs.scyllas.awakening=锡拉咆哮
+tragicmc.subtitle.mobs.scyllas.powered=锡拉发散
+tragicmc.subtitle.mobs.scyllas.beam=锡拉发射激光
+tragicmc.subtitle.mobs.scyllas.fire=锡拉开火
+
+#Seraphis sounds
+tragicmc.subtitle.mobs.seraphis.idle=塞拉菲斯悬停
+tragicmc.subtitle.mobs.seraphis.stockpiling=塞拉菲斯库存
+tragicmc.subtitle.mobs.seraphis.hurt=塞拉菲斯受伤
+tragicmc.subtitle.mobs.seraphis.death=塞拉菲斯死亡
+
+#Claymation sounds
+tragicmc.subtitle.mobs.claymation.idle=克莱门斯震动
+tragicmc.subtitle.mobs.claymation.living=克莱门斯嘟哝
+tragicmc.subtitle.mobs.claymation.hurt=克莱门斯受伤
+tragicmc.subtitle.mobs.claymation.death=克莱门斯死亡
+tragicmc.subtitle.mobs.claymation.transform=克莱门斯改变形态
+
+#恩波利亚sounds
+tragicmc.subtitle.mobs.empariah.living=恩波利亚轰鸣
+tragicmc.subtitle.mobs.empariah.hurt=恩波利亚受伤
+tragicmc.subtitle.mobs.empariah.death=恩波利亚死亡
+tragicmc.subtitle.mobs.empariah.roar=恩波利亚咆哮
+tragicmc.subtitle.mobs.empariah.shield=恩波利亚发光
+tragicmc.subtitle.mobs.empariah.breath=恩波利亚焕发新生
+
+#恩伊维尔sounds
+tragicmc.subtitle.mobs.enyvil.living=恩伊维尔咆哮
+tragicmc.subtitle.mobs.enyvil.hurt=恩伊维尔受伤
+tragicmc.subtitle.mobs.enyvil.death=恩伊维尔死亡
+tragicmc.subtitle.mobs.enyvil.attract=恩伊维尔展现魔力
+tragicmc.subtitle.mobs.enyvil.attract_pulse=恩伊维尔吸引
+tragicmc.subtitle.mobs.enyvil.pulse=恩伊维尔眼睛震动
+tragicmc.subtitle.mobs.enyvil.blinded=恩伊维尔致盲
+
+#克尤特苏sounds
+tragicmc.subtitle.mobs.kyutsu.living=克尤特苏存在
+tragicmc.subtitle.mobs.kyutsu.hurt=克尤特苏受伤
+tragicmc.subtitle.mobs.kyutsu.death=克尤特苏死亡
+tragicmc.subtitle.mobs.kyutsu.angry=克尤特苏咆哮
+tragicmc.subtitle.mobs.kyutsu.squeal=克尤特苏尖叫
+tragicmc.subtitle.mobs.kyutsu.taunt=克尤特苏嘲讽
+tragicmc.subtitle.mobs.kyutsu.fireball_start=克尤特苏充能
+tragicmc.subtitle.mobs.kyutsu.fireball=克尤特苏释放能量
+tragicmc.subtitle.mobs.kyutsu.teleport=克尤特苏传送
+tragicmc.subtitle.mobs.kyutsu.poof=克尤特苏变化
+
+#Logos sounds
+tragicmc.subtitle.mobs.logos.living=罗格斯存在
+tragicmc.subtitle.mobs.logos.hurt=罗格斯受伤
+tragicmc.subtitle.mobs.logos.death=罗格斯死亡
+tragicmc.subtitle.mobs.logos.idle=罗格斯靠近
+tragicmc.subtitle.mobs.logos.purge=罗格斯清除
+tragicmc.subtitle.mobs.logos.entanglement=罗格斯进入纠缠
+tragicmc.subtitle.mobs.logos.entanglement_fail=罗格斯存在消失
+tragicmc.subtitle.mobs.logos.frozen=罗格斯被冻结
+tragicmc.subtitle.mobs.logos.frozen_end=罗格斯解冻
+tragicmc.subtitle.mobs.logos.paradox=悖论出现
+tragicmc.subtitle.mobs.logos.paradox_idle=悖论是这样也从来不是这样
+tragicmc.subtitle.mobs.logos.time_burst=罗格斯正调整过去
+tragicmc.subtitle.mobs.logos.time_burst_charge=罗格斯正准备未来
+
+#北极星sounds
+tragicmc.subtitle.mobs.polaris.living=北极星轻吟
+tragicmc.subtitle.mobs.polaris.hurt=北极星受伤
+tragicmc.subtitle.mobs.polaris.death=北极星死亡
+tragicmc.subtitle.mobs.polaris.summoning=北极星召唤
+tragicmc.subtitle.mobs.polaris.hex=北极星施法
+
+#Minos sounds
+tragicmc.subtitle.mobs.minos.living=米诺斯呻吟
+tragicmc.subtitle.mobs.minos.hurt=米诺斯受伤
+tragicmc.subtitle.mobs.minos.death=米诺斯死亡
+tragicmc.subtitle.mobs.minos.slam=米诺斯聚集能量
+tragicmc.subtitle.mobs.minos.reflect=米诺斯反应
+
+#Skeletine sounds
+tragicmc.subtitle.mobs.skeletine.living=斯凯莱廷尖叫
+tragicmc.subtitle.mobs.skeletine.hurt=斯凯莱廷受伤
+tragicmc.subtitle.mobs.skeletine.death=斯凯莱廷死亡
+tragicmc.subtitle.mobs.skeletine.break=斯凯莱廷脱离恍惚状态
+tragicmc.subtitle.mobs.skeletine.change=斯凯莱廷情绪变化
+tragicmc.subtitle.mobs.skeletine.trance=斯凯莱廷进入恍惚状态
+tragicmc.subtitle.mobs.skeletine.gas=斯凯莱廷散发毒素
+
+#aegis sounds
+tragicmc.subtitle.mobs.aegis.living=埃癸斯歌唱
+tragicmc.subtitle.mobs.aegis.hurt=埃癸斯受到伤害
+tragicmc.subtitle.mobs.aegis.death=埃癸斯死亡
+tragicmc.subtitle.mobs.aegis.shield=埃癸斯震动
+tragicmc.subtitle.mobs.aegis.discharge=埃癸斯发声
+tragicmc.subtitle.mobs.aegis.expel=埃癸斯喷射
+tragicmc.subtitle.mobs.aegis.broken=埃癸斯故障
+tragicmc.subtitle.mobs.aegis.siren=埃癸斯歌唱
+tragicmc.subtitle.mobs.aegis.regulator_loss=埃癸斯失去控制
+tragicmc.subtitle.mobs.aegis.reboot=埃癸斯强烈碰撞
+tragicmc.subtitle.mobs.aegis.slam=埃癸斯猛击
+tragicmc.subtitle.mobs.aegis.discharge_ambient=放电脉冲
+
+#Overlord sounds
+tragicmc.subtitle.mobs.overlord.last_stand=领主将要改写现实
+tragicmc.subtitle.mobs.overlord.last_stand_failure=领主改写了现实......
+tragicmc.subtitle.mobs.overlord.last_stand_success=领主被击败，于现实消失
+tragicmc.subtitle.mobs.overlord.idle=领主的外壳震动了....
+tragicmc.subtitle.mobs.overlord.vulnerable=领主的外壳惊慌了
+tragicmc.subtitle.mobs.overlord.transition=领主的外壳将要改变
+tragicmc.subtitle.mobs.overlord.hurt=领主的外壳嘎吱作响
+tragicmc.subtitle.mobs.overlord.living=领主核心调整
+tragicmc.subtitle.mobs.overlord.spawn_help=领主显现
+tragicmc.subtitle.mobs.overlord.death_swarm=领主放出一个死亡蜂群！
+tragicmc.subtitle.mobs.overlord.absorb=领主吸收能量
+tragicmc.subtitle.mobs.overlord.stasis=领主困住目标
+tragicmc.subtitle.mobs.overlord.seeker=一个追寻者接近
+tragicmc.subtitle.mobs.overlord.seeker_death=一个追寻者死亡
+tragicmc.subtitle.mobs.overlord.slash=领主 攻击
+tragicmc.subtitle.mobs.overlord.teleport=领主 传送
+
+#Generic mob sounds
+tragicmc.subtitle.mobs.generic.negated_hit=伤害无效
+
+#Time Fissure sounds
+tragicmc.subtitle.mobs.time_fissure.idle=时间裂缝 震动
+tragicmc.subtitle.mobs.time_fissure.confirm=时间裂缝 稳定
+tragicmc.subtitle.mobs.time_fissure.activate=时间裂缝 召唤
+
+#Spatial Anomaly sounds
+tragicmc.subtitle.mobs.spatial_anomaly.idle=空间异常点 产生
+tragicmc.subtitle.mobs.spatial_anomaly.confirm=空间异常点 稳定
+tragicmc.subtitle.mobs.spatial_anomaly.activate=空间异常点 活动
+tragicmc.subtitle.mobs.spatial_anomaly.changed=空间异常点 改变
+
+#Golem sounds
+tragicmc.subtitle.mobs.golem.hurt=魔偶受到攻击
+tragicmc.subtitle.mobs.golem.death=魔偶死亡
+tragicmc.subtitle.mobs.golem.taunt=魔偶嘲讽怪物
+
+#Projectile sounds
+tragicmc.subtitle.projectile.airy=元素飞弹 接近
+tragicmc.subtitle.projectile.dark=暗黑飞弹 接近
+tragicmc.subtitle.projectile.drone=能量飞弹 接近
+tragicmc.subtitle.projectile.light=光之飞弹 接近
+tragicmc.subtitle.projectile.thruster=火箭飞弹 接近
+tragicmc.subtitle.projectile.liquid=液态飞弹 接近
+
+#Toast sounds
+tragicmc.subtitle.toasts.activate_ability=能力激活
+tragicmc.subtitle.toasts.finish_ability=能力结束
+tragicmc.subtitle.toasts.full_achromy=艾克洛米充满
+tragicmc.subtitle.toasts.knowledge_increase=感知增强
+tragicmc.subtitle.toasts.ability_increase=能力等级提升
+tragicmc.subtitle.toasts.cooldown_defuse=冷却结束
+tragicmc.subtitle.toasts.porter=搬运者 使用
+tragicmc.subtitle.toasts.porter_charge=搬运者 充能
+tragicmc.subtitle.toasts.ethereal_dust=空灵之尘 使用
+tragicmc.subtitle.toasts.immunity_sphere=豁免之球 使用
+tragicmc.subtitle.toasts.chroma_sink=色之沉没 使用
+tragicmc.subtitle.toasts.hearthstone=炉石 使用
+tragicmc.subtitle.toasts.hearthstone_charge=炉石 充能
+tragicmc.subtitle.toasts.soulstone=灵魂石 使用
+tragicmc.subtitle.toasts.dragon_down=龙之坠落 激活
+tragicmc.subtitle.toasts.phoenix_down=凤凰坠落 激活
+
+#Weapon sounds
+tragicmc.subtitle.weapons.actualizer=实现者 开火
+tragicmc.subtitle.weapons.actualizer_chargeup=实现者 充能
+tragicmc.subtitle.weapons.thundercrash=雷击 
+tragicmc.subtitle.weapons.thundercrash_chargeup=雷击 充能
+tragicmc.subtitle.weapons.light_dancer=光影舞者  开火
+tragicmc.subtitle.weapons.claymaker=黏土制造者  开火
+tragicmc.subtitle.weapons.corruption_vacuum=腐化汲取者  开火
+tragicmc.subtitle.weapons.apothican=无神论者  开火
+tragicmc.subtitle.weapons.charged_seeker_core=充能探索者之核  开火
+tragicmc.subtitle.weapons.firebolt=火箭炮  开火
+tragicmc.subtitle.weapons.firebolt_chargeup=火箭炮  充能
+tragicmc.subtitle.weapons.servant=侍者  开火
+tragicmc.subtitle.weapons.starseed_shredder=星种粉碎者  开火
+tragicmc.subtitle.weapons.longshot=遥远射手  开火
+tragicmc.subtitle.weapons.longshot_chargeup=遥远射手   充能
+tragicmc.subtitle.weapons.shadowstream=暗流  开火
+tragicmc.subtitle.weapons.spritzer=流水射手  开火
+tragicmc.subtitle.weapons.wrath=神之怒  开火
+tragicmc.subtitle.weapons.useful_idiot=实用之愚  开火
+tragicmc.subtitle.weapons.corruption_vacuum_expel=腐化汲取者 驱逐腐败
+tragicmc.subtitle.weapons.reload_start=开始重新加载
+tragicmc.subtitle.weapons.reload_finish=结束重新加载
+
+#Config category names and comments
+config.category.achromy=Achromy
+config.category.achromy.comment=These allow you to set a multitude of aspects related to achromy, \nincluding if you can be "saved" when under Corruption/Withdrawal after a certain amount of time has passed \nand if your Achromy drains slowly when you carry too many Consumed items, resulting in a negative stability.
+config.category.ability=Ability
+config.category.ability.comment=This allows you to set each Ability's Achromy requirement, Knowledge level requirement and Cooldown.
+config.category.hud=HUD
+config.category.hud.comment=This allows you to toggle various aspects of the HUD. These are only upheld on the Client-side and have no effect on the Server-side. \nHUD Positions: 0 is top left, 1 is top mid, 2 is top right, 3 is left mid, 4 is right mid, 5 is bottom left, 6 is bottom right \nPerks Module Positions: 0 is above, 1 is below, 2 is left and 3 is right. \nIncludes custom offset values that are applied to the overall HUD and to the Health Display individually.
+config.category.blessing=Blessing
+config.category.blessing.comment=This allows you to set certain spects of Blessings, \nspecifically if having a higher Knowledge level than is required for an Ability reduces Cooldown, \nif you start with a random Blessing on a fresh player \nand if matching your player Influence to your Ability's Influence grants reduced Achromy cost.
+config.category.mobs=Mobs
+config.category.mobs.comment=This allows you to set mob stats, including spawn parameters. \nSpawn biomes have various keywords including 'none', 'vanilla-overworld' and 'domain:' \nSetting to 'none', doesn't allow the mob to spawn naturally. \nSetting to 'vanilla-overworld' picks all biomes except the Nether, End and Void biomes. \nSetting to 'domain:' and then putting a mod id will pick all biomes in that particular mod so for this mod, you'd put 'domain:tragicmc'
+config.category.misc=Misc
+config.category.misc.comment=This contains all config options not housed in any other category, \nspecifically for if every mob has a chance to drop a Remnant or Charisma on death \nand if this mod's items are allowed to drop off of Vanilla mobs \nand if Roaming Bosses despawn if another is within 256 blocks of them, to prevent "spam". \nAlso includes toggles for if mob spawns are throttled based on overall mob count for each of the mod's dimensions. \n And if 'underground' mobs can spawn in the Collision.
+config.category.weapon_info=Weapons
+config.category.weapon_info.comment=This allows you to set various aspects of gameplay regarding Weapons, \nspecifically if killing mobs increases Achromy of equipped gear \nand if a piece of gear's Achromy level affects its automatically applied Enchantments.
+config.category.tick_builder=Tick Builder
+config.category.tick_builder.comment=This allows you to set various parameters of the Tick Builder the mod uses to build certain structures, including the 埃癸斯Dungeon.
+
+#Wiki entries, there will be a lot
+tragicmc.wiki.command.usage=/tragicmc <resource key> （一些条目的末尾会列出子条目供您继续查看）
+tragicmc.wiki.subkeys=Resource suggestions: %%s
+
+tragicmc.wiki.achromy=『艾克洛米』是Mod的『能量』系统。您可以借助它使用强大的能力，但如果它消耗太多，蛰伏的『腐化』与堕落将对您造成伤害并使您无法使用能力。
+tragicmc.wiki.divine_ability=『神力』可以说是您的超能力，也可以叫做极限技，等等。每种技能都有不同的效果、不同的持续时间、消耗和使用条件。『神力』与被称作『祝福』的另一系能力相关联。当您成功使用某项技能时，它可能会升级。
+tragicmc.wiki.blessing=『祝福』是『神力』的”近亲“。它们在主题上有联系，但效果不同。它们共享相同的『感知』条件，但在其他大多数方面有所不同。您在使用『祭品』时需要用到『祝福』。
+tragicmc.wiki.ability_upgrade=『神力』可以从I升级到M。途径如下：I->II->III->M。升级是对某些方面的提升增强。M（精通）等级将提供更大的提升或额外增益效果。即使祝福改变，等级也会保留。
+tragicmc.wiki.ability_change=改变『神力』是通过献祭来完成的。每种『祭品』都有一个相关联的系列能力。每种『祭品』都会带来相应的改变。值得一提的是，您不能得到您未满足其要求的能力。
+tragicmc.wiki.knowledge=『感知』是衡量您对『艾克洛米』掌握程度的尺度。尽量多而有效地使用『神力』可以更快地增加您的『感知』、使用更多能力或是升级其他能力。拥有更强的感知还可以使您使用能力时减少冷却时间。
+tragicmc.wiki.offering=『祭品』是需要您精心制作的物品，可以用来改变您的『神力』。您可以通过相应『祝福』和『影响』来得到您渴望的能力。当然，您必须满足对应能力的先决条件。
+tragicmc.wiki.influence=『影响』是指。。。好吧，『影响』的作用是干涉一些物品的特性和效果。对于进化武器来说，『影响』改变了它们可能会走的晋升途径。对于『祭品』，它们会改变你应用于自己的能力。对于『贡品』，『影响』可以干涉最终的召唤。对于玩家本身，『影响』有复杂的效果，详见『玩家影响』条目。
+tragicmc.wiki.player_influence=『玩家影响』会干涉自身能力的各种特性。接近对应能力的『影响』可以降低使用它们的成本。接近相应武器或盔甲将增加其通过战斗获得『艾克洛米』的机会。
+tragicmc.wiki.corruption=如果您使您的『艾克洛米』降到零以下，将受到『腐化』。您将长时间无法使用能力并受到『腐化』伤害，同时对玩家的感知造成与感知能力成正比的损失。消耗完后，您无法得到，取而代之的是
+tragicmc.wiki.withdrawal=『腐化者』如果让『艾克洛米』恢复正常，将面临戒断症状。这会使您持续处于『腐化』状态，无法使用能力并受到伤害。感知能力越强，受到的惩罚就越大。
+tragicmc.wiki.consumed=使用『人性牺牲』的玩家可能会成为『腐化者』。他们消耗利用周围的『腐败能量』，会拥有几乎无尽的力量。作为其代价，必须不断进行杀戮，否则将会因出现戒断反应。『纯洁之拥』可以让玩家恢复正常。
+tragicmc.wiki.evolution=Certain weapons and pieces of gear can evolve, granted they have high enough Achromy infusion, are of the proper Influence and have the proper Catalyst. Evolution increases a piece of gear's infusion threshold, attack damage and may also adjust its sub-archetype and give it a new perk, generally as an Enchantment.
+tragicmc.wiki.evolutionary_weapon=Evolutionary weapons are generally crafted via a Core. The most basic of these being the Merokite Core. Achromy infusion is required to trigger this evolution along with a Catalyst. Certain pieces of gear known as Mythical weapons require special Catalysts and sacrifices instead. Some weapons may have multiple evolution branches, depending on their Influence.
+tragicmc.wiki.mythical_weapon=A Mythical weapon is a higher tier of Evolutionary weapon. These have a chance to drop from higher-difficulty activities. They require a special Catalyst and/or Sacrifice (hinted at in their flavor text). These weapons grow into powerful Uniques with their own unique Perks and sub-archetypes. They may have specific catalyst requirements, hinted at in their flavor text.
+tragicmc.wiki.unique_weapon=A Unique weapon acts the same way as a normal Evolutionary weapon but have an additional, Unique perk attached to them. These are only found or crafted via Bosses or other high-difficulty activities.
+tragicmc.wiki.weapon_tier=Weapons and Armor have specific tiers attached to them. Examples are Merokite 3 and Scyllica 2. These affect that weapon's damage and attack speed values and affects an Armor set's overall armor when worn as a full set. These are handled in-game via Evolution and Ascension and are not editable by the player otherwise.
+tragicmc.wiki.armor_set=Armor Sets have a special pair of Perks that are active while they are worn. Wearing any piece of a Set grants the single piece bonus but the full set of Armor must be worn to gain the full set bonus. Single piece perks from the same family of armor do not stack, even if using different tiers. Full sets work with different tiers of armor in the same family but will only apply the lowest level of that perk.
+tragicmc.wiki.archetype=Weapons have archetypes associated with them. The main archetypes in the mod are: Dagger, Knuckles, Katana, Staff, Scythe, Sword and Hammer. Each of these have various subtypes, generally favoring Damage, 均衡 or Speed. Archetypes affect things like damage range and speed scaling, for instance a Dagger will always be faster than a Scythe but weaker in damage. Archetypes also affect the amount of Cleaving a weapon does. Uniques maintain traits of Archetypes.
+tragicmc.wiki.cleaving=Cleaving is an additional piercing hit that weapons do. This splits the overall damage of a weapon into its normal damage and Cleaving damage. The higher Cleaving damage a weapon has, the better it'll do against heavily armored enemies.
+tragicmc.wiki.perk=Perks are gained via Talismans. These are crafted in various ways and utilize Influence to toggle between Perks within that Talisman's "family" of Perks. Perks can also be applied to Weapons and Armor in the form of Feats. Feats are only obtained through Challenge versions of Bosses. Unique Weapons also have their own innate Perks.
+tragicmc.wiki.boss=Boss enemies are considered any mob in the mod that has a Boss health bar displayed when fighting them. Any other enemies, regardless of their health or mechanics are at most considered Mini-Bosses. Bosses are split into various subtypes due to the amount of them in the mod. These subtypes are: Guardian, Instanced, Roaming, Alpha, Challenge.
+tragicmc.wiki.challenge_boss=Challenge Bosses are higher-difficulty versions of certain Bosses. Generally Instanced, Guardian or Alpha Bosses. These can have changed mechanics, more unforgiving conditions for mechanics or an additional mechanic on top of existing ones. They also generally have more health and armor than their non-Challenge counterparts. They have a bonus Objective associated with them, that if defeated while this Objective is satsified have additional Challenge Boss-specific drops. These drops include a Feat associated with each Boss as well as special material used to craft a certain set of Armor and Uniques. Challenge Bosses are summoned via Time Fissures but require either a specific Boss drop or a Cursed Tribute of the proper Influence to summon a specific Boss. Right-clicking with an Ascentia on a Boss with a failed objective will reset the entire encounter.
+tragicmc.wiki.roaming_boss=Roaming Bosses usually have a fairly simple mechanic and will spawn alongside normal mobs during normal gameplay. As such, these Bosses generally aren't too imposing to allow the Player a chance to deal with other mobs interfering during the fight. Each Roaming Boss has a Summoning Scroll pertaining to them, allowing you to force-summon one without waiting for it to spawn in naturally.
+tragicmc.wiki.instanced_boss=Instanced Bosses require a summon at a specific place. Usually via a Time Fissure or through an Altar. Tributes are also generally required to summon these. As they require Player action to summon, it is assumed that the surrounding area is clear so their mechanics are more active, requiring more focus via the Player to handle.
+tragicmc.wiki.guardian_boss=Guardian Bosses are a bit tougher than Instanced Bosses. They are usually found at the end of a unique dungeon, in their own pocket dimension. Traversal through these dungeons can be difficult as they don't allow for immediate teleport out nor placing or breaking of blocks. Guardian Bosses are always required for progression.
+tragicmc.wiki.alpha=Alphas are the hardest Boss type in the mod. They have multiple mechanics and generally will have multiple stages as well. These require a lot of focus to complete but grant high-end rewards for doing so. These Bosses generally dominate a Dimension and only release the natural mobs after their defeat.
+tragicmc.wiki.mini_boss=Mini-Bosses are harder variants of normal mobs. When a mob absorbs enough Corruption, they may transform into one of these. While tougher, they generally have a limited mechanic and don't require too much more effort to defeat, although fighting groups of them can be hazardous.
+tragicmc.wiki.achromy_infusion=Achromy Infusion is the process in which pieces of gear gain Achromy. You apply Achromy to a piece of gear via an Anvil. The gear in the left slot will gain the Achromy and be Influenced by the one in the right. Certain special items have unique interactions in this case. Remnants are your main fuel for Achromy Infusion and can be obtained randomly from mob kills or via mining Merokite.
+tragicmc.wiki.catalyst=Catalysts are required to evolve weapons. They must be further refined to evolve a weapon of a higher tier. For instance, Merokite 0 requires a Catalyst but Merokite 1 may require a Collided Catalyst to evolve in addition to a normal Catalyst sacrifice. Higher tier evolutions require more Catalysts and more refined Catalysts.
+tragicmc.wiki.ascension=Ascension is done via Ascentia. This tiers a weapon up after it has reached its max evolutionary tier. Merokite 3 is the max for Merokite weapons, for instance. Ascension will tier up a weapon two levels but it requires way more Achromy infusion to reach its max attack damage at that tier.
+tragicmc.wiki.mod_progression=Mod progress starts with crafting a Porter. This allows you to enter the Collision. From there, finding Time Fissures and using them to summon Instanced Bosses to collect drops is the next step. Afterwards, utilizing the drops along with a special item allows you to enter the 埃癸斯dimension and dungeon. Defeating 埃癸斯grants you an item to generate Solidified Corruption, utilized to make a key to enter the Synapse.
+tragicmc.wiki.porter=A Porter is a special teleporter that teleports you (and any player within 4 blocks) to its target destination. Different Porters have different "traces" which flow to a different target Dimension.
+tragicmc.wiki.time_fissure=Time Fissures are common in temporally unstable dimensions such as the Collision. When given a proper catalyzing item, they can pull forth entities from other dimensions entirely based on that item's Influence. They can also become unstable, turning into a Spatial Anomaly, allowing travel to these dimensions instead when given certain special items. Time Fissures are also how you summon Challenge versions of Instanced Bosses, utilizing a Cursed Tribute with the proper Influence.
+tragicmc.wiki.spatial_anomaly=These are basically instant portals that take you to a specific dimension. Created via Time Fissures, their destination depends on the catalyzing item presented to the Fissure before.
+tragicmc.wiki.getting_started=首先，感谢您使用本mod！我倾注了很多心血在这个mod里，您能尝试游玩它，我非常高兴。其次，我建议您启用高级提示框，因为许多物品的说明仅在它被启用时显示，使用F3+H就可以启用了。此外，通过解锁各种成就和查看进度也是游玩这个mod的极佳途径。如您所见，关键的提示通常放在每个条目的末尾，并带有相关的主题。这个条目是很好的起点。通过/tragicmc <相关条目>查看更多信息
+tragicmc.wiki.complex_influence=A Complex Influence has two Influences combined into one. For example, combining Lawful and Evil creates a Lawful Evil complex Influence. Charisma are capable of storing these, while other items will convert it automatically into a simple Influence. Use a Charisma to do things like summon an Instanced Boss from a Time Fissure.
+
+tragicmc.wiki.collision_dimension=碰撞是您在mod中进入的第一个核心维度，您需要使用“搬运者（碰撞追踪器）”来进入。它是由繁多的生物群系相碰撞形成的维度。每一个生物群系都有自己独特的世界生成规则，怪物、生物以及一个相关的游荡BOSS。
+tragicmc.wiki.aegis_dimension=庇护所维度是一个小型维度，它包含一个地牢与最终BOSS 埃癸斯。抵达那里的唯一方法是通过一个空间异常点。维度中无法重生。如果你得了"时间病"，就不能破坏或放置方块。一开始埃癸斯拥有护盾，需要击破护盾才能造成伤害。击败它后会生成一个祭坛，您可以在以后重新召唤它。击败它后将会生成新的时空裂缝。
+tragicmc.wiki.synapse_dimension=突触是BOSS 阿尔法所在维度，它包含一个独立生物群系和阿尔法，当你进入这个维度时，它会立即生成。一个空间异常点是你抵达这里的唯一方法。你将在它上面的一个平台上生成。击败出生点处的BOSS“领主（The Overlord）”后才能让这个世界的怪物生成。击败BOSS后也会生成一个祭坛，让你可以在以后重新召唤它。
+
+tragicmc.wiki.yelnor=耶尔诺是一个游荡在世界各地的Boss。它可以在任何一个主世界生物群系中生成（至少在原版和这个Mod的生物群系）。它的特性是每次命中都会回复生命值，并不时停下来向目标发射炮弹。它的生命值越低，移动速度越快。
+tragicmc.wiki.mortyr=莫提尔是个在下界游荡的BOSS。它的机制是，它会发射残留新星的爆炸攻击，停留在它们的作用范围内就会受到造成伤害。它会在一段时间后暂停向自身周围的强大新星充电，这是它最脆弱的时候。它的生命值越低，发射的火焰弹也越多。
+tragicmc.wiki.echo=回响是末路之地游荡的BOSS。它的机制是在因光而眩晕之前免疫伤害。第一道闪光将使它传送并获得对光的短期免疫，第二道闪光将使它眩晕，使它容易受到伤害。它传送时会造成无视护甲的伤害。
+tragicmc.wiki.ranmas=兰玛斯是"碰撞"中的游荡BOSS，一般在贫瘠生物群系（Barren）中生成。它的机制是几乎所有攻击方式都只能对它造成1点伤害。因此，只能不断攻击积累伤害。此外，它会压缩自身来快速移动，在碰到目标时会爆炸。
+tragicmc.wiki.kagar=卡加是“碰撞”中游荡的BOSS，一般在腐蚀(Corroded)生物群系生成。它的机制是重击地面来产生一片毒气区域。它还会在移动一段时间后暂停，并扛起它的核弹发射器，射击造成致命伤害。离开其视线和躲避是当务之急！
+tragicmc.wiki.seraphis=塞拉菲斯是“碰撞”中游荡的BOSS，一般在璀璨星生物群系(Starstruck)生成。它的机制是储存水晶炸弹，你需要破坏它，减少它的储存量。这些炸弹会造成巨大伤害，也会生成塞拉菲斯尖刺来给你制造额外的烦恼。它会盘旋在你上方的高空，只能用炸弹攻击你。
+tragicmc.wiki.arachne=阿拉克涅是“碰撞”中游荡的BOSS,一般在腐蚀生物群系(Eroded)生成。它的机制是在向目标发射网格炸弹后向目标跳跃，或者向目标发射毒刺，并且近战攻击目标。
+tragicmc.wiki.corser=科瑟是“碰撞”中游荡的BOSS,一般在灰烬生物群系(Ashen)生成。它的机制是在短时间内受到大量伤害后，它会产生保护盾并回复生命值，这需要你调整你的攻击方式。
+tragicmc.wiki.scyllas=锡拉是“碰撞”中游荡的BOSS,一般在黑暗生物群系(Dark)生成。它的机制是在行动一段时间后停止，发射充能激光，在短时间内会造成致命的伤害。这时应该优先考虑离开其视线。它还会发射强大的暗影爆炸攻击。
+tragicmc.wiki.baboom=巴博是“碰撞”中游荡的BOSS,一般在着色生物群系(Painted)生成。它的机制是它会不断地向目标跳跃，造成击退和冲击伤害。
+tragicmc.wiki.light_sprite=光精灵是“碰撞”中游荡的BOSS,一般在光生物群系(Light)生成。它的机制是它通过留下自己的残影抵消对它的攻击。它只有在被击中后或在活动一段时间后才这样做。
+tragicmc.wiki.feist=费斯特是“碰撞”中游荡的BOSS,一般在焦土生物群系(Scorched)生成。它的机制是会发射造成巨大爆炸伤害的迫击炸弹。同时也会发射大量小火球。它在准备释放迫击炮时有一个时间较短的脆弱期。
+tragicmc.wiki.claymation=克莱门斯是“碰撞”中的BOSS,，通过在时间裂缝用正确的祭品召唤，它的机制是它能把自己的形状变成它见过的其他生物。对这些形态造成足够的伤害会使它错乱，从而产生额外的伤害。如果你没有对它造成足够的伤害，它会变成另一种形态，然后愈合。使它错乱迫使它在短时间内进入“最终”形态，期间免疫伤害。进入“最终”形态后将变得脆弱。
+tragicmc.wiki.empariah=恩波利亚是“碰撞”中的BOSS,，通过在时间裂缝用正确的祭品召唤，，它的机制是发射连续的冰弹流，命中多次将冻结目标。在一定的时间或伤害后，它会咆哮，短暂地击昏目标并召唤随从。当随从未消失的时候，恩波利亚会获得伤害免疫。恩波利亚也将重击接近它的目标。
+tragicmc.wiki.enyvil=恩伊维尔是“碰撞”中的BOSS，通过在时间裂缝用正确的祭品召唤。它的机制是它从大多数来源受到的伤害都会大大降低，但是在短时间内受到大量的撞击会使它混乱，迫使它垂下眼睛。摧毁这只眼睛会对恩伊维尔造成巨大伤害，并迫使它进入一个“盲”状态，此时它所受的伤害比平时更大。混乱后如果不能摧毁眼睛，反而会使它进入一个“吸引”阶段，将目标拉向它，玩家将受到巨大伤害。
+tragicmc.wiki.kyutsu=克尤特苏是“碰撞”中的BOSS，通过在时间裂缝用正确的祭品召唤。它的机制是，除了在某些时候，它对大多数伤害都免疫。它将以一个“小”的状态开始，此时攻击方式为传送并向目标发射火球。把这个火球打回克尤特苏是唯一能迫使它脱离这种状态的方法，使您在它攻击您的同时伤害它。下一阶段的克尤特苏能承受更多的火球攻击。如果不能在足够快的时间内命中足够多次，它就会变回初始状态，并以正常的方式攻击你，同时免疫攻击。
+tragicmc.wiki.logos=罗格斯是“碰撞”中的BOSS，通过在时间裂缝用正确的祭品召唤。它会创造一个强大的机器人来杀死你。在进入纠缠阶段之前，它交替进行正常战斗和“旋转”阶段。在这个阶段使他它混乱将导致一个“冻结”的阶段，悖论将产生。摧毁悖论获得一个信仰增益，在一个新的buff中叠加3个结果，你将可以对罗格斯造成巨大伤害。未能防止纠缠将导致您受到致命的魔法伤害。没有获得buff将导致你从即将来临的厄运中受到伤害。
+tragicmc.wiki.minos=米诺斯是“碰撞”中的BOSS，通过在时间裂缝用正确的祭品召唤。它的机制是在某些情况下获得反射屏蔽。它在两种状态之间转换，一种是冲激状态，让它四处追逐攻击；另一种是被动状态，它站起来发射炮弹。在一定的时间或伤害之后，它会发动一次猛击，你必须使他它混乱，以防止它攻击到你并获得反射盾。使其混乱会使它在短时间内眩晕。
+tragicmc.wiki.polaris=北极星是“碰撞”中的BOSS，通过在时间裂缝用正确的祭品召唤。它的机制是它隐形并使用各种形式的魔法能力。当它接近目标攻击时，它将变得不可见，或短暂变得可见。在短暂的“躲猫猫”阶段之后，它会停止移动，召唤出一束激光来攻击你。在这个阶段，你必须使北极星混乱来防止召唤。成功混乱将使它停止隐形，并对目标施法。您必须击中它至少一次才能打破它的专注力。
+tragicmc.wiki.skeletine=斯凯莱廷是“碰撞”中的BOSS，通过在时间裂缝用正确的祭品召唤。它的机制是在主动阶段和被动阶段之间转换。主动阶段不断地用攻击来冲向目标，而被动状态则不断地逃离目标，留下枯萎的毒气和发射的炮弹。当受到足够的伤害后，它会传送一段距离，并开始一道死亡眩光，消耗生命，对目标造成严重伤害。这需要避开，但你也可以击晕它来打破它的“恍惚状态”。
+tragicmc.wiki.aegis=埃癸斯是这个小型维度的最终BOSS,可以通过空间异常点到达。埃癸斯在地牢的尽头等待着您，这个BOSS的主题是迷宫和跑酷。它的机制是利用不同功率的护盾，以及激光、猛击和炮弹，带来包罗万象的威胁。它的调节器维持着它的稳定，用外力控制它可以使它暂时关闭。它有多种状态：空闲、活动、威胁检测、待机和重置。活跃阶段是它的正常阶段，进行炮弹攻击和猛击接近它的怪物。在活动状态下失去足够的“能量”后，它将进入待机状态进行充电，释放可被收集和堆积的不稳定能量。
+tragicmc.wiki.aegis_2= 一旦它恢复到活动状态，这种不稳定的能量可以将投射物的伤害重新导向它。在造成足够多的不稳定破坏后，它的调节器会启动，迫使它进入紧急威胁控制模式。用外力控制调节器可以使其再次冷却，使其在恢复时期变得脆弱。
+tragicmc.wiki.overlord=领主在它的维度突触中是最初BOSS。击败它才能让突触的生物自然生成。它的机制是多的，因为它有三个不同的阶段。第一阶段它是茧状的，利用防火墙来保护它。这些防火墙必须尽快被击败，来使您获得杀毒增益，使你可以伤害领主。在受到足够的伤害后，它将转变为战斗形态。这个阶段会不断骚扰目标，同时它不断向目标移动，造成巨大伤害。在很短的时间后，它将开始增压。当成功中断时，它将会传递能量。使用这种力量使领主超载将触发此形态的伤害阶段。
+tragicmc.wiki.overlord_2=？
+
+tragicmc.wiki.decay=Decay is an Enchantment applied to melee weapons. It increases damage you inflict to enemies with the "Nature" attribute.
+tragicmc.wiki.hunter=Hunter is an Enchantment applied to melee weapons. It increases damage you inflict to enemies with the "Beast" attribute.
+tragicmc.wiki.exterminate=Exterminate is an Enchantment applied to melee weapons. It increases damage you inflict to enemies with the "Alien" attribute.
+tragicmc.wiki.killer=Killer is an Enchantment applied to melee weapons. It increases damage you inflict to enemies with the "Human" attribute or with no attribute.
+tragicmc.wiki.rust=Rust is an Enchantment applied to melee weapons. It increases damage you inflict to enemies with the "Artificial" attribute.
+tragicmc.wiki.hunter=Absolve is an Enchantment applied to melee weapons. It increases damage you inflict to enemies that are Corrupted.
+tragicmc.wiki.vampirism=Vampirism is an Enchantment applied to melee weapons. It restores Health when you cause damage to enemies, on a short cooldown.
+tragicmc.wiki.leech=Leech is an Enchantment applied to melee weapons. It restores Hunger when you cause damage to enemies.
+tragicmc.wiki.toxic=Toxic is an Enchantment applied to melee weapons. It inflicts Poison on enemies you attack.
+tragicmc.wiki.withering=Withering is an Enchantment applied to melee weapons. It inflicts Wither on enemies you attack.
+tragicmc.wiki.deep_cut=Deep Cut is an Enchantment applied to melee weapons. It inflicts Bleed on enemies you attack.
+tragicmc.wiki.perforate=Perforate is an Enchantment applied to melee weapons. It inflicts additional Piercing damage on each hit.
+tragicmc.wiki.runic_edge=Runic Edge is an Enchantment applied to melee weapons. It inflicts additional Magic damage on each hit.
+tragicmc.wiki.collective_aura=Collective Aura is an Enchantment applied to melee weapons. Any attack has splash damage on to enemies of the same class as the one you hit. Meaning if you attack a Zombie, nearby Zombies will take damage as well.
+tragicmc.wiki.fiery_skin=Fiery Skin is an Enchantment applied to armor. It burns targets that attack you.
+tragicmc.wiki.runic_ward=Runic Ward is an Enchantment applied to armor. It reduces Magic damage you take.
+tragicmc.wiki.layered=Layered is an Enchantment applied to armor. It reduces non-Piercing damage you take.
+tragicmc.wiki.deflection=Deflection is an Enchantment applied to armor. It reduces Laser and Shooting damage you take.
+tragicmc.wiki.unyielding=Unyielding is an Enchantment applied to armor. It reduces Corruption damage you take. This doesn't apply to Achromy interactions.
+tragicmc.wiki.reinforced=Reinforced is an Enchantment applied to armor. It reduces Melee damage you take.
+
+tragicmc.wiki.impending_doom=Impending Doom is a Potion Effect. When the effect runs out, it inflicts magic damage to you. Removing the effect by another means is the only way to avoid damage, generally by completing mechanics in an instance.
+tragicmc.wiki.submission=Submission is a Potion Effect. While the effect is active, any damage inflicted to you is magnified.
+tragicmc.wiki.inhibit=Inhibit is a Potion Effect. While the effect is active, any stat modifiers you have are negated.
+tragicmc.wiki.expose=Expose is a Potion Effect. While the effect is active, any damage taken ignores your Armor.
+tragicmc.wiki.bleed=Bleed is a Potion Effect. While the effect is active, weak damage is taken by you over time, which gradually increases. After hitting a damage cap, it resets to base damage and builds back up to the cap again.
+tragicmc.wiki.negation=Negation is a Potion Effect. While the effect is active, Abilities cannot be activated by you.
+tragicmc.wiki.exasperate=Exasperate is a Potion Effect. While the effect is active, sprinting is disabled and exhaustion is applied to you.
+tragicmc.wiki.evil_presence=Evil Presence is a Potion Effect. While the effect is active, healing is disabled for you.
+tragicmc.wiki.frozen=Frozen is a Potion Effect. While the effect is active, you are unable to move and do any block interactions. Spamming keyboard inputs and mouse clicks will break you out of this, failure to break out quickly enough will result in heavy damage when the effect runs out.
