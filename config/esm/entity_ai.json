@@ -83,7 +83,7 @@
     "minecraft:zombie": {
       "Digging": false,
       "Griefing": false,
-      "Demolition": 0.1,
+      "Demolition": 0.0,
       "Pillaring": false,
       "Infectious": true
     },

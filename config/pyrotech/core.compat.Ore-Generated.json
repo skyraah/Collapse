@@ -1,0 +1,192 @@
+{
+  "__comments": [
+    "WARNING: All changes should be made to the file with the name Custom",
+    "in the title. Changes made to the Generated file will be overwritten.",
+    "",
+    "This file defines ore compatibility.",
+    "",
+    "Slag content will be generated for each oredict entry.",
+    "",
+    "The first valid key in each langKey list will be chosen; reorder keys",
+    "to change which key is selected.",
+    "",
+    "The first valid nugget in each output list will be chosen; reorder nuggets",
+    "to change which nugget is selected.",
+    "",
+    "Slag color is a hex color code without the #",
+    "",
+    "Lang keys are in the format: (domain):(key)",
+    "",
+    "Output item strings are in the format: (domain):(path):(meta)"
+  ],
+  "oredict": {
+    "oreAluminum": {
+      "slagColor": "e2e2e3",
+      "langKey": [
+        "embers:tile.ore_aluminum",
+        "geolosys:geolosys.cluster.aluminum",
+        "immersiveengineering:tile.immersiveengineering.ore.aluminum"
+      ],
+      "output": [
+        "embers:nugget_aluminum:0",
+        "immersiveengineering:metal:21",
+        "primal:aluminum_nugget:0"
+      ]
+    },
+    "oreArdite": {
+      "slagColor": "e85e17",
+      "langKey": [
+        "tconstruct:tile.tconstruct.ore.ardite"
+      ],
+      "output": [
+        "tconstruct:nuggets:1"
+      ]
+    },
+    "oreCobalt": {
+      "slagColor": "1c5bc1",
+      "langKey": [
+        "tconstruct:tile.tconstruct.ore.cobalt"
+      ],
+      "output": [
+        "tconstruct:nuggets:0"
+      ]
+    },
+    "oreCopper": {
+      "slagColor": "ffaa1c",
+      "langKey": [
+        "embers:tile.ore_copper",
+        "geolosys:geolosys.cluster.copper",
+        "immersiveengineering:tile.immersiveengineering.ore.copper",
+        "mekanism:tile.OreBlock.CopperOre",
+        "mysticalworld:tile.copper_ore",
+        "nuclearcraft:tile.nuclearcraft.ore.copper"
+      ],
+      "output": [
+        "embers:nugget_copper:0",
+        "grimoireofgaia:shard:4",
+        "immersiveengineering:metal:20",
+        "mekanism:nugget:5",
+        "mysticalworld:copper_nugget:0",
+        "primal:copper_nugget:0"
+      ]
+    },
+    "oreGold": {
+      "slagColor": "fcee4b",
+      "langKey": [
+        "geolosys:geolosys.cluster.gold",
+        "minecraft:tile.oreGold",
+        "mist:tile.mist.gold_ore"
+      ],
+      "output": [
+        "grimoireofgaia:shard:1",
+        "minecraft:gold_nugget:0"
+      ]
+    },
+    "oreIron": {
+      "slagColor": "d8af93",
+      "langKey": [
+        "geolosys:geolosys.cluster.iron",
+        "minecraft:tile.oreIron",
+        "mist:tile.mist.iron_ore"
+      ],
+      "output": [
+        "grimoireofgaia:shard:0",
+        "immersiveengineering:metal:29",
+        "minecraft:iron_nugget:0"
+      ]
+    },
+    "oreLead": {
+      "slagColor": "95afee",
+      "langKey": [
+        "embers:tile.ore_lead",
+        "geolosys:geolosys.cluster.lead",
+        "immersiveengineering:tile.immersiveengineering.ore.lead",
+        "nuclearcraft:tile.nuclearcraft.ore.lead"
+      ],
+      "output": [
+        "embers:nugget_lead:0",
+        "immersiveengineering:metal:22",
+        "primal:lead_nugget:0"
+      ]
+    },
+    "oreNickel": {
+      "slagColor": "e4e5d8",
+      "langKey": [
+        "embers:tile.ore_nickel",
+        "geolosys:geolosys.cluster.nickel",
+        "immersiveengineering:tile.immersiveengineering.ore.nickel"
+      ],
+      "output": [
+        "embers:nugget_nickel:0",
+        "immersiveengineering:metal:24",
+        "primal:nickel_nugget:0"
+      ]
+    },
+    "oreOsmium": {
+      "slagColor": "9babc4",
+      "langKey": [
+        "geolosys:geolosys.cluster.osmium",
+        "mekanism:tile.OreBlock.OsmiumOre"
+      ],
+      "output": [
+        "mekanism:nugget:1"
+      ]
+    },
+    "orePlatinum": {
+      "slagColor": "55f3ff",
+      "langKey": [
+        "geolosys:geolosys.cluster.platinum",
+        "immersiveintelligence:tile.immersiveintelligence.ore.platinum"
+      ],
+      "output": [
+        "immersiveintelligence:material_nugget:2",
+        "primal:platinum_nugget:0"
+      ]
+    },
+    "oreSilver": {
+      "slagColor": "e8f6fd",
+      "langKey": [
+        "bewitchment:tile.bewitchment.silver_ore",
+        "embers:tile.ore_silver",
+        "geolosys:geolosys.cluster.silver",
+        "iceandfire:tile.iceandfire.silverOre",
+        "immersiveengineering:tile.immersiveengineering.ore.silver",
+        "mysticalworld:tile.silver_ore"
+      ],
+      "output": [
+        "bewitchment:silver_nugget:0",
+        "embers:nugget_silver:0",
+        "grimoireofgaia:shard:5",
+        "iceandfire:silver_nugget:0",
+        "immersiveengineering:metal:23",
+        "mysticalworld:silver_nugget:0",
+        "primal:silver_nugget:0"
+      ]
+    },
+    "oreTin": {
+      "slagColor": "c3e9ff",
+      "langKey": [
+        "embers:tile.ore_tin",
+        "geolosys:geolosys.cluster.tin",
+        "mekanism:tile.OreBlock.TinOre",
+        "nuclearcraft:tile.nuclearcraft.ore.tin"
+      ],
+      "output": [
+        "embers:nugget_tin:0",
+        "mekanism:nugget:6",
+        "primal:tin_nugget:0"
+      ]
+    },
+    "oreUranium": {
+      "slagColor": "5c734b",
+      "langKey": [
+        "geolosys:geolosys.cluster.uranium",
+        "immersiveengineering:tile.immersiveengineering.ore.uranium",
+        "nuclearcraft:tile.nuclearcraft.ore.uranium"
+      ],
+      "output": [
+        "immersiveengineering:metal:25"
+      ]
+    }
+  }
+}
