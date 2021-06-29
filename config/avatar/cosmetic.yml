@@ -1,0 +1,66 @@
+# WARNING : Any changes to this config file will not take effect!!
+# To fix this, set 'IGNORE_CONFIG_FILE: true' --> 'IGNORE_CONFIG_FILE: false'
+# This was done to prevent default values in new versions from being overriden
+# by outdated config files. By doing this, you will no longer recieve any new
+# config defaults...
+
+IGNORE_CONFIG_FILE: true
+
+activeBendingSettings:
+  bendingMenuDuration: 200
+  leftBendingHeight: 35.0
+  leftBendingWidth: 35.0
+  leftXPosition: -35
+  leftYPosition: 5
+  middleBendingHeight: 50.0
+  middleBendingWidth: 50.0
+  middleXPosition: 0
+  middleYPosition: -30
+  rightBendingHeight: 35.0
+  rightBendingWidth: 35.0
+  rightXPosition: 50
+  rightYPosition: 5
+  shouldBendingMenuDisappear: true
+  shouldBendingMenuRender: true
+airRenderSettings:
+  airBurstSphere: true
+bendingCycleAlpha: 0.75
+chiBarAlpha: 0.625
+chiBarSettings:
+  chibarDuration: 200
+  heightScale: 1.100000023841858
+  shouldChiMenuDisappear: true
+  shouldChiNumbersRender: true
+  shouldChibarRender: true
+  widthScale: 1.100000023841858
+  xPos: 115
+  yPos: 3
+displayGetBendingMessage: true
+fireRenderSettings:
+  fireB: 10
+  fireG: 50
+  fireR: 255
+  flameStrikeSphere: false
+  lightningB: 252
+  lightningG: 255
+  lightningR: 135
+  showFlameStrikeOrb: false
+  solidFlameStrikeParticles: true
+  solidFlamethrowerParticles: false
+nameConflicts: {}
+nameKeymappings: {}
+particleSettings:
+  collideWithBlocks: true
+  collideWithParticles: true
+  realisticFlashParticles: true
+  realisticLightningParticles: true
+  releaseShaderOnFlashParticleRender: true
+radialMenuAlpha: 0.75
+shaderSettings:
+  bslActive: false
+  sildursActive: false
+  useCleanseShaders: false
+  useImmolateShaders: false
+  useRestoreShaders: false
+  useSlipstreamShaders: false
+useCustomParticles: true

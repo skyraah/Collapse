@@ -28,6 +28,7 @@
         "immersiveengineering:tile.immersiveengineering.ore.aluminum"
       ],
       "output": [
+        "agricraft:agri_nugget:8",
         "embers:nugget_aluminum:0",
         "immersiveengineering:metal:21",
         "primal:aluminum_nugget:0"
@@ -62,6 +63,7 @@
         "nuclearcraft:tile.nuclearcraft.ore.copper"
       ],
       "output": [
+        "agricraft:agri_nugget:4",
         "embers:nugget_copper:0",
         "grimoireofgaia:shard:4",
         "immersiveengineering:metal:20",
@@ -90,6 +92,7 @@
         "mist:tile.mist.iron_ore"
       ],
       "output": [
+        "agricraft:agri_nugget:3",
         "grimoireofgaia:shard:0",
         "immersiveengineering:metal:29",
         "minecraft:iron_nugget:0"
@@ -104,6 +107,7 @@
         "nuclearcraft:tile.nuclearcraft.ore.lead"
       ],
       "output": [
+        "agricraft:agri_nugget:6",
         "embers:nugget_lead:0",
         "immersiveengineering:metal:22",
         "primal:lead_nugget:0"
@@ -117,6 +121,7 @@
         "immersiveengineering:tile.immersiveengineering.ore.nickel"
       ],
       "output": [
+        "agricraft:agri_nugget:9",
         "embers:nugget_nickel:0",
         "immersiveengineering:metal:24",
         "primal:nickel_nugget:0"
@@ -129,6 +134,7 @@
         "mekanism:tile.OreBlock.OsmiumOre"
       ],
       "output": [
+        "agricraft:agri_nugget:11",
         "mekanism:nugget:1"
       ]
     },
@@ -139,6 +145,7 @@
         "immersiveintelligence:tile.immersiveintelligence.ore.platinum"
       ],
       "output": [
+        "agricraft:agri_nugget:10",
         "immersiveintelligence:material_nugget:2",
         "primal:platinum_nugget:0"
       ]
@@ -154,6 +161,7 @@
         "mysticalworld:tile.silver_ore"
       ],
       "output": [
+        "agricraft:agri_nugget:7",
         "bewitchment:silver_nugget:0",
         "embers:nugget_silver:0",
         "grimoireofgaia:shard:5",
@@ -172,6 +180,7 @@
         "nuclearcraft:tile.nuclearcraft.ore.tin"
       ],
       "output": [
+        "agricraft:agri_nugget:5",
         "embers:nugget_tin:0",
         "mekanism:nugget:6",
         "primal:tin_nugget:0"
